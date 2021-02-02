@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "&nbsp;"
 output:
   html_document:
     css: [./css/Blogs.css, ./css/navbar.css, ./css/body.css]

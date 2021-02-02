@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "&nbsp;"
 output:
   html_document:
     css: [./css/Publications.css, ./css/navbar.css, ./css/body.css]
@@ -7,22 +7,25 @@ output:
       in_header: ./heros/Publications_hero.html
 ---
 
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<div style="font-size: 100px;">
+<a href="https://orcid.org/0000-0002-6607-4382" style="color: #A6CE39;"><i class="ai ai-orcid ai"></i></a>
+<a href=# style="color: black;"><i class="ai ai-google-scholar ai"></i></a>
+</div>
+
+
 # Journal Articles
-
-
-<b/>
 
 
 # R Packages
 
 
-<b/>
-
-
 # Others
-
-
-<b/>
 
 
 # Chinese Publications
