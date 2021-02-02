@@ -10,28 +10,29 @@
 }
 
 .navbar {
-  min-height: 70px;
+  min-height: 80px;
 }
 
 .navbar-brand {
   padding: 0 15px;
-  height: 70px;
-  line-height: 70px;
+  height: 80px;
+  line-height: 80px;
   margin-right: 50px;
 }
 
 .navbar-toggle {
-  /* (70px - button height 34px) / 2 = 18px */
-  margin-top: 18px;
+  /* (80px - button height 34px) / 2 = 23px */
+  margin-top: 23px;
   padding: 9px 10px !important;
 }
 
 @media (min-width: 768px) {
   .navbar-nav > li > a {
-    /* (70px - line-height of 27px) / 2 = 21.5px */
-    padding-top: 21.5px;
-    padding-bottom: 21.5px;
-    margin-right: 10px;
+    /* (80px - line-height of 27px) / 2 = 26.5px */
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+    padding-right: -5px;
+    padding-left: -5px;
     line-height: 27px;
   }
 }
@@ -43,7 +44,7 @@
 
 .navbar.navbar-default {
   background-color: white;
-  border-color: white;
+  border-bottom: 2px solid #C1C1C1;
 }
 
 .navbar.navbar-default .navbar-brand {
@@ -64,7 +65,7 @@
 .navbar.navbar-default .navbar-nav > .active > a:hover,
 .navbar.navbar-default .navbar-nav > .active > a:focus {
   color: black;
-  background-color: white;
+  background-color: #C1C1C1;
 }
 
 .navbar.navbar-default .navbar-nav > .open > a,
