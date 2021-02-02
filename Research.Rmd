@@ -1,5 +1,10 @@
 ---
 title: "Research"
+output:
+  html_document:
+    css: [./css/Research.css, ./css/navbar.css, ./css/body.css]
+    includes:
+      in_header: ./heros/Research_hero.html
 ---
 
 # Areas of Interests

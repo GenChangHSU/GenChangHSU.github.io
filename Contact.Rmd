@@ -1,17 +1,21 @@
 ---
-title: "Now it's your turn"
+title: "Contact"
 output:
   html_document:
-    toc: true
-    toc_float: true
+    css: [./css/Contact.css, ./css/navbar.css, ./css/body.css]
+    includes:
+      in_header: ./heros/Contact_hero.html
 ---
 
 <br>
 
-<center><img src="images/practicalDev_changingstuff.jpg" width="350px"></center>  
-
-
-Try changing a few things and reknitting a single page or rebuilding the whole site. Do your own thing, or here are a few things to try: 
+1.	GitHub
+2.	Facebook
+3.	Twitter
+4.	Google scholar profile
+5.	ORCID
+6.	Research gate
+7.	Email
 
 <br> 
 

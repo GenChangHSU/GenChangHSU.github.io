@@ -1,0 +1,23 @@
+.hero-image {
+    position: relative;
+    margin-bottom: 2em;
+    background-image: url(../heros/Publications.JPG); 
+    height: 400px;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+  position: relative;
+  font-size: 45px;
+  padding-bottom: 0.5em;
+  text-align: center;
+  display: block;
+  color: black;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+

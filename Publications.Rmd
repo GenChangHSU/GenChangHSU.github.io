@@ -1,11 +1,34 @@
 ---
 title: "Publications"
+output:
+  html_document:
+    css: [./css/Publications.css, ./css/navbar.css, ./css/body.css]
+    includes:
+      in_header: ./heros/Publications_hero.html
 ---
 
 # Journal Articles
 
 
+<b/>
+
+
 # R Packages
 
 
+<b/>
+
+
 # Others
+
+
+<b/>
+
+
+# Chinese Publications
+
+
+
+
+
+

@@ -11,7 +11,7 @@
 
 
 
-<title>Now it’s your turn</title>
+<title>Contact</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,12 +19,14 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<div class="hero-image"> 
+        <div class="image-text">
+          <div class="text">CONTACT</div>
+        </div>
+</div>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -81,6 +83,9 @@ h6 {
 </style>
 
 
+<link rel="stylesheet" href="css/Contact.css" type="text/css" />
+<link rel="stylesheet" href="css/navbar.css" type="text/css" />
+<link rel="stylesheet" href="css/body.css" type="text/css" />
 
 
 
@@ -261,69 +266,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -331,16 +273,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -353,12 +285,12 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Home</a>
+      <a class="navbar-brand" href="index.html">Gen-Chang Hsu</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="About.html">About</a>
+  <a href="index.html">About Me</a>
 </li>
 <li>
   <a href="Research.html">Research</a>
@@ -366,7 +298,12 @@ div.tocify {
 <li>
   <a href="Publications.html">Publications</a>
 </li>
-<li class="dropdown-header">Blogs</li>
+<li>
+  <a href="Experience.html">Experience</a>
+</li>
+<li>
+  <a href="Blogs.html">Blogs</a>
+</li>
 <li>
   <a href="Contact.html">Contact</a>
 </li>
@@ -382,16 +319,21 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Now it’s your turn</h1>
+<h1 class="title toc-ignore">Contact</h1>
 
 </div>
 
 
 <p><br></p>
-<center>
-<img src="images/practicalDev_changingstuff.jpg" width="350px">
-</center>
-<p>Try changing a few things and reknitting a single page or rebuilding the whole site. Do your own thing, or here are a few things to try:</p>
+<ol style="list-style-type: decimal">
+<li>GitHub</li>
+<li>Facebook</li>
+<li>Twitter</li>
+<li>Google scholar profile</li>
+<li>ORCID</li>
+<li>Research gate</li>
+<li>Email</li>
+</ol>
 <p><br></p>
 <div id="add-a-new-page" class="section level3">
 <h3>Add a new page</h3>
@@ -416,10 +358,61 @@ div.tocify {
 <p><a href="https://help.github.com/articles/creating-a-pull-request/">Submit a pull request</a> to <a href="https://github.com/jules32/rmarkdown-website-tutorial">this tutorial</a> and we can update it with what you learn!</p>
 </div>
 
+<div class="demo">
+  <h1> </h1>
+  <p> </p>
+</div>
+
+<div class="footer">
+  &copy; <script>document.write(new Date().getFullYear())</script> By Gen-Chang Hsu
+</div>
+
+<style>
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.demo {
+  margin: 0 auto;
+  padding-top: 100px;
+  max-width: 640px;
+  width: 94%;
+}
+
+.demo h1 {
+  margin-top: 0;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: grey;
+  text-align: center;
+  font-size: 20px;
+  height: 60px;
+  line-height: 2.0em;
+}
+</style>
 
 
-</div>
-</div>
 
 </div>
 
@@ -452,32 +445,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

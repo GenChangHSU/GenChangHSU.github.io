@@ -1,0 +1,13 @@
+---
+title: "Experience"
+output:
+  html_document:
+    css: [./css/Experience.css, ./css/navbar.css, ./css/body.css]
+    includes:
+      in_header: ./heros/Experience_hero.html
+---
+
+# Areas of Interests
+
+
+# Projects

@@ -1,0 +1,11 @@
+---
+title: "Blogs"
+output:
+  html_document:
+    css: [./css/Blogs.css, ./css/navbar.css, ./css/body.css]
+    includes:
+      in_header: ./heros/Blogs_hero.html
+---
+
+1.	EcoLogics: Thinking in Ecology
+2.	GGallery: 
