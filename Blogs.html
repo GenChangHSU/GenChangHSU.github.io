@@ -335,7 +335,20 @@ $(document).ready(function () {
 
 <div class="footer">
   &copy; 2021-<script>document.write(new Date().getFullYear())</script> Gen-Chang Hsu. Built with <a href="https://rmarkdown.rstudio.com/" style="color:#75aadb;">R Markdown</a>.
-</div>
+  
+<script type="text/javascript">
+function DateString(d){
+    function pad(n){return n<10 ? '0'+n : n}
+    return d.getUTCFullYear()+'-'
+    + pad(d.getUTCMonth()+1)+'-'
+    + pad(d.getUTCDate())
+}
+
+var d = new Date();
+document.writeln("<div style='font-size: 15px;'>");
+document.write("(Last Updated "+DateString(d)+')');
+document.writeln("</div>");
+</script>
 
 <style>
 html {
@@ -373,12 +386,12 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 2rem;
+  padding: 1.5rem;
   background-color: #234F1E;
   text-align: center;
   font-size: 16px;
   height: 70px;
-  line-height: 2.0em;
+  line-height: 1.5em;
   color: white;
 }
 </style>

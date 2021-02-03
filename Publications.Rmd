@@ -13,23 +13,112 @@ library(fontawesome)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<div style="font-size: 100px;">
-<a href="https://orcid.org/0000-0002-6607-4382" style="color: #A6CE39;"><i class="ai ai-orcid ai"></i></a>
-<a href=# style="color: black;"><i class="ai ai-google-scholar ai"></i></a>
+<style>
+.Section_link{
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  width: 180px;
+  height: 50px;
+  line-height: 2em;
+  margin-right: 5%;
+  margin-left: 5%;
+  font-family: "Open Sans";
+}
+
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 42px !important}
+   
+:target {
+    display: block;    
+    position: relative;     
+    top: -150px;
+    visibility: hidden;
+}
+</style>
+
+<div style="text-align: center">
+  <a class="Section_link btn btn-primary btn-outline btn-xs" href="#Journal Articles">
+    Journal Articles
+  </a>
+    <a class="Section_link btn btn-primary btn-outline btn-xs" href="#R Packages">
+    R Packages
+  </a>
+    <a class="Section_link btn btn-primary btn-outline btn-xs" href="#Others">
+    Others
+  </a>
 </div>
 
+<br>
+
+<div style="font-size: 100px; text-align: center">
+<a href="https://orcid.org/0000-0002-6607-4382" style="color: #A6CE39; margin-right: 2.5%; margin-left: 2.5%;"><i class="ai ai-orcid ai"></i></a>
+<a href=# style="color: black; margin-right: 2.5%; margin-left: 2.5%;"><i class="ai ai-google-scholar ai"></i></a>
+</div>
+
+<br>
+<br>
+<a id="Journal Articles">
+</a>
 
 # Journal Articles
+<br>
 
+## 2021
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<a id="R Packages"> </a>
 
 # R Packages
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+
+<a id="Others"> </a>
 
 # Others
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+```{r showChoro1, echo=FALSE}
+htmltools::includeHTML("")
+```
 
-# Chinese Publications
+<div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    <strong style="text-decoration: underline">Bimler, M.D.</strong>, Ross Cunning, Rachael A. Bay, Andrew C. Baker, Nikki Traylor-Knowles</span>
+  (2018).
+  <a href="https://baylab.github.io/publication/2018_cunning_et_al_scientific_reports/" itemprop="name">Comparative analysis of the Pocillopora damicornis genome highlights role of immune system in coral evolution</a>.
+  <em>Scientific Reports</em>.
+  
+  <p>
+<a class="btn btn-primary btn-outline btn-xs" href="https://baylab.github.io/pdf/2018_Cunning_et_al_Scientific_Reports.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+</p>
 
+</div>
 
 
 

@@ -13,11 +13,17 @@ library(fontawesome)
 
 </b>
 
-<div style="font-size:150px;">
-<a href="mailto:ymstrknp@gmail.com">`r fa("envelope")`</a>
-<span>[`r fa("github")`](https://github.com/GenChangHSU)</span>
-<span>[`r fa("twitter", fill = "#00aced")`](https://twitter.com/GenChangHSU)</span>
-<span>[`r fa("facebook-square", fill = "#3b5998")`](https://www.facebook.com/GenChangHSU/)</span>
+<div style="font-size:150px; 
+    display: inline-block;
+    display: -moz-inline-box;
+    zoom: 1;
+    width: 100%;
+    text-align: center;">
+<a href="mailto:ymstrknp@gmail.com">`r fa("envelope", fill = "#EA4335")`</a>
+<span style = "margin-left: 10%;">[`r fa("github")`](https://github.com/GenChangHSU)</span>
+<span style = "margin-left: 10%;">[`r fa("twitter", fill = "#00aced")`](https://twitter.com/GenChangHSU)</span>
+<span style = "margin-left: 10%;">[`r fa("facebook-square", fill = "#3b5998")`](https://www.facebook.com/GenChangHSU/)</span>
 </div>
 
+    
 

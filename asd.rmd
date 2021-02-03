@@ -1,0 +1,8 @@
+---
+title: "qwe"
+output: html_document
+bibliography: ./ref.bib
+csl: ./ecology.csl
+nocite: '@*'
+---
+

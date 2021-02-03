@@ -324,20 +324,68 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<div style="font-size: 100px;">
-<p><a href="https://orcid.org/0000-0002-6607-4382" style="color: #A6CE39;"><i class="ai ai-orcid ai"></i></a> <a href=# style="color: black;"><i class="ai ai-google-scholar ai"></i></a></p>
+<style>
+.Section_link{
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  width: 180px;
+  height: 50px;
+  line-height: 2em;
+  margin-right: 5%;
+  margin-left: 5%;
+  font-family: "Open Sans";
+}
+
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 42px !important}
+   
+:target {
+    display: block;    
+    position: relative;     
+    top: -150px;
+    visibility: hidden;
+}
+</style>
+<div style="text-align: center">
+<p><a class="Section_link btn btn-primary btn-outline btn-xs" href="#Journal Articles"> Journal Articles </a> <a class="Section_link btn btn-primary btn-outline btn-xs" href="#R Packages"> R Packages </a> <a class="Section_link btn btn-primary btn-outline btn-xs" href="#Others"> Others </a></p>
 </div>
+<p><br></p>
+<div style="font-size: 100px; text-align: center">
+<p><a href="https://orcid.org/0000-0002-6607-4382" style="color: #A6CE39; margin-right: 2.5%; margin-left: 2.5%;"><i class="ai ai-orcid ai"></i></a> <a href=# style="color: black; margin-right: 2.5%; margin-left: 2.5%;"><i class="ai ai-google-scholar ai"></i></a></p>
+</div>
+<p><br> <br> <a id="Journal Articles"> </a></p>
 <div id="journal-articles" class="section level1">
 <h1>Journal Articles</h1>
+<p><br></p>
+<div id="section" class="section level2">
+<h2>2021</h2>
+<p><br> <br> <br> <br> <br> <br></p>
+<p><a id="R Packages"> </a></p>
+</div>
 </div>
 <div id="r-packages" class="section level1">
 <h1>R Packages</h1>
+<p><br> <br> <br> <br> <br> <br></p>
+<p><a id="Others"> </a></p>
 </div>
 <div id="others" class="section level1">
 <h1>Others</h1>
+<p><br> <br> <br> <br> <br> <br></p>
+<pre><code>## Warning in file(con, &quot;r&quot;): file(&quot;&quot;) only supports open = &quot;w+&quot; and open = &quot;w+b&quot;:
+## using the former</code></pre>
+<div class="pub-list-item" style="margin-bottom: 1rem" itemscope="" itemtype="http://schema.org/CreativeWork">
+<p><i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i> <span itemprop="author"> <strong style="text-decoration: underline">Bimler, M.D.</strong>, Ross Cunning, Rachael A. Bay, Andrew C. Baker, Nikki Traylor-Knowles</span> (2018). <a href="https://baylab.github.io/publication/2018_cunning_et_al_scientific_reports/" itemprop="name">Comparative analysis of the Pocillopora damicornis genome highlights role of immune system in coral evolution</a>. <em>Scientific Reports</em>.</p>
+<p>
+<a class="btn btn-primary btn-outline btn-xs" href="https://baylab.github.io/pdf/2018_Cunning_et_al_Scientific_Reports.pdf" target="_blank" rel="noopener"> PDF </a>
+</p>
 </div>
-<div id="chinese-publications" class="section level1">
-<h1>Chinese Publications</h1>
 </div>
 
 <div class="demo">
@@ -347,7 +395,20 @@ $(document).ready(function () {
 
 <div class="footer">
   &copy; 2021-<script>document.write(new Date().getFullYear())</script> Gen-Chang Hsu. Built with <a href="https://rmarkdown.rstudio.com/" style="color:#75aadb;">R Markdown</a>.
-</div>
+  
+<script type="text/javascript">
+function DateString(d){
+    function pad(n){return n<10 ? '0'+n : n}
+    return d.getUTCFullYear()+'-'
+    + pad(d.getUTCMonth()+1)+'-'
+    + pad(d.getUTCDate())
+}
+
+var d = new Date();
+document.writeln("<div style='font-size: 15px;'>");
+document.write("(Last Updated "+DateString(d)+')');
+document.writeln("</div>");
+</script>
 
 <style>
 html {
@@ -385,12 +446,12 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 2rem;
+  padding: 1.5rem;
   background-color: #234F1E;
   text-align: center;
   font-size: 16px;
   height: 70px;
-  line-height: 2.0em;
+  line-height: 1.5em;
   color: white;
 }
 </style>
