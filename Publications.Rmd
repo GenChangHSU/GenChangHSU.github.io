@@ -87,13 +87,13 @@ h1 {text-align: center !important;
 <br>
 
 ## 2021
-<p>Warton, D. I., and F. K. C. Hui. 2011. The arcsine is asinine: The analysis of proportions in ecology. Ecology 92:3–10. (For Testing Only!!!)</p>
+<p><b><u>Warton, D. I.</u></b>, and F. K. C. Hui. 2011. The arcsine is asinine: The analysis of proportions in ecology. Ecology 92:3–10. (For Testing Only!!!)</p>
 <a class="External_link btn btn-primary btn-outline btn-xs" href=#>Link</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href=#>GitHub</a>
 
 <br>
 
-<p>Post, D. M. 2002. USING stable isotopes to estimate trophic position: MODELS, methods, and assumptions. Ecology 83:703–718. (For Testing Only!!!)</p>
+<p><b><u>Post, D. M.</u></b> 2002. USING stable isotopes to estimate trophic position: MODELS, methods, and assumptions. Ecology 83:703–718. (For Testing Only!!!)</p>
 <a class="External_link btn btn-primary btn-outline btn-xs" href=#>Link</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href=#>GitHub</a>
 
@@ -108,6 +108,10 @@ h1 {text-align: center !important;
 <a id="R Packages"> </a>
 
 # R Packages
+<img src="./images/PalCreatoR.png">
+  Gen-Chang Hsu and William Ou (2021). PalCreatoR: Create your own
+  R palette using colors extracted from your favorite image. R
+  package version 0.2.0. https://github.com/GenChangHSU/PalCreatoR
 <br>
 <br>
 <br>
