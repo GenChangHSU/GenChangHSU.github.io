@@ -9,8 +9,11 @@ output:
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
 library(fontawesome)
+
 ```
 
+
+<!--------------- Define the style ------------------>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 <style>
@@ -31,6 +34,15 @@ library(fontawesome)
   font-family: "Open Sans";
 }
 
+.External_link{
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 60px;
+}
+
 h1 {text-align: center !important; 
    font-weight: bold !important; 
    font-size: 42px !important}
@@ -43,6 +55,8 @@ h1 {text-align: center !important;
 }
 </style>
 
+
+<!--------------- Section link and buttons ------------------>
 <div style="text-align: center">
   <a class="Section_link btn btn-primary btn-outline btn-xs" href="#Journal Articles">
     Journal Articles
@@ -67,10 +81,22 @@ h1 {text-align: center !important;
 <a id="Journal Articles">
 </a>
 
+
+<!--------------- Publications ------------------>
 # Journal Articles
 <br>
 
 ## 2021
+<p>Warton, D. I., and F. K. C. Hui. 2011. The arcsine is asinine: The analysis of proportions in ecology. Ecology 92:3–10. (For Testing Only!!!)</p>
+<a class="External_link btn btn-primary btn-outline btn-xs" href=#>Link</a>
+<a class="External_link btn btn-primary btn-outline btn-xs" href=#>GitHub</a>
+
+<br>
+
+<p>Post, D. M. 2002. USING stable isotopes to estimate trophic position: MODELS, methods, and assumptions. Ecology 83:703–718. (For Testing Only!!!)</p>
+<a class="External_link btn btn-primary btn-outline btn-xs" href=#>Link</a>
+<a class="External_link btn btn-primary btn-outline btn-xs" href=#>GitHub</a>
+
 <br>
 <br>
 <br>
@@ -99,28 +125,4 @@ h1 {text-align: center !important;
 <br>
 <br>
 <br>
-
-```{r showChoro1, echo=FALSE}
-htmltools::includeHTML("")
-```
-
-<div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    <strong style="text-decoration: underline">Bimler, M.D.</strong>, Ross Cunning, Rachael A. Bay, Andrew C. Baker, Nikki Traylor-Knowles</span>
-  (2018).
-  <a href="https://baylab.github.io/publication/2018_cunning_et_al_scientific_reports/" itemprop="name">Comparative analysis of the Pocillopora damicornis genome highlights role of immune system in coral evolution</a>.
-  <em>Scientific Reports</em>.
-  
-  <p>
-<a class="btn btn-primary btn-outline btn-xs" href="https://baylab.github.io/pdf/2018_Cunning_et_al_Scientific_Reports.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-</p>
-
-</div>
-
-
-
-
 

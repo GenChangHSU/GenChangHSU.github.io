@@ -1,0 +1,8 @@
+---
+title: "&nbsp;"
+output: html_document
+bibliography: ./2021_Ecology_Example1.bib
+csl: ./Ecology.csl
+nocite: '@*'
+---
+
