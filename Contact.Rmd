@@ -13,7 +13,7 @@ library(fontawesome)
 
 </b>
 <div style="text-align: center;">
-Contact me by clicking the email icon below. Also find me on GitHub, Twitter, and Facebook!
+I would be glad to connect with you. Also find me on GitHub, Twitter, and Facebook!
 </div>
 
 <div style="font-size:150px; 

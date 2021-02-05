@@ -13,10 +13,9 @@
 .text {
   position: relative;
   font-size: 55px;
-  padding-bottom: 0.5em;
   text-align: center;
   display: block;
-  color: black;
+  color: white;
   font-weight: bold;
   letter-spacing: 5px;
 }
