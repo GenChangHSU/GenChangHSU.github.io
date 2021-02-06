@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: "&nbsp;"
 output:
   html_document:
     css: [./css/Experience.css, ./css/navbar.css, ./css/body.css]

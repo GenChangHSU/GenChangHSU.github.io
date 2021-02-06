@@ -16,6 +16,8 @@ library(fontawesome)
 I would be glad to connect with you. Also find me on GitHub, Twitter, and Facebook!
 </div>
 
+<div style="height: 1em;"></div>
+
 <div style="font-size:150px; 
     display: inline-block;
     display: -moz-inline-box;

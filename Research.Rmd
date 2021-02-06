@@ -7,7 +7,55 @@ output:
       in_header: ./heros/Research_hero.html
 ---
 
+<style>
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 42px !important}
+</style> 
+
+
 # Areas of Interests
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-# Projects
+
+# Research Projects
+<br>
+
+## 2021-Present
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 2015-2020
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
