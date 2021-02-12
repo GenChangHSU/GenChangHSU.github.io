@@ -7,7 +7,103 @@ output:
       in_header: ./heros/Experience_hero.html
 ---
 
-# Areas of Interests
+<style>
+h1 {text-align: center !important; 
+    font-weight: bold !important; 
+    font-size: 42px !important}
+</style>
+
+# Research Experience
+<div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
+2018-2021
+</div>
+<div style="width: 84%;">
+<b>_Undergraduate Honor Thesis_</b><br>
+Advisor: Dr. Chuan-Kai Ho <br>
+Project: Pest consumption by generalist arthropod predators increases with crop stage in both organic and conventional farms <br>
+</div>
+</div>
+
+<div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
+2018-2021
+</div>
+<div style="width: 84%;">
+<b>_Undergraduate Research Assistant_</b><br>
+PI: Dr. Chuan-Kai Ho <br>
+Project: The Strategic Development and Operation Model Trials for the   Strengthening and Completion of Form and Function of Rural Ecosystem Service ─ Quantification of the Biological Control Efficacy of Arthropod Generalist Predators in Rice Agro-ecosystems using a Stable Isotope Approach<br>
+</div>
+</div>
+
+<div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
+2017-2018
+</div>
+<div style="width: 84%;">
+<b>_Ministry of Science and Technology Undergraduate Research (No. 106-2813-C-002-163-B)_</b><br>
+Advisor: Dr. Chuan-Kai Ho <br>
+Project: Effects of experimental warming, elevated CO~2~, and drought on above- and below-ground biomass and competition of a C~3~ and a C~4~ species<br>
+</div>
+</div>
+
+<br>
+<br>
+
+# Conference Presentations
+<div style="height: 1em;"></div>
+
+## Oral Presentations
+*	<b><u>Hsu, G.C.</u></b>, J.A. Ou, and C.K. Ho. (2019, Mar.). Stable isotopes reveal trophic dynamics of generalist arthropod predators in organic and conventional rice farms. The 66th Annual Meeting of the Ecological Society of Japan, Kobe, Japan.
+
+*	<b><u>Hsu, G.C.</u></b>, J.A. Ou, and C.K. Ho. (2019, Jan.). Trophic Dynamics of Generalist Arthropod Predators in Organic and Conventional Rice Paddy Farms ─ A Stable Isotope Approach. 30th Congress of Animal Behavior and Ecology, Taipei, Taiwan.
+
+*	<b><u>Hsu, G.C.</u></b>, J.A. Ou, and C.K. Ho. (2018, Oct.). Trophic Dynamics of Arthropod Generalist Predators in Organic and Conventional Rice Paddy Farms ─ A Stable Isotope Approach. International Long-Term Ecological Research Scientific Conference, Taichung, Taiwan.
+
+<div style="height: 1em;"></div>
+
+## Poster Presentations
+*	<b><u>Hsu, G.C.</u></b>, J.A. Ou, and C.K. Ho. (2018, Nov.). Trophic Dynamics of Generalist Arthropod Predators in Organic and Conventional Rice Farms across Landscapes. 6th Taiwan-Japan Ecological Workshop, Tainan, Taiwan.
+
+*	<b><u>Hsu, G.C.</u></b>, J.A. Ou, and C.K. Ho. (2018, Mar.). Trophic Dynamics of Generalist Arthropod Predators in Organic and Conventional Rice Farms across Landscapes. The 65th Annual Meeting of the Ecological Society of Japan, Sapporo, Japan.
+
+*	<b><u>Hsu, G.C.</u></b>, J.A. Ou, and C.K. Ho. (2018, Jan.). Effects of farming practice and landscap on arthropod food web structure and biocontrol in rice paddies. 29th Congress of Animal Behavior and Ecology, Hsinchu, Taiwan.
+
+*	<b><u>Hsu, G.C.</u></b>, J.A. Ou, and C.K. Ho. (2017, Oct.). Effects of farming practice and landscape on arthropod food web structure and biocontrol in rice paddies. 39th Annual Meeting of Taiwan Entomological Society, Taichung, Taiwan.
+
+<br>
+<br>
+
+# Teaching
+<div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
+2015
+</div>
+<div style="width: 84%;">
+Summer Docent at The Museum of Zoology, National Taiwan University<br>
+</div>
+</div>
+
+<br>
+<br>
+
+# Organization and Administration
+<div style="height: 1em;"></div>
+
+* Public Talk: _A Paradigm Shift in Conservation of Public Lands for 21st Century_      
+Location: University of California, Berkeley <br>
+Date: December 4, 2019 <br>
+Speaker: Dr. Sarah Allen (US National Park Service) <br>
 
 
-# Projects
+
+
+

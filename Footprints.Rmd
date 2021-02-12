@@ -1,0 +1,48 @@
+---
+title: "&nbsp;"
+output:
+  html_document:
+    css: [./css/Footprints.css, ./css/navbar.css, ./css/body.css]
+    includes:
+      in_header: ./heros/Footprints_hero.html
+---
+
+<style>
+.card {
+  box-shadow: 0 4px 8px 0;
+  transition: 0.2s;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 12px 20px 0;
+}
+
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 42px !important}
+</style>
+
+<div style="font-size: 25px; font-family: Garamond; text-align: center;">
+“One day you'll leave this world behind. So live a life you will remember."– Avicii _The Nights_
+</div>
+
+<div style="height: 1em;"></div>
+
+<div style="text-align: center;">
+This is a map of the great experiences in my life. Never stop exploring!
+</div>
+
+<div style="height: 0.7em;"></div>
+
+<div style="width:1080px; height: 100%; margin-left: -80px;">
+<iframe src="./Map.html" style="width:100%; height: 600px; border-color: grey; border-width: 10px; border: none!important;"></iframe>
+</div>
+
+<!-- <div class="card btn" style="width:30%;"> -->
+<!--   <img src="./images/Example.JPG"> -->
+<!--   <div style="text-align: center; padding-top: 10px; font-size: 15px;"> -->
+<!--   TEST -->
+<!--   </div> -->
+<!-- </div> -->
+

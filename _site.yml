@@ -10,7 +10,9 @@ navbar:
     - text: "Publications"
       href: Publications.html
     - text: "Experience"
-      href: Experience.html      
+      href: Experience.html
+    - text: "Footprints"
+      href: Footprints.html  
     - text: "Blogs"
       href: Blogs.html
     - text: "Contact"

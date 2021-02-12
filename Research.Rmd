@@ -8,28 +8,58 @@ output:
 ---
 
 <style>
+.External_link{
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 60px;
+  background-color: #EF525B;
+}
+
 h1 {text-align: center !important; 
    font-weight: bold !important; 
    font-size: 42px !important}
+   
+:target {
+    display: block;    
+    position: relative;     
+    top: -150px;
+    visibility: hidden;
+}
 </style> 
 
-
 # Areas of Interests
+<div style="height: 1em;"></div>
+
+I have broad interests in ecology, be it theoretical or empirical, pure or applied. In particular, I am most interested in the following research topics: 
+
+<div style="height: 1em;"></div>
+
+* __Climate change ecology:__ geographical/phenological shifts and synchrony/asynchrony between interacting species, multiple stressors and ecosystem responses
+
+* __Trophic ecology:__ multi-trophic interactions and feedback/feed-forward mechanisms, food web dynamics, intra-guild predation, non-consumptive effects of predators on prey, keystone predators and community regulation, stable isotope ecology
+
+* __Species interactions:__ predator-prey/host-parasite eco-evolutionary dynamics, species competition, niche differentiation and coexistence, mutualistic relationships, above- and below-ground biotic interactions
+
+* __Community ecology:__ community assembly processes, priority effects, dispersal limitation, environmental filtering, island biogeography
+
+* __Agro-ecology:__ crop-pest-enemy dynamics and biological control, working landscapes and sustainable agriculture
+
+<div style="height: 1em;"></div>
+
+Of course, I am not limiting myself to only these areas. For me, ecology, as an encompassing discipline, should be integrative and interactive rather than fragmented and isolated. With this philosophy in mind, I am always glad to work on any ecological questions that spark my interest!
+
+<div style="height: 1em;"></div>
+
+I have over six years of experience in R programming, mainly relevant to statistical analysis as well as some ecological modeling. I am also interested in data wrangling and visualization: creating awesome ggplot2 figures brings me a great source of joy and achievement!
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 # Research Projects
-<br>
+<div style="height: 1em;"></div>
 
 ## 2021-Present
 <br>
@@ -40,22 +70,22 @@ h1 {text-align: center !important;
 
 ## 2015-2020
 <br>
+<div style="display: flex;">
+<img src="./images/Example.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
+<div style="padding-left: 40px; padding-top: 0.2em;">
+Pest consumption by generalist arthropod predators in rice agro-ecosystems <br>
+<a class="External_link btn btn-primary btn-outline btn-xs" href=#>Project</a>
+</div>
+</div>
+
 <br>
-<br>
-<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div style="display: flex;">
+<img src="./images/Example.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
+<div style="padding-left: 40px; padding-top: 0.2em;">
+Competition between a C~3~ and a C~4~ grass species under experimental warming, elevated CO~2~, and drought <br>
+<a class="External_link btn btn-primary btn-outline btn-xs" href=#>Project</a>
+</div>
+</div>
 
 

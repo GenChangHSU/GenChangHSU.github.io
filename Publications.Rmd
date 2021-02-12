@@ -21,7 +21,7 @@ library(fontawesome)
   background-color: #4CAF50;
   border: none;
   border-radius: 15px;
-  color: black;
+  color: white;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -84,7 +84,7 @@ h1 {text-align: center !important;
 
 <!--------------- Publications ------------------>
 # Journal Articles
-<br>
+<div style="height: 1em;"></div>
 
 ## 2021
 <p><b><u>Warton, D. I.</u></b>, and F. K. C. Hui. 2011. The arcsine is asinine: The analysis of proportions in ecology. Ecology 92:3–10. (For Testing Only!!!)</p>
@@ -99,28 +99,20 @@ h1 {text-align: center !important;
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 <a id="R Packages"> </a>
 
 # R Packages
-<br>
+<div style="height: 1em;"></div>
 
 <div style="display: flex;">
 <a href="https://genchanghsu.github.io/PalCreatoR/"> <img src="./images/PalCreatoR.png" style="max-width: 120px; max-height: 120px; width:auto; height:auto"> </a>
 <div style="padding-left: 40px; padding-top: 0.2em;">
-Gen-Chang Hsu and William Ou (2021). PalCreatoR: Create your own R palette using colors extracted from your favorite image. R package version 0.2.0. https://github.com/GenChangHSU/PalCreatoR
+<p><b><u>Gen-Chang Hsu</u></b> and William Ou (2021). PalCreatoR: Create your own R palette using colors extracted from your favorite image. R package version 0.2.0. https://github.com/GenChangHSU/PalCreatoR
 </div>
 </div>
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -128,7 +120,8 @@ Gen-Chang Hsu and William Ou (2021). PalCreatoR: Create your own R palette using
 <a id="Others"> </a>
 
 # Others
-<br>
+<div style="height: 1em;"></div>
+
 <br>
 <br>
 <br>

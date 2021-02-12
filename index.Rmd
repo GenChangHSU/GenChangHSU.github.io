@@ -35,11 +35,11 @@ My name is Gen-Chang Hsu. I am currently an undergraduate at the Department of L
 
 <div style="height: 1em;"></div>
 
-Fascinated by the exquisite relationships between organisms and environments, ecology has become my favorite field and I have developed broad interests in various ecological questions. I am also interested in data science and visualization. Check out my <a href="./Research.html">Research</a> page for more information!
+Fascinated by the exquisite relationships between organisms and environments, ecology has become my favorite field and I have developed broad interests in various ecological questions. I am also interested in data science. Check out my <a href="./Research.html">Research</a> page for more information!
 
 <div style="height: 1em;"></div>
 
-My undergraduate thesis, advised by Professor [Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start), focuses on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. The work was later published in the journal [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925). These research experiences have strengthened my determination to pursue a career in ecology and evolutionary biology.
+My undergraduate thesis, advised by Professor [Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start), focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. The work was later published in the journal [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925). These research experiences have strengthened my determination to pursue a career in ecology and evolutionary biology.
 
 <div style="height: 1em;"></div>
 
@@ -48,10 +48,13 @@ Outside of work, I enjoy outdoors like hiking, biking, and photography, as well 
 <br>
 
 # Education:
-BS (expected 2021), Department of Life Science, National Taiwan University.
+<div style="height: 1em;"></div>
+Bachelor of Science (expected 2021), Department of Life Science, National Taiwan University.
 
 <div style="height:2px;"></div>
 
 Visiting student (2019-2020), Department of Integrative Biology, University of California, Berkeley.
 
+<div style="height:2px;"></div>
 
+<a href="./CV_20210210.pdf">My CV</a>
