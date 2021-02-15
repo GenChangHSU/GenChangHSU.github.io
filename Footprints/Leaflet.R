@@ -5,34 +5,75 @@ library(tidyverse)
 library(magrittr)
 library(leaflet)
 library(mapview)
+library(sf)
+library(sp)
+library(rgdal)
 
 ### Base map
 Map_lf <- leaflet(options = leafletOptions(minZoom = 1, maxZoom = 12)) %>% 
   addProviderTiles(providers$Esri.NatGeoWorldMap)
 
 
-### Marker dataframe 
-Markers <- data.frame(Year = 2014, 
-                      Title = "International Biology Olympiad",
-                      Long = 115.194,
-                      Lat = -8.649,
-                      Image = "",
-                      URL = "")
+### Load in the marker data 
+Markers <- read_csv("./Footprints/Footprints.csv", col_names = T)
+
+
+### Load and merge the CA1 geodata
+file_list <- list.files("./Footprints/CA1_geodata", pattern = "*line.shp", full.names = TRUE)
+CA1_sp <- lapply(file_list, read_sf) %>% 
+  bind_rows() %>%
+  st_zm() %>%
+  as_Spatial()
 
 
 ### Add markers to the map
 Map_lf <- Map_lf %>%
-  addCircleMarkers(data = Markers) %>%
+    addCircleMarkers(data = Markers, 
+                     ~Long, 
+                     ~Lat,
+                     popup = ~paste("<img src='", 
+                                    Image, 
+                                    "'", " style='width: 200px;'>",
+                                    "<div style='width: 200px;'><a href=", 
+                                    URL, 
+                                    " style='text-decoration: none;' target='_blank'>",
+                                    "<div style='text-align: center; font-size: 16px;'>",
+                                    Year,
+                                    Title,
+                                    "</div>",
+                                    "</a></div>", 
+                                    sep = " "),
+                     label = ~paste(Year, Title),
+                     color = "red",
+                     stroke = FALSE, 
+                     fillOpacity = 0.7,
+                     clusterOptions = markerClusterOptions(showCoverageOnHover = F),
+                     labelOptions = labelOptions(style = list("font-weight" = "bold",
+                                                              "font-size" = "16px"))) %>%
+  addPolylines(data = CA1_sp,
+               popup = ~paste("<img src='", 
+                              filter(Markers, Title == "California Coast")$Image, 
+                              "'", " style='width: 200px;'>",
+                              "<div style='width: 200px;'><a href=", 
+                              filter(Markers, Title == "California Coast")$URL, 
+                              " style='text-decoration: none;' target='_blank'>",
+                              "<div style='text-align: center; font-size: 16px;'>",
+                              filter(Markers, Title == "California Coast")$Year,
+                              filter(Markers, Title == "California Coast")$Title,
+                              "</div>",
+                              "</a></div>", 
+                              sep = " "),
+               label = ~paste(filter(Markers, Title == "California Coast")$Year, 
+                              filter(Markers, Title == "California Coast")$Title),
+               fillOpacity = 0.7,
+               weight = 10,
+               labelOptions = labelOptions(style = list("font-weight" = "bold",
+                                                        "font-size" = "16px"))) %>%
   setView(0, 25, 2)
 
 
 ### Save the map
 mapshot(Map_lf, url = "Map.html")
-
-
-
-
-
 
 
 

@@ -107,7 +107,7 @@ h1 {text-align: center !important;
 <div style="height: 1em;"></div>
 
 <div style="display: flex;">
-<a href="https://genchanghsu.github.io/PalCreatoR/"> <img src="./images/PalCreatoR.png" style="max-width: 120px; max-height: 120px; width:auto; height:auto"> </a>
+<a href="https://genchanghsu.github.io/PalCreatoR/"> <img src="./Publications/PalCreatoR.png" style="max-width: 120px; max-height: 120px; width:auto; height:auto"> </a>
 <div style="padding-left: 40px; padding-top: 0.2em;">
 <p><b><u>Gen-Chang Hsu</u></b> and William Ou (2021). PalCreatoR: Create your own R palette using colors extracted from your favorite image. R package version 0.2.0. https://github.com/GenChangHSU/PalCreatoR
 </div>
