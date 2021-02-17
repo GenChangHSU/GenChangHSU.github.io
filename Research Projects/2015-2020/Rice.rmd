@@ -1,0 +1,69 @@
+---
+title: "&nbsp;"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: [../../css/Research.css, ../../css/navbar.css, ../../css/body.css]
+    includes:
+      in_header: ../../heros/Research_hero.html
+      after_body: ../../footer.html
+---
+
+<style>
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 36px !important;
+   line-height: 1.5em;}
+   
+h2 {font-weight: bold !important;} 
+   
+.External_link{
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 60px;
+}
+</style>
+
+# Diet compositions of generalist arthropod predators in rice agro-ecosystems
+
+<br>
+
+## Project Summary
+<div style="height: 0.25em;"></div>
+
+Generalist arthropod predators (GAPs) are quite common in agro-ecosystems and play a critical ecological role in food web dynamics. GAPs have been used as biocontrol agents; however, due to their polyphagous nature, these predators may feed on not only the target pests but also the alternative prey. As a result, there is much concern about whether these predators can provide effective biocontrol services.    
+
+<div style="height: 1em;"></div>
+
+To better understand the trophic interactions between GAPs and their prey, we sampled arthropod communities in rice farms in central Taiwan, 
+analyzed their stable isotope signatures, and used a Bayesian stable isotope mixing model to quantify GAPs (spiders and ladybeetles) diet from different prey sources (rice pests, tourist herbivores, detritivores).
+
+<div style="height: 1em;"></div>
+
+We found that GAPs consumed increasing proportion of rice pests in their diet over the crop season (rice pests accounted for over 90% of GAPs' diet at the ripening stage). Surprisingly, GAPs in conventional farms consumed higher proportion of rice pests in the diet than GAPs in organic farms. Moreover, we found a strong relationship between the proportion of rice pests consumed in the diet and the relative abundance of rice pests in the field, suggesting that GAPs might be able to track the density changes of their prey and increase their consumption accordingly.
+
+<div style="height: 1em;"></div>
+
+Our findings demonstrate the strong per capita pest consumption by GAPs, highlighting their great potential to exert top-down control on pest populations. Since the total effects of predators on prey depend on not only the per capita consumption but also the predator density in the field, the next step is to further examine how these two aspects interact to determine the biocontrol efficacy of GAPs in agro-ecosystems. 
+
+<br>
+
+## Publications
+<div style="height: 0.25em;"></div>
+
+<p><b><u>Warton, D. I.</u></b>, and F. K. C. Hui. 2011. The arcsine is asinine: The analysis of proportions in ecology. Ecology 92:3–10. (For Testing Only!!!)</p>
+<a class="External_link btn btn-primary btn-outline btn-xs" href=# target="_blank">Link</a>
+<a class="External_link btn btn-primary btn-outline btn-xs" href=# target="_blank">GitHub</a>
+
+
+
+
+
+
+
+
+

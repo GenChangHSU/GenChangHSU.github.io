@@ -71,20 +71,20 @@ I have over six years of experience in R programming, mainly relevant to statist
 ## 2015-2020
 <br>
 <div style="display: flex;">
-<img src="./Research Projects/2015-2020/Example.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
+<img src="./Research Projects/2015-2020/Rice.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
 <div style="padding-left: 40px; padding-top: 0.2em;">
-Pest consumption by generalist arthropod predators in rice agro-ecosystems <br>
-<a class="External_link btn btn-primary btn-outline btn-xs" href=#>Project</a>
+Diet compositions of generalist arthropod predators in rice agro-ecosystems <br>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2015-2020/Rice.html" target="_blank">Project</a>
 </div>
 </div>
 
 <br>
 
 <div style="display: flex;">
-<img src="./Research Projects/2015-2020/Example.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
+<img src="./Research Projects/2015-2020/Grass.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
 <div style="padding-left: 40px; padding-top: 0.2em;">
 Competition between a C~3~ and a C~4~ grass species under experimental warming, elevated CO~2~, and drought <br>
-<a class="External_link btn btn-primary btn-outline btn-xs" href=#>Project</a>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2015-2020/Grass.html" target="_blank">Project</a>
 </div>
 </div>
 

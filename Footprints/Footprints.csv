@@ -1,19 +1,19 @@
-Year,Title,Long,Lat,Image,URL
-2014,International Biology Olympiad,115.2225021,-8.662624364,./Footprints/2014_IBO.JPG,./index.html
-2017,Pasoh Forest Reserve,102.3132383,2.983041745,./Footprints/2017_Pasoh.JPG,./index.html
-2017,Taman Negara,102.4014958,4.799475923,./Footprints/2017_Taman Negara.JPG,./index.html
-2018,Nang-Hu Mountain Area,121.434187,24.36091401,./Footprints/2018_Nang-Hu.JPG,./index.html
-2018,Shikotsu-Toya National Park,141.3009677,42.74962247,./Footprints/2018_Shikotsu-Toya.JPG,./index.html
-2018,Annual Meetings of Ecological Society of Japan,141.3884203,43.05784005,./Footprints/2018_ESJ.png,./index.html
-2018,Muir Woods National Monument,-122.5786258,37.89726889,./Footprints/2018_Muir Woods.JPG,./index.html
-2018,California Coast,NA,NA,./Footprints/2018_California Coast.JPG,./index.html
-2018,Yosemite National Park,-119.5855951,37.74103569,./Footprints/2018_Yosemite.JPG,./index.html
-2019,"University of California, Berkeley",-122.2585614,37.87277999,./Footprints/2019_UCB.JPG,./index.html
-2019,Dujiangyan Irrigation System,103.6075523,31.0060477,./Footprints/2019_Dujiangyan.JPG,./index.html
-2019,Sichuan Jiajin Mountain,102.6852731,30.86142997,./Footprints/2019_Jiajin.JPG,./index.html
-2019,Sichuan Siguniang Mountain,102.9015934,31.11338835,./Footprints/2019_Siguniang.JPG,./index.html
-2019,Yoshino-Kumano National Park,135.8347762,33.59466844,./Footprints/2019_Yoshino-Kumano.JPG,./index.html
-2019,Annual Meetings of Ecological Society of Japan,135.2127904,34.6675041,./Footprints/2019_ESJ.png,./index.html
-2019,Wuling Quadruple Mountains Hiking Trip ,121.298459,24.42295476,./Footprints/2019_Wuling.JPG,./index.html
-2019,Don Edwards San Francisco Bay National Wildlife Refuge,-122.072944,37.53153525,./Footprints/2019_Don Edwards.JPG,./index.html
-2020,Point Reyes National Seashore,-122.9912293,38.00252303,./Footprints/2020_Point Reyes.JPG,./index.html
+Year,Title,Long,Lat,Image
+2014,International Biology Olympiad,115.2225021,-8.662624364,./Footprints/2014_IBO.JPG
+2017,Pasoh Forest Reserve,102.3132383,2.983041745,./Footprints/2017_Pasoh.JPG
+2017,Taman Negara National Park,102.4014958,4.799475923,./Footprints/2017_Taman Negara.JPG
+2018,Nang-Hu Mountain Area,121.434187,24.36091401,./Footprints/2018_Nang-Hu.JPG
+2018,Shikotsu-Toya National Park,141.3009677,42.74962247,./Footprints/2018_Shikotsu-Toya.JPG
+2018,Annual Meetings of Ecological Society of Japan,141.3884203,43.05784005,./Footprints/2018_ESJ.png
+2018,Muir Woods National Monument,-122.5786258,37.89726889,./Footprints/2018_Muir Woods.JPG
+2018,California Coast Bike Trip,NA,NA,./Footprints/2018_California Coast.JPG
+2018,Yosemite National Park,-119.5855951,37.74103569,./Footprints/2018_Yosemite.JPG
+2019,"University of California, Berkeley",-122.2585614,37.87277999,./Footprints/2019_UCB.JPG
+2019,Dujiangyan Irrigation System,103.6075523,31.0060477,./Footprints/2019_Dujiangyan.JPG
+2019,Sichuan Jiajin Mountain,102.6852731,30.86142997,./Footprints/2019_Jiajin.JPG
+2019,Sichuan Siguniang Mountain,102.9015934,31.11338835,./Footprints/2019_Siguniang.JPG
+2019,Yoshino-Kumano National Park,135.8347762,33.59466844,./Footprints/2019_Yoshino-Kumano.JPG
+2019,Annual Meetings of Ecological Society of Japan,135.2127904,34.6675041,./Footprints/2019_ESJ.png
+2019,Wuling Quadruple Mountains Hiking Trip ,121.298459,24.42295476,./Footprints/2019_Wuling.JPG
+2019,Don Edwards San Francisco Bay National Wildlife Refuge,-122.072944,37.53153525,./Footprints/2019_Don Edwards.JPG
+2020,Point Reyes National Seashore,-122.9912293,38.00252303,./Footprints/2020_Point Reyes.JPG
