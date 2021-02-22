@@ -39,7 +39,7 @@ I have broad interests in ecology, be it theoretical or empirical, pure or appli
 
 * __Climate change ecology:__ geographical/phenological shifts and synchrony/asynchrony between interacting species, multiple stressors and ecosystem responses
 
-* __Trophic ecology:__ multi-trophic interactions and feedback/feed-forward mechanisms, food web dynamics, intra-guild predation, non-consumptive effects of predators on prey, keystone predators and community regulation, stable isotope ecology
+* __Trophic ecology:__ multi-trophic interactions and feedback/feed-forward mechanisms, top-down vs. bottom-up control in food web dynamics, intra-guild predation, non-consumptive effects of predators on prey, keystone predators and community regulation, stable isotope ecology
 
 * __Species interactions:__ predator-prey/host-parasite eco-evolutionary dynamics, species competition, niche differentiation and coexistence, mutualistic relationships, above- and below-ground biotic interactions
 
