@@ -35,14 +35,13 @@ h2 {font-weight: bold !important;}
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
+TBA!!!
 
 <br>
 
 ## Publications
 <div style="height: 0.25em;"></div>
 
-<p><b><u>Warton, D. I.</u></b>, and F. K. C. Hui. 2011. The arcsine is asinine: The analysis of proportions in ecology. Ecology 92:3–10. (For Testing Only!!!)</p>
-<a class="External_link btn btn-primary btn-outline btn-xs" href=# target="_blank">Link</a>
-<a class="External_link btn btn-primary btn-outline btn-xs" href=# target="_blank">GitHub</a>
+TBA!!!
 
 
