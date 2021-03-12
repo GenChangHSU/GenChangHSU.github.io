@@ -21,9 +21,9 @@ h1 {text-align: center !important;
 2018-2021
 </div>
 <div style="width: 84%;">
-<b>_Undergraduate Honor Thesis_</b><br>
+<b>_Bachelor Degree Thesis_</b><br>
 Advisor: Dr. Chuan-Kai Ho <br>
-Project: Pest consumption by generalist arthropod predators increases with crop stage in both organic and conventional farms <br>
+Title:  <br>
 </div>
 </div>
 
