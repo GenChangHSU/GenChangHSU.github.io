@@ -4,7 +4,7 @@ navbar:
   title: "Gen-Chang Hsu"
   left:
     - text: "About Me"
-      href: index.html
+      href: About_me.html
     - text: "Research"
       href: Research.html
     - text: "Publications"

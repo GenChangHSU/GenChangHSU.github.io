@@ -28,32 +28,70 @@ h1 {text-align: center !important;
     top: -150px;
     visibility: hidden;
 }
+
+li { list-style: disc; }
+
+li li {
+  list-style: none; /* Remove default bullets */
+}
+
+li li::before {
+  content: "-"; 
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; 
+  width: 1em; 
+  margin-left: -1em; 
+}
 </style> 
 
 # Areas of Interests
 <div style="height: 1em;"></div>
 
-I have broad interests in ecology, be it theoretical or empirical, pure or applied. In particular, I am most interested in the following research topics: 
+I have broad interests in ecology, be it theoretical or empirical, pure or applied. In particular, I am most interested in the following research topics and questions: 
 
 <div style="height: 1em;"></div>
 
-* __Climate change ecology:__ geographical/phenological shifts and synchrony/asynchrony between interacting species, multiple stressors and ecosystem responses
+* __Climate change ecology:__
+  - How climate-driven geographical/phenological shifts and the resulting spatial/temporal synchrony/asynchrony affect the dynamics between interacting species
+  - How individuals, populations, and communities respond to multifaceted nature of global environmental changes—means, variations, and extremes
+  - Effects of multiple stressors (e.g., warming, drought, elevated CO~2~) on various ecological levels: physiology and behavior of organisms, population dynamics, species interactions, community structure, ecosystem functions
 
-* __Trophic ecology:__ multi-trophic interactions and feedback/feed-forward mechanisms, top-down vs. bottom-up control in food web dynamics, intra-guild predation, non-consumptive effects of predators on prey, keystone predators and community regulation, stable isotope ecology
+<div style="height: 0.1em;"></div>
 
-* __Species interactions:__ predator-prey/host-parasite eco-evolutionary dynamics, species competition, niche differentiation and coexistence, mutualistic relationships, above- and below-ground biotic interactions
+* __Trophic ecology:__ 
+  - Quantification of the relative importance of top-down vs. bottom-up effect in food web dynamics involving multi-trophic interactions and feedback/feed-forward mechanisms
+  - How within-trophic-level interactions (e.g., cannibalism, intra-guild predation) affect across-trophic-level interactions (e.g., predator-prey dynamics)
+  - Partitioning of the consumptive and non-consumptive effects of predators on prey population dynamics 
+  - Using stable isotopes to determine the resource use of consumers and the degree of intra-guild predation
+  - What factors affect the diet compositions of generalist predators—prey preference, foraging mode, prey availability, environmental conditions, etc.  
 
-* __Community ecology:__ community assembly processes, priority effects, dispersal limitation, environmental filtering, island biogeography
+<div style="height: 0.1em;"></div>
 
-* __Agro-ecology:__ crop-pest-enemy dynamics and biological control, working landscapes and sustainable agriculture
+* __Species interactions:__ 
+  - How interactions between assemblages of predators affect prey populations 
+  - Predator-induced eco-evolutionary dynamics in prey
+  - How above- and below-ground fauna cross-talk with each other
+  - Competition between C~3~ and C~4~ plants and its ecological consequences in higher trophic levels
+  - What the relative importance of abiotic and biotic factors is in determining species range limits
+
+<div style="height: 0.1em;"></div>
+
+* __Community ecology:__ 
+  - community assembly processes, priority effects, dispersal limitation, environmental filtering, island biogeography
+
+<div style="height: 0.1em;"></div>
+
+* __Agro-ecology:__ 
+  - crop-pest-enemy dynamics and biological control, 
+  - working landscapes and sustainable agriculture
 
 <div style="height: 1em;"></div>
 
-Of course, I am not limiting myself to only these areas. Ecology, as an encompassing discipline, should be integrative and interactive rather than fragmented and isolated. With this philosophy in mind, I am always open to any ecological questions that spark my interest!
+Of course, ecology, as an encompassing discipline, should be integrative and interactive rather than fragmented and isolated. I am not limiting myself to only these areas and always open to any cool ideas that spark my interests!
 
-<div style="height: 1em;"></div>
+I have over six years of experience in R programming relevant to statistical analysis and modeling. I really value these "weapons" that help me tackle the research questions and now still keep arming myself with new quantitative skills. Never stop learning!
 
-I have over six years of experience in R programming, mainly relevant to statistical analysis as well as some ecological modeling. I am also interested in data wrangling and visualization: creating awesome ggplot2 figures brings me a great source of joy and achievement!
+I am also interested in data wrangling and visualization: creating awesome ggplot2 figures for effective science communication really brings me a great source of joy and achievement!
 
 <br>
 <br>

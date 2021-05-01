@@ -23,7 +23,8 @@ h1 {text-align: center !important;
 <div style="width: 84%;">
 <b>_Bachelor Degree Thesis_</b><br>
 Advisor: Dr. Chuan-Kai Ho <br>
-Title:  <br>
+Title: Using Stable Isotopes (δ^13^C and δ^15^N) to Quantify the Diet Compositions of Generalist Arthropod Predators in Organic and Conventional Rice Farms <br>
+(Thesis successfully defended on April 26, 2021)
 </div>
 </div>
 

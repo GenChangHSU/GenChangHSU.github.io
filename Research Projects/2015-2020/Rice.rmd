@@ -35,20 +35,19 @@ h2 {font-weight: bold !important;}
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
-Generalist arthropod predators (GAPs) are quite common in agro-ecosystems and play a critical ecological role in food web dynamics. GAPs have been used as biocontrol agents; however, due to their polyphagous nature, these predators may feed on not only the target pests but also the alternative prey. As a result, there is much concern about whether these predators can provide effective biocontrol services.    
+Generalist arthropod predators (GAPs) are quite common in agro-ecosystems and play a critical ecological role in food web dynamics. GAPs have been used as biocontrol agents; however, due to their polyphagous nature, these predators may feed on not only the target pests but also the alternative prey. As a result, there is much concern about whether these predators can provide effective biocontrol services in agricultural systems, and such concern necessitates a better understanding of the trophic interactions between GAPs and their prey in the field.    
+
+<div style="height: 1em;"></div>
+We sampled arthropod communities in rice farms in central Taiwan, 
+analyzed their stable isotope signatures, and used the Bayesian stable isotope mixing model to quantify the diet compositions of GAPs (spiders and ladybeetles) from different prey sources (rice pests, tourist herbivores, detritivores).
 
 <div style="height: 1em;"></div>
 
-To better understand the trophic interactions between GAPs and their prey, we sampled arthropod communities in rice farms in central Taiwan, 
-analyzed their stable isotope signatures, and used a Bayesian stable isotope mixing model to quantify GAPs (spiders and ladybeetles) diet from different prey sources (rice pests, tourist herbivores, detritivores).
+We found that GAPs in both organic and conventional farms consumed increasing proportion of rice pests in their diet over the crop season (rice pests accounted for over 90% of GAPs' diet at the ripening stage). Surprisingly, our results show that GAPs in conventional farms consumed higher proportion of rice pests in the diet compared with GAPs in organic farms. Moreover, we also found a positive relationship between the relative abundance of rice pests in the field and the proportion of rice pests consumed in GAPs' diet. This suggests that GAPs can increase the consumption on pests when pest populations build up.
 
 <div style="height: 1em;"></div>
 
-We found that GAPs consumed increasing proportion of rice pests in their diet over the crop season (rice pests accounted for over 90% of GAPs' diet at the ripening stage). Surprisingly, GAPs in conventional farms consumed higher proportion of rice pests in the diet than GAPs in organic farms. Moreover, we found a strong relationship between the proportion of rice pests consumed in the diet and the relative abundance of rice pests in the field, suggesting that GAPs might be able to track the density changes of their prey and increase their consumption accordingly.
-
-<div style="height: 1em;"></div>
-
-Our findings demonstrate the strong per capita pest consumption by GAPs, highlighting their great potential to exert top-down control on pest populations. Since the total effects of predators on prey depend on not only the per capita consumption but also the predator density in the field, the next step is to further examine how these two aspects interact to determine the biocontrol efficacy of GAPs in agro-ecosystems. 
+Our findings demonstrate the strong per capita consumption effect of GAPs on pests, highlighting their promising potential as biocontrol agents.  Since the total effects of predators on prey populations depend on not only the per capita consumption effect but also the density and diversity of predators in the field, the next important step is to combine multiple approaches (e.g., field observations, manipulative experiments, molecular gut content analysis) to clarify the link between these two aspects so that we can gain a deeper insight into the complex predator-prey trophic dynamics in agro-ecosystems. 
 
 <br>
 

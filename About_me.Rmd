@@ -1,0 +1,60 @@
+---
+title: "&nbsp;"
+output:
+  html_document:
+    css: [./css/index.css, ./css/navbar.css, ./css/body.css]
+    includes:
+      in_header: ./heros/index_hero.html
+---
+
+<style>
+h1 {font-weight: bold !important; 
+    font-size: 42px !important}
+</style>   
+
+
+<div style="display: flex;">
+
+<img src="./images/Personal photo.JPG" style="max-width: 300px; max-height: 400px; width:auto; height:auto; margin-top: 20px;">
+
+<div style="padding-left: 40px; width: 800px">
+
+<div style="height: 50px;">
+<h1 style="text-align: center; font-style: italic;">Welcome to my website!</h1>
+</div>
+
+<div style="height: 1em;"></div>
+
+<div style="padding-left: 40px;">
+My name is Gen-Chang Hsu. I am currently an undergraduate at the Department of Life Science, National Taiwan University. I sprouted my interests in biology since high school, during which I have been participating in the [2014 International Biology Olympiad](https://www.ibo-info.org/en/contest/past-ibos.html){target="_blank"} and awarded a gold medal.
+</div>
+
+</div>
+
+</div>
+
+<div style="height: 1em;"></div>
+
+Fascinated by the exquisite relationships between organisms and environments, ecology has become my favorite field and I have developed broad interests in various ecological questions. I am also interested in data science. Check out my <a href="./Research.html">Research</a> page for more information!
+
+<div style="height: 1em;"></div>
+
+My Bachelor's thesis, advised by Professor [Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. I have successfully defended my thesis and the work has later been published in the journal [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925){target="_blank"}. These research experiences have strengthened my determination to pursue a career in ecology and evolutionary biology.
+
+<div style="height: 1em;"></div>
+
+Outside of work, I enjoy outdoors like hiking, biking, and photography, as well as table tennis and cooking. Traveling around the world is my lifetime goal.
+
+<br>
+
+# Education:
+<div style="height: 1em;"></div>
+Bachelor of Science (expected 2021), Department of Life Science, National Taiwan University.
+
+<div style="height:2px;"></div>
+
+Visiting student (2019-2020), Department of Integrative Biology, University of California, Berkeley.
+
+<div style="height:2px;"></div>
+
+<a href="./CV_20210430.pdf" target="_blank">My CV</a>
