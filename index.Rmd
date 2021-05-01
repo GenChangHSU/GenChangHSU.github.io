@@ -29,7 +29,7 @@ h1 {font-weight: bold !important;
 <div style="width:1226px; height: 100%; margin-left: -158px; margin-bottom: -195px;">
 <img src="./images/Homepage.JPG">
 
-<div class="bottom-left">Rooting Deep and Stretching High</div>
+<div class="bottom-left">Rooting Deep before Stretching High</div>
 
 </div>
 

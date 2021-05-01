@@ -77,19 +77,20 @@ I have broad interests in ecology, be it theoretical or empirical, pure or appli
 <div style="height: 0.1em;"></div>
 
 * __Community ecology:__ 
-  - community assembly processes, priority effects, dispersal limitation, environmental filtering, island biogeography
+  - Drivers of community assembly processes—priority effects, dispersal limitation, environmental filtering, biotic interactions
+  - Island biogeography in urban and agro-ecosystems—species dynamics in habitat patches within highly disturbed matrix
 
 <div style="height: 0.1em;"></div>
 
 * __Agro-ecology:__ 
-  - crop-pest-enemy dynamics and biological control, 
-  - working landscapes and sustainable agriculture
+  - How climate changes affect crop-pest-enemy multi-trophic dynamics and biological control 
+  - Habitat manipulation and agricultural practices to enhance ecosystem services in agro-ecosystems
 
 <div style="height: 1em;"></div>
 
-Of course, ecology, as an encompassing discipline, should be integrative and interactive rather than fragmented and isolated. I am not limiting myself to only these areas and always open to any cool ideas that spark my interests!
+Ecology, as an encompassing discipline, should be integrative and interactive rather than fragmented and isolated. I am not limiting myself to only these areas and always open to any cool ideas that spark my interests!
 
-I have over six years of experience in R programming relevant to statistical analysis and modeling. I really value these "weapons" that help me tackle the research questions and now still keep arming myself with new quantitative skills. Never stop learning!
+I have over six years of experience in R programming relevant to statistical analysis and modeling. I really value these "weapons", which give me the ability to tackle the research questions I would like to answer. Now I still keep arming myself with new quantitative skills. Never stop learning!
 
 I am also interested in data wrangling and visualization: creating awesome ggplot2 figures for effective science communication really brings me a great source of joy and achievement!
 
