@@ -26,7 +26,7 @@ h1 {font-weight: bold !important;
 <div style="height: 1em;"></div>
 
 <div style="padding-left: 40px;">
-My name is Gen-Chang Hsu. I am currently an undergraduate at the Department of Life Science, National Taiwan University. I sprouted my interests in biology since high school, during which I have been participating in the [2014 International Biology Olympiad](https://www.ibo-info.org/en/contest/past-ibos.html){target="_blank"} and awarded a gold medal.
+My name is Gen-Chang Hsu, an undergraduate at the Department of Life Science, National Taiwan University. I sprouted my interests in biology since high school, during which I have been participating in the [2014 International Biology Olympiad](https://www.ibo-info.org/en/contest/past-ibos.html){target="_blank"} and awarded a gold medal.
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Fascinated by the exquisite relationships between organisms and environments, ec
 
 <div style="height: 1em;"></div>
 
-My Bachelor's thesis, advised by Professor [Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. I have successfully defended my thesis and the work has later been published in the journal [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925){target="_blank"}. These research experiences have strengthened my determination to pursue a career in ecology and evolutionary biology.
+My Bachelor's thesis, advised by Professor [Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. I have successfully defended my thesis and the work has later been published in the journal [*Ecosphere*](https://esajournals.onlinelibrary.wiley.com/journal/21508925){target="_blank"}. These research experiences have strengthened my determination to pursue a career in ecology and evolutionary biology.
 
 <div style="height: 1em;"></div>
 

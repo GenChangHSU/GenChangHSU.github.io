@@ -26,7 +26,7 @@ h1 {font-weight: bold !important;
 
 </style>   
 
-<div style="width:1226px; height: 100%; margin-left: -158px; margin-bottom: -195px;">
+<div style="width:1226px; height: 100%; margin-left: -158px; margin-bottom: -195px; margin-top: -2em">
 <img src="./images/Homepage.JPG">
 
 <div class="bottom-left">Rooting Deep before Stretching High</div>

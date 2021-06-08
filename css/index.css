@@ -1,6 +1,7 @@
 .hero-image {
     position: relative;
     margin-bottom: 2em;
+    margin-top: -2em;
     background-image: url(../heros/index.JPG); 
     height: 400px;
     background-size: cover;
