@@ -76,10 +76,11 @@ h1 {text-align: center !important;
 <a href=# target="_blank" style="color: black; margin-right: 2.5%; margin-left: 2.5%;"><i class="ai ai-google-scholar ai"></i></a>
 </div>
 
-<br>
+<hr>
 <br>
 <a id="Journal Articles">
 </a>
+
 
 
 <!--------------- Publications ------------------>
