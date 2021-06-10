@@ -99,8 +99,8 @@ h1 {text-align: center !important;
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href=# target="_blank">GitHub</a> -->
 
 <br>
+<hr>
 <br>
-
 
 <a id="R Packages"> </a>
 
@@ -115,8 +115,8 @@ h1 {text-align: center !important;
 </div>
 
 <br>
+<hr>
 <br>
-
 
 <a id="Others"> </a>
 

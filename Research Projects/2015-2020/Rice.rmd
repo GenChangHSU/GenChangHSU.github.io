@@ -28,7 +28,7 @@ h2 {font-weight: bold !important;}
 }
 </style>
 
-# Diet compositions of generalist arthropod predators in rice agro-ecosystems
+# Quantifying the diet compositions of generalist arthropod predators in rice agro-ecosystems
 
 <br>
 
@@ -54,7 +54,7 @@ Our findings demonstrate the strong per capita consumption effect of GAPs on pes
 ## Publications
 <div style="height: 0.25em;"></div>
 
-TBA!!!
+In press!!!
 
 
 

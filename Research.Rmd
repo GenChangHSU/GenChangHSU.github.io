@@ -95,6 +95,7 @@ I have over six years of experience in R programming relevant to statistical ana
 I am also interested in data wrangling and visualization: creating awesome ggplot2 figures for effective science communication really brings me a great source of joy and achievement!
 
 <br>
+<hr>
 <br>
 
 # Research Projects
@@ -114,7 +115,7 @@ I am also interested in data wrangling and visualization: creating awesome ggplo
 <div style="display: flex;">
 <img src="./Research Projects/2015-2020/Rice.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
 <div style="padding-left: 40px; padding-top: 0.2em;">
-Diet compositions of generalist arthropod predators in rice agro-ecosystems <br>
+Quantifying the diet compositions of generalist arthropod predators in rice agro-ecosystems <br>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2015-2020/Rice.html" target="_blank">Project</a>
 </div>
 </div>

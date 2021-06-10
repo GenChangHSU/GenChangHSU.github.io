@@ -35,13 +35,13 @@ h2 {font-weight: bold !important;}
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
-TBA!!!
+Currently reanalyzing the data. Stay tuned!!!
 
 <br>
 
 ## Publications
 <div style="height: 0.25em;"></div>
 
-TBA!!!
+Currently reanalyzing the data. Stay tuned!!!
 
 
