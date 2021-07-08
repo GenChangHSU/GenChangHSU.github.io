@@ -1,1 +1,1 @@
-Welcome to my website. Explore more [here](https://genchanghsu.github.io/) !
+Welcome to my website. Explore more [here](https://genchanghsu.github.io/)!
