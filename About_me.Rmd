@@ -26,7 +26,7 @@ h1 {font-weight: bold !important;
 <div style="height: 1em;"></div>
 
 <div style="padding-left: 40px;">
-I am Gen-Chang Hsu, a recently graduated student at Department of life Science, National Taiwan University. I sprouted my interests in biology since high school, during which I have been participating in the [2014 International Biology Olympiad](https://www.ibo-info.org/en/contest/past-ibos.html){target="_blank"} and awarded a gold medal.
+I am Gen-Chang Hsu, a recently graduated student at the Department of life Science, National Taiwan University. I sprouted my interests in biology since high school, during which I have been participating in the [2014 International Biology Olympiad](https://www.ibo-info.org/en/contest/past-ibos.html){target="_blank"} and awarded a gold medal.
 </div>
 
 </div>
