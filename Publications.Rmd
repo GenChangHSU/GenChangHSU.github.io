@@ -73,7 +73,7 @@ h1 {text-align: center !important;
 
 <div style="font-size: 100px; text-align: center">
 <a href="https://orcid.org/0000-0002-6607-4382" target="_blank" style="color: #A6CE39; margin-right: 2.5%; margin-left: 2.5%;"><i class="ai ai-orcid ai"></i></a>
-<a href=# target="_blank" style="color: black; margin-right: 2.5%; margin-left: 2.5%;"><i class="ai ai-google-scholar ai"></i></a>
+<a href="https://scholar.google.com/citations?user=NJ5CFXkAAAAJ&hl=en" target="_blank" style="color: black; margin-right: 2.5%; margin-left: 2.5%;"><i class="ai ai-google-scholar ai"></i></a>
 </div>
 
 <hr>
@@ -88,15 +88,16 @@ h1 {text-align: center !important;
 <div style="height: 1em;"></div>
 
 ## 2021
-<!-- <p><b><u>Warton, D. I.</u></b>, and F. K. C. Hui. 2011. The arcsine is asinine: The analysis of proportions in ecology. Ecology 92:3–10. (For Testing Only!!!)</p> -->
-<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href=# target="_blank">Link</a> -->
-<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href=# target="_blank">GitHub</a> -->
+<p><b><u>Hsu, G. C.</u></b>, J. A. Ou, and C. K. Ho. 2021. Pest consumption by generalist arthropod predators increases with crop stage in both organic and conventional farms. <i>Ecosphere</i> 12:e03625. https://doi.org/10.1002/ecs2.3625</p>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2021_Ecosphere.pdf" target="_blank">PDF</a>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2021_Pest_Consumption_by_Generalist_Arthropod_Predators_in_Rice_Farms" target="_blank">GitHub</a>
 
 <!-- <br> -->
 
-<!-- <p><b><u>Post, D. M.</u></b> 2002. USING stable isotopes to estimate trophic position: MODELS, methods, and assumptions. Ecology 83:703–718. (For Testing Only!!!)</p> -->
-<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href=# target="_blank">Link</a> -->
-<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href=# target="_blank">GitHub</a> -->
+<!-- <p><b><u>Hsu, G. C.</u></b>, J. A. Ou, and C. K. Ho. 2021. Pest consumption by generalist arthropod predators increases with crop stage in both organic and conventional farms. Ecosphere 12:e03625.</p> -->
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1002/ecs2.3625" target="_blank">Link</a> -->
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2021_Pest_Consumption_by_Generalist_Arthropod_Predators_in_Rice_Farms" target="_blank">GitHub</a> -->
+
 
 <br>
 <hr>

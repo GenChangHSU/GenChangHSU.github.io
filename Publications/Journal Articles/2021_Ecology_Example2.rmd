@@ -1,8 +1,0 @@
----
-title: "&nbsp;"
-output: html_document
-bibliography: ./2021_Ecology_Example2.bib
-csl: ./Ecology.csl
-nocite: '@*'
----
-
