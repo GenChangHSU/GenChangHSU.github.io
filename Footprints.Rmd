@@ -19,8 +19,8 @@ h1 {text-align: center !important;
 
 <div style="height: 1em;"></div>
 
-<div style="text-align: center;">
-This is a map of the great experiences in my life. Never stop exploring!
+<div style="width:1080px; margin-left: -80px; text-align: center;">
+This is a map of the great experiences in my life. Be inquisitive and never stop exploring!
 </div>
 
 <div style="height: 0.7em;"></div>
