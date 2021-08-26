@@ -6,6 +6,29 @@ output:
 ---
 
 <style>
+
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+
+body {
+   margin: 0px;
+   min-height: 100%;
+   width: 100%;
+}
+
+.main-container {
+  max-width: 100%;
+}
+
+.container-fluid {
+   padding-left: 0px;
+  padding-right: 0px;
+}
+
+
 h1 {font-weight: bold !important; 
     font-size: 42px !important}
     
@@ -26,7 +49,7 @@ h1 {font-weight: bold !important;
 
 </style>   
 
-<div style="width:1349px; height: 100%; margin-left: -220px; margin-bottom: -195px; margin-top: -4em">
+<div style="width: 100%; height: 100%; margin-left: 0px; margin-bottom: -195px; margin-top: -4em">
 <img src="./images/Homepage.JPG">
 
 <div class="bottom-left">Rooting Deep before Stretching High</div>

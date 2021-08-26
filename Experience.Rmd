@@ -83,6 +83,21 @@ Title: Effects of experimental warming, elevated CO~2~, and drought on above- an
 <hr>
 <br>
 
+# Teaching
+<div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
+2021 Fall
+</div>
+<div style="width: 84%;">
+Teaching Assistant for *Introduction to Theoretical Ecology* at National Taiwan University ([Course website]())<br>
+</div>
+</div>
+<br>
+<hr>
+<br>
+
 # Social Involvement
 <div style="height: 1em;"></div>
 
