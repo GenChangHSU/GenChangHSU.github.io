@@ -44,7 +44,7 @@ li li::before {
 }
 </style> 
 
-# Areas of Interests
+# Areas of Interest
 <div style="height: 1em;"></div>
 
 I have broad interests in ecology, be it theoretical or empirical, pure or applied. In particular, I am most interested in the following research topics and questions: 
