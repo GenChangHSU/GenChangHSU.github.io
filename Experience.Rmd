@@ -103,7 +103,7 @@ Title: Effects of experimental warming, elevated CO~2~, and drought on above- an
 2021 Fall
 </div>
 <div style="width: 84%;">
-Teaching Assistant for *Introduction to Theoretical Ecology* at National Taiwan University $~$ <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2021_Ecosphere.pdf" target="_blank">Website</a> <br>
+Teaching Assistant for *Introduction to Theoretical Ecology* at National Taiwan University $~$ <a class="External_link btn btn-primary btn-outline btn-xs" href="https://genchanghsu.github.io/2021_Fall_Introduction_to_Theoretical_Ecology/" target="_blank">Website</a> <br>
 </div>
 </div>
 <br>
