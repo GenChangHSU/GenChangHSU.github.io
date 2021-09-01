@@ -57,4 +57,4 @@ Visiting student (2019-2020), Department of Integrative Biology, University of C
 
 <div style="height:2px;"></div>
 
-My <a href="./CV_Full_20210430.pdf" target="_blank">CV</a>
+<!-- My <a href="./CV.pdf" target="_blank">CV</a> -->
