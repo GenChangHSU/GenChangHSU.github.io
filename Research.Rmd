@@ -47,26 +47,25 @@ li li::before {
 # Areas of Interest
 <div style="height: 1em;"></div>
 
-I am most interested in topics related to species interactions. To put it in a broad context, I would like to adopt **multiple approaches** (observational, experimental, and modeling) to examine how **multiple drivers** (abotic and biotic) affect **multi-trophic interactions** (primary producer, herbivore, predator, and parasitoid), and how these effects scale up over **multiple biological organizations** (individual, population, community, ecosystem) and across **multiple temporal and spatial levels** (organismal, ecological, evolutionary). 
+I have broad interests in topics related to species interactions. To put it in a broad context, I would like to adopt **multiple approaches** (observational, experimental, and modeling) to examine how **multiple drivers** (abotic and biotic) affect **multi-trophic interactions** (primary producer, herbivore, predator, parasitoid, detritivore, and decomposer), and how these effects may scale up to influence the properties at **multiple biological levels of organization** (individual, population, community, and ecosystem) and over **multiple temporal and spatial scales** (organismal, ecological, and evolutionary; local, regional, geographical, and global). 
 
-Here are some of the research directions/questions I would like to work on in the future:
+Below are some of the research directions/questions I am especially interested in working on:
 
 <div style="height: 0.5em;"></div>
 
 * __Species Interactions and Trophic Ecology:__ 
   - Quantifying the relative importance of top-down vs. bottom-up forces in governing the dynamics of food webs involving multi-trophic interactions and feedback/feed-forward processes
-  - How within-trophic-level interactions (e.g., cannibalism, intra-guild predation and omnivory) alter among-trophic-level interactions (e.g., predator-prey interactions)
-  - What factors affect the resource use and diet compositions of generalist predators—developmental stage, prey preference, foraging mode, prey availability, environmental conditions, etc.   
-  - How assemblages of predators interact to exert consumptive and non-consumptive effects on prey and subsequently influence predator-prey eco-evolutionary dynamics 
+  - How within-trophic-level interactions (e.g., competition and intra-guild predation) affect among-trophic-level interactions (e.g., plant-herbivore and predator-prey) as well as their ecological consequences for population dynamics
+  - What factors determine the resource use and diet compositions of generalist predators—developmental stage, prey preference, foraging mode, prey availability, inter- and intra-specific competition, environmental conditions, etc.   
+  - How assemblages of predators interact to exert consumptive and non-consumptive effects on prey and subsequently influence predator-prey eco-evolutionary dynamics, and how the relative importance of consumptive vs. non-consumptive effects varies with abiotic and biotic conditions. 
 
 <div style="height: 1em;"></div>
 
 * __Climate Change Ecology:__
-  - Competition between C~3~ and C~4~ plants in response to environmental changes and its ecological consequences for higher trophic levels
-  - How climate-driven phenological/geographical shifts and the resulting spatial/temporal synchrony/asynchrony influence the population dynamics of interacting species
-  - How individuals, populations, and communities respond to multi-faceted nature of environmental changes (means, variations, and extremes)
-  - Effects of multiple stressors (e.g., warming, drought, elevated CO~2~) on the physiology and behavior of organisms, intra- and inter-specific interactions, species abundances and distributions, community structure, ecosystem functions, etc.
+  - How multiple stressors (e.g., warming, drought, and elevated CO~2~) affect the performance of organisms, both directly via physiological/behavioral/functional traits and indirectly via species interactions, and how these effects scale up to influence the abundance and distribution, spatial patterns, food web structure, community composition, ecosystem productivity and biogeochemical cycling, etc.
+  - How climate-driven phenological/geographical shifts and the resulting temporal/spatial synchrony/asynchrony influence the population dynamics of interacting species
   - Comparing the performance and fitness of generalists vs. specialists under changing environments
+  - The effects of multi-faceted nature of climate change—changes in mean conditions, variations, and the frequency of extremes—on biological responses
   
 <div style="height: 1em;"></div>
 
@@ -76,9 +75,10 @@ Here are some of the research directions/questions I would like to work on in th
 
 <div style="height: 1em;"></div>
 
-* __Agro-ecology:__ 
+* __Agro-ecology and Conservation Biology:__ 
   - How environmental changes (e.g., warming) affect crop-pest-enemy dynamics and biological control 
-  - Designing management schemes (e.g., habitat manipulation) to enhance ecosystem services/reduce ecosystem dis-services in agro-ecosystems
+  - Manipulating habitats to enhance ecosystem services and reduce ecosystem dis-services in agro-ecosystems
+  - Designing better management schemes to facilitate species conservation, habitat protection (climate-change refugia), and invasive species regulation in relation to climate changes and human-induced threats 
 
 <div style="height: 1em;"></div>
 
