@@ -78,7 +78,7 @@ Below are some of the research directions/questions I am especially interested i
 * __Agro-ecology and Conservation Biology:__ 
   - How environmental changes (e.g., warming) affect crop-pest-enemy dynamics and biological control 
   - Manipulating habitats to enhance ecosystem services and reduce ecosystem dis-services in agro-ecosystems
-  - Designing better management schemes to facilitate species conservation, habitat protection (climate-change refugia), and invasive species regulation in relation to climate changes and human-induced threats 
+  - Designing better management schemes to facilitate species conservation, habitat protection (climate-change refugia and ecological hotspots), and invasive species regulation in relation to climate changes and human-induced threats 
 
 <div style="height: 1em;"></div>
 
