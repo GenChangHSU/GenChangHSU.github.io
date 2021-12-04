@@ -32,10 +32,15 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-* __Agroecology and Conservation Biology:__ 
-  - How environmental changes (e.g., warming) affect crop-pest-enemy dynamics and biological control 
-  - Manipulating habitats to enhance ecosystem services and reduce ecosystem dis-services in agro-ecosystems
-  - Designing better management schemes to facilitate species conservation, habitat protection (climate-change refugia and ecological hotspots), and invasive species regulation in relation to climate changes and human-induced threats 
+* Effects of environmental changes (e.g., warming and drought) on crop-pest-enemy dynamics and biological control
+
+<div style="height: 0.1em;"></div>
+
+* Habitat manipulations to enhance ecosystem services (e.g., pollination) and reduce ecosystem dis-services (e.g., pest damage) in agricultural field
+
+<div style="height: 0.1em;"></div>
+
+* Designing management schemes for species conservation and habitat protection (e.g., climate-change refugia and ecological hotspots) under climate change and anthropogenic threats
 
 
 

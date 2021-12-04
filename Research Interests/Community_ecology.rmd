@@ -32,9 +32,11 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-* __Community Ecology:__ 
-  - Quantifying the relative importance of abiotic and biotic dirvers (e.g., priority effects, dispersal limitation, environmental filtering, biotic interactions) in determining species distributions and community structure
-  - Island biogeography in urban and agro-ecosystems—species dynamics in habitat patches embedded within highly-disturbed matrix
+* Relative importance of abiotic and biotic mechanisms (e.g., environmental filtering, priority effects, dispersal limitation, biotic interactions) in determining species abundances and distributions
+
+<div style="height: 0.1em;"></div>
+
+* Island biogeography in alpine, urban, and agro-ecosystems—patchy habitats and metacommunity dynamics
 
 
 

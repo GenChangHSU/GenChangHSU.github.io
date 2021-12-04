@@ -32,11 +32,20 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-* __Species Interactions and Trophic Ecology:__ 
-  - Quantifying the relative importance of top-down vs. bottom-up forces in governing the dynamics of food webs involving multi-trophic interactions and feedback/feed-forward processes
-  - How within-trophic-level interactions (e.g., competition and intra-guild predation) affect among-trophic-level interactions (e.g., plant-herbivore and predator-prey) as well as their ecological consequences for population dynamics
-  - What factors determine the resource use and diet compositions of generalist predators—developmental stage, prey preference, foraging mode, prey availability, inter- and intra-specific competition, environmental conditions, etc.   
-  - How assemblages of predators interact to exert consumptive and non-consumptive effects on prey and subsequently influence predator-prey eco-evolutionary dynamics, and how the relative importance of consumptive vs. non-consumptive effects varies with abiotic and biotic conditions. 
+* Resource use and diet compositions of generalist predators—developmental stage, prey preference, foraging mode, prey availability, inter- and intra-specific competition, environmental conditions, etc.   
+
+<div style="height: 0.1em;"></div>
+
+* Consumptive vs. non-consumptive effects of predators on prey and the consequences for predator-prey eco-evolutionary dynamics
+
+<div style="height: 0.1em;"></div>
+
+* Relative strengths of top-down (predation, herbivory) vs. bottom-up forces (resource pulses, plant defense) in governing food web dynamics
+
+<div style="height: 0.1em;"></div>
+
+* Interplay between within-trophic-level interactions (e.g., competition and intraguild predation) and among-trophic-level interactions (e.g., herbivory and predation)
+
 
 
 
