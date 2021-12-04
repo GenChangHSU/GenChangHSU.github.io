@@ -47,7 +47,7 @@ li li::before {
 # Areas of Interest
 <div style="height: 1em;"></div>
 
-I have broad interests in both basic and applied ecology: species interactions, food webs, community dynamics, climate change ecology, agroecology, conservation, etc. Click the images below to learn more about the research areas/questions I am especially interested in:
+I have broad interests in species interactions, food webs, community dynamics, and climate change ecology, as well as applied ecology such as agroecology and conservation biology. Click the images below to learn more about some of the research topics/questions I am interested in:
 
 <div style="height: 1em;"></div>
 
