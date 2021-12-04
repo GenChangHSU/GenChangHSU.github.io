@@ -1,0 +1,41 @@
+---
+title: "&nbsp;"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: [../css/Research.css, ../css/navbar.css, ../css/body.css]
+    includes:
+      in_header: ../heros/Research_hero.html
+      after_body: ../footer.html
+---
+
+<style>
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 36px !important;
+   line-height: 1.5em;}
+   
+h2 {font-weight: bold !important;} 
+   
+.External_link{
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 60px;
+}
+</style>
+
+# Agroecology and Conservation Biology
+
+<br>
+
+* __Agroecology and Conservation Biology:__ 
+  - How environmental changes (e.g., warming) affect crop-pest-enemy dynamics and biological control 
+  - Manipulating habitats to enhance ecosystem services and reduce ecosystem dis-services in agro-ecosystems
+  - Designing better management schemes to facilitate species conservation, habitat protection (climate-change refugia and ecological hotspots), and invasive species regulation in relation to climate changes and human-induced threats 
+
+
+

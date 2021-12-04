@@ -47,46 +47,53 @@ li li::before {
 # Areas of Interest
 <div style="height: 1em;"></div>
 
-I have broad interests in topics related to species interactions. To put it in a broad context, I would like to adopt **multiple approaches** (observational, experimental, and modeling) to examine how **multiple drivers** (abotic and biotic) affect **multi-trophic interactions** (primary producer, herbivore, predator, parasitoid, detritivore, and decomposer), and how these effects may scale up to influence the properties at **multiple biological levels of organization** (individual, population, community, and ecosystem) and over **multiple temporal and spatial scales** (organismal, ecological, and evolutionary; local, regional, geographical, and global). 
-
-Below are some of the research directions/questions I am especially interested in working on:
-
-<div style="height: 0.5em;"></div>
-
-* __Species Interactions and Trophic Ecology:__ 
-  - Quantifying the relative importance of top-down vs. bottom-up forces in governing the dynamics of food webs involving multi-trophic interactions and feedback/feed-forward processes
-  - How within-trophic-level interactions (e.g., competition and intra-guild predation) affect among-trophic-level interactions (e.g., plant-herbivore and predator-prey) as well as their ecological consequences for population dynamics
-  - What factors determine the resource use and diet compositions of generalist predators—developmental stage, prey preference, foraging mode, prey availability, inter- and intra-specific competition, environmental conditions, etc.   
-  - How assemblages of predators interact to exert consumptive and non-consumptive effects on prey and subsequently influence predator-prey eco-evolutionary dynamics, and how the relative importance of consumptive vs. non-consumptive effects varies with abiotic and biotic conditions. 
+I have broad interests in both basic and applied ecology: species interactions, food webs, community dynamics, climate change ecology, agroecology, conservation, etc. Click the images below to learn more about the research areas/questions I am especially interested in:
 
 <div style="height: 1em;"></div>
 
-* __Climate Change Ecology:__
-  - How multiple stressors (e.g., warming, drought, and elevated CO~2~) affect the performance of organisms, both directly via physiological/behavioral/functional traits and indirectly via species interactions, and how these effects scale up to influence the abundance and distribution, spatial patterns, food web structure, community composition, ecosystem productivity and biogeochemical cycling, etc.
-  - How climate-driven phenological/geographical shifts and the resulting temporal/spatial synchrony/asynchrony influence the population dynamics of interacting species
-  - Comparing the performance and fitness of generalists vs. specialists under changing environments
-  - The effects of multi-faceted nature of climate change—changes in mean conditions, variations, and the frequency of extremes—on biological responses
-  
-<div style="height: 1em;"></div>
+<div style="display: flex; margin: auto;">
 
-* __Community Ecology:__ 
-  - Quantifying the relative importance of abiotic and biotic dirvers (e.g., priority effects, dispersal limitation, environmental filtering, biotic interactions) in determining species distributions and community structure
-  - Island biogeography in urban and agro-ecosystems—species dynamics in habitat patches embedded within highly-disturbed matrix
+<div style="width: 50%; margin: auto; text-align: center;">
+<a href="./Research Interests/Species_interactions_trophic_ecology.html" target="_blank"><img src="./Research Interests/Species_interactions_trophic_ecology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
+<div style="height: 0.25em;"></div>
+__Species Interactions/Trophic Ecology__
+</div>
 
-<div style="height: 1em;"></div>
+<div style="width: 50%; margin: auto; text-align: center;">
+<a href="./Research Interests/Community_ecology.html" target="_blank"><img src="./Research Interests/Community_ecology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
+<div style="height: 0.25em;"></div>
+__Community Ecology__
+</div>
 
-* __Agro-ecology and Conservation Biology:__ 
-  - How environmental changes (e.g., warming) affect crop-pest-enemy dynamics and biological control 
-  - Manipulating habitats to enhance ecosystem services and reduce ecosystem dis-services in agro-ecosystems
-  - Designing better management schemes to facilitate species conservation, habitat protection (climate-change refugia and ecological hotspots), and invasive species regulation in relation to climate changes and human-induced threats 
+</div>
 
-<div style="height: 1em;"></div>
+<div style="height: 1.5em;"></div>
 
-Ecology, as an encompassing discipline, should be integrative and interactive rather than fragmented and isolated. I am not limiting myself to any particular areas and always open to cool ideas that spark my interests!
+<div style="display: flex; margin: auto;">
 
-I have over six years of experience in R programming relevant to statistical analysis and modeling. I really value these "weapons", which provide me the ability to tackle the research questions I would like to answer. Now I still keep arming myself with new quantitative skills. Never stop learning!
+<div style="width: 50%; margin: auto; text-align: center;">
+<a href="./Research Interests/Climate_change_ecology.html" target="_blank"><img src="./Research Interests/Climate_change_ecology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
+<div style="height: 0.25em;"></div>
+__Climate Change Ecology__
+</div>
 
-I am also interested in data wrangling and visualization: creating awesome ggplot figures for effective science communication really brings me a great source of joy and achievement!
+<div style="width: 50%; margin: auto; text-align: center;">
+<a href="./Research Interests/Agroecology_conservation_biology.html" target="_blank"><img src="./Research Interests/Agroecology_conservation_biology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
+<div style="height: 0.25em;"></div>
+__Agroecology/Conservation Biology__
+</div>
+
+</div>
+
+<div style="height: 1.5em;"></div>
+
+Ecology, as an encompassing discipline, should be integrative and interactive rather than fragmented and isolated. I am not limited to any particular areas and always open to cool ideas that spark my interests.
+
+I have years of experience in statistical analysis and modeling in R. I highly value these "weapons"—they offer me the ability to tackle the research questions I would like to answer. Now I still keep arming myself with new quantitative skills. Never stop learning!
+
+I am also into data visualization: creating awesome ggplots for effective science communication certainly brings me a great source of joy and achievement!
+
+<!-- To put it in a broad context, I would like to adopt **multiple approaches** (observational, experimental, and modeling) to examine how **multiple drivers** (abotic and biotic) affect **multi-trophic interactions** (primary producer, herbivore, predator, parasitoid, detritivore, and decomposer), and how these effects may scale up to influence the properties at **multiple biological levels of organization** (individual, population, community, and ecosystem) and over **multiple temporal and spatial scales** (organismal, ecological, and evolutionary; local, regional, geographical, and global). -->
 
 <br>
 <hr>

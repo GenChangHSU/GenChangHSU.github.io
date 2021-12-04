@@ -35,15 +35,15 @@ I am Gen-Chang Hsu, a recent graduate of the Department of life Science, Nationa
 
 <div style="height: 1em;"></div>
 
-Fascinated by the exquisite relationships between organisms and environments, ecology has become my favorite biology field and I have developed broad interests in various ecological questions. I am also interested in data science. Check out my <a href="./Research.html">Research</a> page for more information!
+Fascinated by the exquisite relationships between organisms and environments, ecology has become my favorite biology field and I have cultivated broad interests in various ecological questions. I am also into data science and visualization. Check out my <a href="./Research.html">Research</a> page for more information.
 
 <div style="height: 1em;"></div>
 
-My Bachelor's thesis, advised by Professor [Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. I have successfully defended my thesis and published the work in the journal [*Ecosphere*](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3625){target="_blank"}. These research experiences have strengthened my determination to pursue an academic career in ecology and evolutionary biology.
+My Bachelor's thesis, advised by [Dr. Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. I successfully defended my thesis and published the work in [*Ecosphere*](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3625){target="_blank"}. Recently as a teaching assistant for the course [_Introduction to Theoretical Ecology_](https://genchanghsu.github.io/2021_Fall_Introduction_to_Theoretical_Ecology/){target="_blank"}, I have extended my interests into ecological theories and mathematical modeling. All these experiences have strengthened my determination to pursue an academic career in ecology and evolutionary biology.
 
 <div style="height: 1em;"></div>
 
-Outside of work, I enjoy outdoor activities like hiking, biking, and photography. I also love playing table tennis and cooking. Traveling around the world is my lifetime goal.
+Outside of work, I enjoy outdoor activities like hiking, biking, and photography. I also love playing table tennis and cooking. Traveling around to explore this n-dimensional world is my lifetime goal!
 
 <br>
 
@@ -57,4 +57,4 @@ Visiting student (2019-2020), Department of Integrative Biology, University of C
 
 <div style="height:2px;"></div>
 
-<!-- My <a href="./CV.pdf" target="_blank">CV</a> -->
+
