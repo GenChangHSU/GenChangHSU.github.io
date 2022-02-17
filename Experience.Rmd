@@ -30,12 +30,26 @@ h1 {text-align: center !important;
 
 <div style="display: flex;">
 <div style="width: 16%;">
+2022-<br>Present
+</div>
+<div style="width: 84%;">
+<b>_Research Assistant_</b><br>
+Lab PI: Dr. Po-Ju Ke <br>
+Project: The temporal decay trajectory of plant-soil microbe interactions
+and its effects on plant community structure <br>
+</div>
+</div>
+
+<div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
 2021
 </div>
 <div style="width: 84%;">
 <b>_Bachelor's Degree Thesis_</b><br>
 Advisor: Dr. Chuan-Kai Ho <br>
-Title: Using Stable Isotopes (δ^13^C and δ^15^N) to Quantify the Diet Compositions of Generalist Arthropod Predators in Organic and Conventional Rice Farms <br>
+Thesis title: Using Stable Isotopes (δ^13^C and δ^15^N) to Quantify the Diet Compositions of Generalist Arthropod Predators in Organic and Conventional Rice Farms <br>
 (Thesis successfully defended on April 26, 2021)
 </div>
 </div>
@@ -49,7 +63,7 @@ Title: Using Stable Isotopes (δ^13^C and δ^15^N) to Quantify the Diet Composit
 <div style="width: 84%;">
 <b>_Undergraduate Research Assistant_</b><br>
 Lab PI: Dr. Chuan-Kai Ho <br>
-Title: The Strategic Development and Operation Model Trials for the   Strengthening and Completion of Form and Function of Rural Ecosystem Service ─ Quantification of the Biological Control Efficacy of Arthropod Generalist Predators in Rice Agro-ecosystems using a Stable Isotope Approach<br>
+Porject: The Strategic Development and Operation Model Trials for the   Strengthening and Completion of Form and Function of Rural Ecosystem Service ─ Quantification of the Biological Control Efficacy of Arthropod Generalist Predators in Rice Agro-ecosystems using a Stable Isotope Approach<br>
 </div>
 </div>
 
@@ -62,7 +76,7 @@ Title: The Strategic Development and Operation Model Trials for the   Strengthen
 <div style="width: 84%;">
 <b>_Ministry of Science and Technology Research Grant for University Students (Project No. 106-2813-C-002-163-B)_</b><br>
 Advisor: Dr. Chuan-Kai Ho <br>
-Title: Effects of experimental warming, elevated CO~2~, and drought on above- and below-ground biomass and competition of a C~3~ and a C~4~ grass species<br>
+Porject: Effects of experimental warming, elevated CO~2~, and drought on above- and below-ground biomass and competition of a C~3~ and a C~4~ grass species<br>
 </div>
 </div>
 
