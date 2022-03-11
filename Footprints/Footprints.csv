@@ -1,8 +1,12 @@
 Year,Title,Long,Lat,Image
-2014,International Biology Olympiad,115.2225021,-8.662624364,./Footprints/2014_IBO.JPG
+2014,International Biology Olympiad in Bali,115.2225021,-8.662624364,./Footprints/2014_IBO.JPG
 2017,Pasoh Forest Reserve,102.3132383,2.983041745,./Footprints/2017_Pasoh.JPG
 2017,Taman Negara National Park,102.4014958,4.799475923,./Footprints/2017_Taman Negara.JPG
-2018,Nang-Hu Mountain Area,121.434187,24.36091401,./Footprints/2018_Nang-Hu.JPG
+2018,Dasyueshan National Forest Recreation Area,121.0083,24.255281,./Footprints/2018_Dasyueshan.JPG
+2018,Guanwu National Forest Recreation Area,121.114336,24.50581436,./Footprints/2018_Guanwu.JPG
+2018,Mount Shenmazhen (#83),121.4180199,24.38143401,./Footprints/2018_Shenmazhen.JPG
+2018,Mount Nanghu East Peak (#14),121.4536265,24.36571116,./Footprints/2018_NanghuEastPeak.JPG
+2018,Mount Nanghu Main Peak (#08),121.4342081,24.36133215,./Footprints/2018_NanghuMainPeak.JPG
 2018,Shikotsu-Toya National Park,141.3009677,42.74962247,./Footprints/2018_Shikotsu-Toya.JPG
 2018,Annual Meetings of Ecological Society of Japan,141.3884203,43.05784005,./Footprints/2018_ESJ.png
 2018,Muir Woods National Monument,-122.5786258,37.89726889,./Footprints/2018_Muir Woods.JPG
@@ -14,11 +18,18 @@ Year,Title,Long,Lat,Image
 2019,Sichuan Siguniang Mountain,102.9015934,31.11338835,./Footprints/2019_Siguniang.JPG
 2019,Yoshino-Kumano National Park,135.8347762,33.59466844,./Footprints/2019_Yoshino-Kumano.JPG
 2019,Annual Meetings of Ecological Society of Japan,135.2127904,34.6675041,./Footprints/2019_ESJ.png
-2019,Wuling Quadruple Mountains ,121.298459,24.42295476,./Footprints/2019_Wuling.JPG
+2019,Mount Tao (#48),121.3060341,24.43382458,./Footprints/2019_Tao.JPG
+2019,Mount Karaheye (#84),121.3228477,24.45070179,./Footprints/2019_Karaheye.JPG
+2019,Mount Tamarappu (#51),121.288226,24.43149807,./Footprints/2019_Tamarappu.JPG
+2019,Mount Pintian (#24),121.2670578,24.42804295,./Footprints/2019_Pintian.JPG
 2019,Don Edwards San Francisco Bay National Wildlife Refuge,-122.072944,37.53153525,./Footprints/2019_Don Edwards.JPG
 2020,Point Reyes National Seashore,-122.9912293,38.00252303,./Footprints/2020_Point Reyes.JPG
 2021,Alishan National Forest Recreation Area,120.824,23.50616,./Footprints/2021_Alishan.JPG
-2021,Hehuan Mountain Area,121.271497,24.142475,./Footprints/2021_Hehuanshan.JPG
-2022,Xueshan Mountain Area,121.23,24.385,./Footprints/2022_Xueshan.JPG
+2021,Mount Hehuan Main Peak (#37),,,./Footprints/2021_HehuanMainPeak.JPG
+2021,Mount Hehuan East Peak (#36),,,./Footprints/2021_HehuanEastPeak.JPG
+2022,Siron Hagai Pond,,,./Footprints/2022_SironHagaiPond.JPG
+2022,Mount Xue East Peak (#75),,,./Footprints/2022_XueEastPeak.JPG
+2022,Mount Xue Main Peak (#02),,,./Footprints/2022_XueMainPeak.JPG
 2022,Walami Trail,121.19,23.355,./Footprints/2022_Walami.JPG
 2022,Zhuilu Cliff,121.55,24.179,./Footprints/2022_Zhuilu.JPG
+2022,Mount Hehuan North Peak (#34),,,./Footprints/2022_HehuanNorthPeak.JPG
