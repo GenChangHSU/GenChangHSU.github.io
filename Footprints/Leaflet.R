@@ -40,10 +40,10 @@ Map_lf <- Map_lf %>%
                                     "</div>",
                                     sep = " "),
                      label = ~paste(Year, Title),
-                     color = "red",
+                     color = "green",
                      stroke = FALSE, 
                      fillOpacity = 0.7,
-                     clusterOptions = markerClusterOptions(showCoverageOnHover = F),
+                     radius = 10,
                      labelOptions = labelOptions(style = list("font-weight" = "bold",
                                                               "font-size" = "16px"))) %>%
   addPolylines(data = CA1_sp,
