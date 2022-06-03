@@ -103,11 +103,15 @@ I am also into data visualization: creating awesome ggplots for effective scienc
 <div style="height: 1em;"></div>
 
 ## 2021-Present
-<!-- Earthworm stable isotope niche -->
-<!-- Pest consumption by GAPs -->
 <br>
-<br>
-<br>
+<div style="padding-left: 40px; padding-right: 40px; display: flex;">
+<img src="./Research Projects/2021-Present/Earthworm.PNG" style="max-width: 200px; max-height: 200px; width:auto; height:auto">
+<div style="padding-left: 62.5px; padding-top: 1.8em;">
+Revisiting the ecological groups and isotopic niches of earthworms in North America <br>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2021-Present/Earthworm.html" target="_blank">Project</a>
+</div>
+</div>
+
 <br>
 <br>
 
@@ -126,7 +130,7 @@ Quantifying the diet compositions of generalist arthropod predators in rice agro
 <div style="display: flex;">
 <img src="./Research Projects/2015-2020/Grass.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
 <div style="padding-left: 40px; padding-top: 0.2em;">
-Competition between a C~3~ and a C~4~ grass species under experimental warming, elevated CO~2~, and drought <br>
+Competition between a C~3~ and a C~4~ grass under experimental warming, drought, and elevated CO~2~ <br>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2015-2020/Grass.html" target="_blank">Project</a>
 </div>
 </div>
