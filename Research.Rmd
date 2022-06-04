@@ -47,22 +47,22 @@ li li::before {
 # Areas of Interest
 <div style="height: 1em;"></div>
 
-I have broad interests in species interactions, food webs, community dynamics, and climate change ecology, as well as applied ecology such as agroecology and conservation biology. Click the images below to learn more about some of the research topics/questions I am interested in:
+I have broad interests in species interactions, trophic ecology and food web dynamics, and climate change ecology, as well as applied ecology such as agroecology and conservation biology. Click the images below to learn more about the research topics/questions I am interested in:
 
 <div style="height: 1em;"></div>
 
 <div style="display: flex; margin: auto;">
 
 <div style="width: 50%; margin: auto; text-align: center;">
-<a href="./Research Interests/Species_interactions_trophic_ecology.html" target="_blank"><img src="./Research Interests/Species_interactions_trophic_ecology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
+<a href="./Research Interests/Species_interactions.html" target="_blank"><img src="./Research Interests/Species_interactions.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
 <div style="height: 0.25em;"></div>
-__Species Interactions/Trophic Ecology__
+__Species Interactions__
 </div>
 
 <div style="width: 50%; margin: auto; text-align: center;">
-<a href="./Research Interests/Community_ecology.html" target="_blank"><img src="./Research Interests/Community_ecology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
+<a href="./Research Interests/Trophic_ecology.html" target="_blank"><img src="./Research Interests/Trophic_ecology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
 <div style="height: 0.25em;"></div>
-__Community Ecology__
+__Trophic Ecology__
 </div>
 
 </div>
@@ -87,7 +87,7 @@ __Agroecology/Conservation Biology__
 
 <div style="height: 1.5em;"></div>
 
-Ecology, as an encompassing discipline, should be integrative and interactive rather than fragmented and isolated. I am not limited to any particular areas and always open to cool ideas that spark my interests.
+Ecology, as an encompassing discipline, should be integrative and interactive rather than fragmented and isolated. I am not limiting myself to any particular areas and always open to cool ideas that spark my interests.
 
 I have years of experience in statistical analysis and modeling in R. I highly value these "weapons"—they offer me the ability to tackle the research questions I would like to answer. Now I still keep arming myself with new quantitative skills. Never stop learning!
 

@@ -36,7 +36,7 @@ h2 {font-weight: bold !important;}
 
 <div style="height: 0.1em;"></div>
 
-* Habitat manipulations to enhance ecosystem services (e.g., pollination) and reduce ecosystem dis-services (e.g., pest damage) in agricultural field
+* Habitat manipulation to enhance ecosystem services (e.g., pollination) and reduce ecosystem dis-services (e.g., pest damage) in agricultural field
 
 <div style="height: 0.1em;"></div>
 
