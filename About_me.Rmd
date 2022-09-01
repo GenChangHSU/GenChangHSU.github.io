@@ -39,15 +39,15 @@ I obtained my undergraduate degree from the Department of Life Science, National
 
 <div style="height: 1em;"></div>
 
-I am currently a research assistant at [Dr. Po-Ju Ke’s lab](https://pojuke.com/), studying the temporal decay trajectory of plant-soil microbe interactions and its effects on plant community structure. This project will provide insights into how plant conditioning history affects the soil microbe communities and in turn influence plant generation and vegetation dynamics. 
+I am currently a research assistant at [Dr. Po-Ju Ke’s lab](https://pojuke.com/), studying the temporal decay trajectory of plant-soil microbe interactions and its effects on seedling performance. This project will provide insights into how plant conditioning history affects the soil microbe communities and in turn influence forest regeneration and vegetation dynamics. 
 
 <div style="height: 1em;"></div>
 
-Fascinated by the exquisite relationships between organisms and environments, ecology is my favorite field of biology at all times and I have cultivated broad interests in various ecological topics. I am also into data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html) page for more information.
+Fascinated by the exquisite relationships between organisms and environments, ecology is my favorite field of biology at all times and I have broad interests in various ecological topics. I am also into data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html) page for more information.
 
 <div style="height: 1em;"></div>
 
-Outside of work, I enjoy outdoor activities like hiking, biking, and photography. I also love playing table tennis and cooking. Traveling around to explore this n-dimensional world is my lifetime goal!
+In my free time, I enjoy outdoor activities like hiking, biking, and photography. I also love playing table tennis and cooking. Traveling around to explore this n-dimensional world is my lifetime goal!
 
 <br>
 

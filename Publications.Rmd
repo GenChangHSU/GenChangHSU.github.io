@@ -87,19 +87,21 @@ h1 {text-align: center !important;
 # Journal Articles
 <div style="height: 1em;"></div>
 
+## 2022
+<div style="height: 0.15em;"></div>
+
+* <p><b><u>Hsu, G-C.</u></b>, K. Szlavecz, C. Csuzdi, M. Bernard, and C-H. Chang. 2022. Ecological groups and isotopic niches of earthworms. <i>Applied Soil Ecology</i> (accepted).</p> 
+<a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2022_Applied_Soil_Ecology.pdf" target="_blank">PDF</a>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a>
+
+<br>
+
 ## 2021
 <div style="height: 0.15em;"></div>
 
-* <p><b><u>Hsu, G. C.</u></b>, J. A. Ou, and C. K. Ho. 2021. Pest consumption by generalist arthropod predators increases with crop stage in both organic and conventional farms. <i>Ecosphere</i> 12:e03625. <a href="https://doi.org/10.1002/ecs2.3625" target="_blank"> https://doi.org/10.1002/ecs2.3625</a></p>
+* <p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. 2021. Pest consumption by generalist arthropod predators increases with crop stage in both organic and conventional farms. <i>Ecosphere</i> 12:e03625. <a href="https://doi.org/10.1002/ecs2.3625" target="_blank"> https://doi.org/10.1002/ecs2.3625</a></p>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2021_Ecosphere.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2021_Pest_Consumption_by_Generalist_Arthropod_Predators_in_Rice_Farms" target="_blank">GitHub</a>
-
-<!-- <br> -->
-
-<!-- <p><b><u>Hsu, G. C.</u></b>, J. A. Ou, and C. K. Ho. 2021. Pest consumption by generalist arthropod predators increases with crop stage in both organic and conventional farms. Ecosphere 12:e03625.</p> -->
-<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1002/ecs2.3625" target="_blank">Link</a> -->
-<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2021_Pest_Consumption_by_Generalist_Arthropod_Predators_in_Rice_Farms" target="_blank">GitHub</a> -->
-
 
 <br>
 <hr>
@@ -129,11 +131,11 @@ h1 {text-align: center !important;
 ## Technical reports
 <div style="height: 0.15em;"></div>
 
-* <p>Ou, J. A., <b><u>Hsu, G. C.</u></b>, and C. K. Ho. 2018. Quantification of the biological control efficacy of arthropod generalist predators in rice agro-ecosystems using a stable isotope approach. Council of Agriculture, Executive Yuan, R.O.C. (Taiwan). Project number: 107-4.2.3-a1. (In Chinese)</p>
+* <p>Ou, J-A., <b><u>G-C. Hsu</u></b>, and C-K. Ho. 2018. Quantification of the biological control efficacy of arthropod generalist predators in rice agro-ecosystems using a stable isotope approach. Council of Agriculture, Executive Yuan, R.O.C. (Taiwan). Project number: 107-4.2.3-a1. (In Chinese)</p>
 
 <div style="height: 0.1em;"></div>
 
-* <p>Ou, J. A., <b><u>Hsu, G. C.</u></b>, and C. K. Ho. 2017. Quantification of the biological control efficacy of arthropod generalist predators in rice agro-ecosystems using a stable isotope approach. Council of Agriculture, Executive Yuan, R.O.C. (Taiwan). Project number: 106-4.2.5-a1. (In Chinese)</p>
+* <p>Ou, J-A., <b><u>G-C. Hsu</u></b>, and C-K. Ho. 2017. Quantification of the biological control efficacy of arthropod generalist predators in rice agro-ecosystems using a stable isotope approach. Council of Agriculture, Executive Yuan, R.O.C. (Taiwan). Project number: 106-4.2.5-a1. (In Chinese)</p>
 
 
 

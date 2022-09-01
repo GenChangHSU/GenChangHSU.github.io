@@ -14,13 +14,13 @@ h1 {text-align: center !important;
 </style>
 
 <div style="font-size: 25px; font-family: Garamond; text-align: center;">
-“One day you'll leave this world behind. So live a life you will remember."– Avicii _The Nights_
+"One day you'll leave this world behind. So live a life you will remember."– _The Nights_
 </div>
 
 <div style="height: 1em;"></div>
 
 <div style="width:1080px; margin-left: -80px; text-align: center;">
-This is a map of the great experiences in my life. Be inquisitive and never stop exploring!
+This is a map of the great experiences in my life. Stay inquisitive and never stop exploring!
 </div>
 
 <div style="height: 0.7em;"></div>
