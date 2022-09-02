@@ -39,7 +39,7 @@ I obtained my undergraduate degree from the Department of Life Science, National
 
 <div style="height: 1em;"></div>
 
-I am currently a research assistant at [Dr. Po-Ju Ke’s lab](https://pojuke.com/), studying the temporal decay trajectory of plant-soil microbe interactions and its effects on seedling performance. This project will provide insights into how plant conditioning history affects the soil microbe communities and in turn influence forest regeneration and vegetation dynamics. 
+I am currently a research assistant at [Dr. Po-Ju Ke’s lab](https://pojuke.com/), studying the temporal decay trajectory of plant-soil microbe interactions and its effects on seedling performance. Combining greenhouse experiments and mathematical modeling, this project will provide insights into how plant conditioning history affects the soil microbe communities and in turn influence forest regeneration and vegetation dynamics. 
 
 <div style="height: 1em;"></div>
 

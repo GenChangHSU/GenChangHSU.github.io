@@ -28,20 +28,26 @@ h2 {font-weight: bold !important;}
 }
 </style>
 
-# Competition between a C~3~ and a C~4~ grass species under experimental warming, elevated CO~2~, and drought 
+# Competition between a C~3~ and a C~4~ grass under experimental warming, drought, and elevated CO~2~ 
 
 <br>
 
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
-Currently reanalyzing the data. Stay tuned!!!
+C~3~ and C~4~ plants are the two major terrestrial plant groups and they respond differently to temperature, water, and CO~2~. Much research has focused on the individual effect of warming, water availability, and elevated CO~2~ on their growth performance and competitive interactions, yet the joint effects of these factors remain underexplored. 
+
+In this study, we grew naturally co-occurring C~3~ (*Oplismenus composites*) and C~4~ (*Paspalum conjugatum*) grass under three temperature warming scenarios (control, +2°C, and +4°C), two water supply intervals (normal 2 days vs. prolonged 7 days [drought]), and two CO~2~ concentrations (ambient 400 ppm vs. elevated 800 ppm) in growth chambers and measured their above- and below-ground dry biomass in monoculture and mixture to quantify their biomass performances and competitive responses. 
+
+We found that warming and elevated CO~2~ together enhanced the above- and/or below-ground biomass of both C~3~ and C~4~ grass. Moreover, temperature, water, and CO~2~ interacted to increase the below-ground biomass of the C~4~ grass. Surprisingly, the C~3~ grass performed worse under interspecific competition relative to intraspecific competition (i.e., the mixture biomass was lower than the monoculture biomass) at elevated CO~2~ compared to ambient CO~2~, while the reverse is true for the C~4~ grass─higher mixture biomass than monoculture biomass at elevated CO~2~. Furthermore, the C~4~ grass was most competitive against the C~3~ grass under simultaneous 4°C warming, drought, and elevated CO~2~. 
+
+Overall, these results suggest that the projected temperature warming, increased drought frequencies, and rising atmospheric CO~2~ may benefit C~4~ plants and the competitive balance could potentially shift towards increased C~4~ relative abundance in future plant communities. Changes in C~3~-C~4~ community composition can have profound consequences for the functioning of natural and agricultural systems, including primary productivity, nutrient cycling, herbivore nutritional balance, and crop production. Finally, the effects of climate change are multifaceted and often involve complex interactions and feedbacks over time and space, and a promising avenue for future research will be conducting long-term and large-scale field experiments involving more species to scale up our laboratory results and better predict C~3~-C~4~ plant dynamics under changing climate.
 
 <br>
 
-## Publication
-<div style="height: 0.25em;"></div>
+<!-- ## Publication -->
+<!-- <div style="height: 0.25em;"></div> -->
 
-Currently reanalyzing the data. Stay tuned!!!
+
 
 
