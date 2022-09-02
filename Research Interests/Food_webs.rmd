@@ -1,0 +1,51 @@
+---
+title: "&nbsp;"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: [../css/Research.css, ../css/navbar.css, ../css/body.css]
+    includes:
+      in_header: ../heros/Research_hero.html
+      after_body: ../footer.html
+---
+
+<style>
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 36px !important;
+   line-height: 1.5em;}
+   
+h2 {font-weight: bold !important;} 
+   
+.External_link{
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 60px;
+}
+</style>
+
+# Food Web Dynamics and Ecosystems
+
+<div style="height: 0.1em;"></div>
+
+* Consumptive vs. non-consumptive effects of predators on prey and the consequences for predator-prey eco-evolutionary dynamics: landscape of fear
+
+<div style="height: 0.1em;"></div>
+
+* Interplay between within-trophic-level interactions (e.g., competition and intraguild predation) and among-trophic-level interactions (e.g., herbivory and predation)
+
+<div style="height: 0.1em;"></div>
+
+* Spatial and temporal resource partitioning and niche differentiation for species coexistence
+
+
+
+
+
+
+
+

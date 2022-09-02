@@ -54,13 +54,13 @@ I have broad interests in species interactions, food web dynamics, trophic ecolo
 <div style="display: flex; margin: auto;">
 
 <div style="width: 50%; margin: auto; text-align: center;">
-<a href="./Research Interests/Species_interactions.html" target="_blank"><img src="./Research Interests/Trophic_ecology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
+<a href="./Research Interests/Trophic_interactions.html" target="_blank"><img src="./Research Interests/Trophic_interactions.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
 <div style="height: 0.25em;"></div>
 __Trophic Interactions__
 </div>
 
 <div style="width: 50%; margin: auto; text-align: center;">
-<a href="./Research Interests/Trophic_ecology.html" target="_blank"><img src="./Research Interests/Food_webs.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
+<a href="./Research Interests/Food_webs.html" target="_blank"><img src="./Research Interests/Food_webs.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
 <div style="height: 0.25em;"></div>
 __Food Web Dynamics and Ecosystems__
 </div>
@@ -78,7 +78,7 @@ __Climate Change Ecology__
 </div>
 
 <div style="width: 50%; margin: auto; text-align: center;">
-<a href="./Research Interests/Agroecology_conservation_biology.html" target="_blank"><img src="./Research Interests/Agroecology_conservation_biology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
+<a href="./Research Interests/Agroecology.html" target="_blank"><img src="./Research Interests/Agroecology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
 <div style="height: 0.25em;"></div>
 __Agroecology__
 </div>
