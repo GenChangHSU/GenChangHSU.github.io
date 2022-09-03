@@ -28,13 +28,25 @@ h2 {font-weight: bold !important;}
 }
 </style>
 
-# The temporal dynamics of plant-soil microbe interactions─effects on seedling performance and soil microbial community
+# The temporal dynamics of plant-soil microbe interactions─effects on soil microbial communities and seedling performance
 
 <br>
 
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
+Plant-soil feedbacks (PSF), the reciprocal interactions between plants and soil microbes, can substantially shape the structure of plant communities. Plants condition the soil by building up parasitic or mutualistic soil microbes in the rhizosphere, which then feed back to the growth of nearby and newly-colonized individuals. Previous studies have shown that the strength of PSF can vary throughout the development of plants (i.e., PSF changes with the duration of soil conditioning). However, the decay trajectory of PSF (i.e., how the strength of PSF changes following plant death) is currently underexplored, and empirical results remain largely lacking.
+
+<div style="height: 1em;"></div>
+
+To address this gap, we aim to study the decay trajectory of PSF and the effects of decay time on plant-soil microbe interactions. Specifically, we ask:
+
+(1) What is the successional dynamics of soil microbial communities after plant death? Will microbial communities revert to the unconditioned states, or will they undergo different successional trajectories depending on the duration of decay process?
+(2) How do microbial effects on plant growth performance change throughout the decay process after plant death? Will the effects become more neutral over time if the microbial communities gradually break down, or will the effects become more positive/negative if the microbial communities exhibit different successional trajectories?
+
+<div style="height: 1em;"></div>
+
+We plan to conduct this study at Fushan Forest Dynamics Plot, a subtropical lowland forest located in northern Taiwan. Four forest inventories have been completed since 2004, providing a unique opportunity to study the decay trajectory of PSF because it allows us to trace back the decay histories of individual trees. Focusing on two tree species (*Machilus zuihoensis* and *Engelhardtia roxburghiana*) at Fushan, we will collect soil samples from individuals with different durations of death and analyze their soil microbial communities via high-throughput sequencing. We will also conduct greenhouse experiments to examine microbial effects on the seedling performance of conspecifics and heterospecifics throughout the decay trajectory. Finally, we will build mathematical models to study how changes in plant-soil microbe interactions following plant death affect plant competitive outcomes and community structure. Understanding PSF is critical for predicting how soil microbes influence plant communities in their natural context, and we hope this study can shed light on the temporal decay trajectory of plant–soil microbe interactions, thereby providing novel insights into vegetation regeneration and plant community dynamics.
 
 
 <br>

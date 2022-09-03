@@ -105,7 +105,7 @@ I am also into data visualization: creating awesome ggplots for effective scienc
 <div style="display: flex;">
 <img src="./Research Projects/2021-Present/PSF.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
 <div style="padding-left: 40px; padding-top: 0.2em;">
-The temporal dynamics of plant-soil microbe interactions─effects on seedling performance and soil microbial community<br>
+The temporal dynamics of plant-soil microbe interactions─effects on soil microbial communities and seedling performance<br>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2021-Present/PSF.html" target="_blank">Project</a>
 </div>
 </div>
