@@ -32,15 +32,21 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-* Effects of environmental changes (e.g., warming and drought) on crop-pest-enemy dynamics and biological control
+*	Crop-pest-enemy tri-trophic interactions in the face of climate change: Will warming exacerbate pest damage?
 
 <div style="height: 0.1em;"></div>
 
-* Habitat manipulation to enhance ecosystem services (e.g., pollination) and reduce ecosystem dis-services (e.g., pest damage) in agricultural field
+*	Interactions among different guilds of predators and their impacts on pest control: Are they additive, synergistic, or antagonistic?
 
 <div style="height: 0.1em;"></div>
 
-* Designing management schemes for species conservation and habitat protection (e.g., climate-change refugia and ecological hotspots) under climate change and anthropogenic threats
+*	The role of alternative prey in enemy-pest dynamics: What is the optimal density of alternative prey for greatest pest suppression?
+
+<div style="height: 0.1em;"></div>
+
+*	Effects of surrounding landscapes and spatial subsidies: How different edge-to-area ratios of farmland affect pest control and crop production?
+
+
 
 
 

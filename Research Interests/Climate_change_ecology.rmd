@@ -32,29 +32,23 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-* Interactions between C~3~ and C~4~ plants in response to global climate change and the consequences for herbivore population dynamics and ecosystem functioning
+*	Impacts of multiple environmental stressors on organisms: How multiple climate variables jointly alter species performance and interactions?
 
 <div style="height: 0.1em;"></div>
 
-* Warming impacts on plant-herbivore-predator tri-trophic interactions and the community structure
+*	Integrating biological responses to temperature warming across levels of biological organization: How can we scale up from changes in individuals’ traits and species interactions to predict population dynamics and community structure?
 
 <div style="height: 0.1em;"></div>
 
-* Effects of climate-driven phenological/geographical shifts and the resulting temporal/spatial synchrony/asynchrony on the population dynamics of interacting species (novel interactions and trophic mismatches)
+*	Effects of environmental variations and extremes on biological responses: Are variations and extremes critical for determining species performance and fitness consequences besides means?
 
 <div style="height: 0.1em;"></div>
 
-* Comparing the performance and fitness of environmental generalists vs. specialists under changing climates
+*	Novel interactions and trophic mismatches: How climate-driven phenological/geographical shifts and the resulting temporal/spatial synchrony/asynchrony affect population dynamics of interacting species?
 
 <div style="height: 0.1em;"></div>
 
-* Modeling the role of environmental variations/fluctuations and extremes in shaping biological responses
+* The role of phenotypic plasticity in buffering short-term and long-term environmental change: Will short-term acclimation facilitate or impede long-term adaptation?
 
-<div style="height: 0.1em;"></div>
 
-* Species responses to warming from individual behavior and physiology to population dynamics and community structure: linking theories and models at various levels of biological organization
-
-<div style="height: 0.1em;"></div>
-
-* How environmental changes alter predator-prey interactions via consumptive vs. non-consumptive effects
 

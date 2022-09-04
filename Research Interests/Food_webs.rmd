@@ -30,22 +30,24 @@ h2 {font-weight: bold !important;}
 
 # Food Web Dynamics and Ecosystems
 
-<div style="height: 0.1em;"></div>
+<br>
 
-* Consumptive vs. non-consumptive effects of predators on prey and the consequences for predator-prey eco-evolutionary dynamics: landscape of fear
-
-<div style="height: 0.1em;"></div>
-
-* Interplay between within-trophic-level interactions (e.g., competition and intraguild predation) and among-trophic-level interactions (e.g., herbivory and predation)
+*	Testing food web theories and trophic cascade hypotheses: What is the relative importance of bottom-up and top-down control in governing food web structure?
 
 <div style="height: 0.1em;"></div>
 
-* Spatial and temporal resource partitioning and niche differentiation for species coexistence
+*	Interplay between bottom-up and top-down processes: Will simultaneous bottom-up and top-down forces counteract or augment each other?
 
+<div style="height: 0.1em;"></div>
 
+*	Connections between vertical and horizontal linkages in food webs: Will horizontal linkages facilitate the spread of perturbations from vertical pathways throughout the web, or dilute the effects of perturbations?
 
+<div style="height: 0.1em;"></div>
 
+*	Trophic downgrading and upgrading: How can trophic manipulations alter primary productivity, nutrient cycling, and carbon storage?
 
+<div style="height: 0.1em;"></div>
 
+*	Interactions between food webs in different habitats: How may external resources such as spatial subsidies and allochthonous inputs induce trophic cascades in focal habitat?
 
 

@@ -32,21 +32,22 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-* Resource use and diet compositions of generalist predators—developmental stage, prey preference, foraging mode, prey availability, inter- and intra-specific competition, environmental conditions, etc.
+*	Plant-herbivore-predator-detritivore multi-trophic interactions: How do above-ground grazing food webs and below-ground detritus food webs interact and feed back to each other?
 
 <div style="height: 0.1em;"></div>
 
-* Patterns and impacts of trophic omnivory, intraguild predation, and cannibalism in global ecosystems 
+*	Mechanisms underlying diet compositions of consumers: What are the roles of resource availability, resource attractiveness and preference, energy and nutritional requirement, foraging behavior and hunting mode, immediate and potential predation risk, and developmental stage in determining dietary patterns?
 
 <div style="height: 0.1em;"></div>
 
-* Relative strengths of top-down vs. bottom-up forces in governing food web dynamics
+*	Plant-herbivore arms race: Can morphological, physiological, physical, and chemical trait matching between plants and herbivores predict herbivory?
 
 <div style="height: 0.1em;"></div>
 
-* Trophic downgrading and upgrading: food web manipulations (e.g., resource subsidies and shunts, predator removal or addition)
+*	The role of consumptive vs. non-consumptive predator effects on prey population dynamics: What are the relative strengthes of density-, physiology-, and behavior-mediated trophic interactions?
 
+<div style="height: 0.1em;"></div>
 
-
+*	Intraguild predation, omnivory, and cannibalism: What are their patterns among different types of ecosystems and their impacts on food web dynamics?
 
 
