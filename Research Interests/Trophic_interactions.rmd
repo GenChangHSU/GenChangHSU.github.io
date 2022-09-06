@@ -44,7 +44,11 @@ h2 {font-weight: bold !important;}
 
 <div style="height: 0.1em;"></div>
 
-*	The role of consumptive vs. non-consumptive predator effects on prey population dynamics: What are the relative strengthes of density-, physiology-, and behavior-mediated trophic interactions?
+*	The role of consumptive vs. non-consumptive predator effects in governing prey population dynamics: What are the relative strengths of density-, physiology-, and behavior-mediated trophic interactions?
+
+<div style="height: 0.1em;"></div>
+
+*	Multiple drivers of direct and indirect non-consumptive predator effects: How  can we integrate resource landscape, thermal landscape, landscape of fear, evasion landscape, and encounter landscape to predict non-consumptive predator-prey interactions?
 
 <div style="height: 0.1em;"></div>
 
