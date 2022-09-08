@@ -50,6 +50,6 @@ Taken together, our results suggest that, despite their convenience, there are l
 ## Publication
 <div style="height: 0.25em;"></div>
 
-Article in press. Stay tuned!!!
+<p><b><u>Hsu, G-C.</u></b>, K. Szlavecz, C. Csuzdi, M. Bernard, and C-H. Chang. 2023. Ecological groups and isotopic niches of earthworms. <i>**Applied Soil Ecology**</i> 181: 104655.<a href="https://doi.org/10.1016/j.apsoil.2022.104655" target="_blank"> https://doi.org/10.1016/j.apsoil.2022.104655</a></p>
 
 

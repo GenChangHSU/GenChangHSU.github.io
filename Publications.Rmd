@@ -91,7 +91,7 @@ h1 {text-align: center !important;
 ## 2023
 <div style="height: 0.3em;"></div>
 
-* <p><b><u>Hsu, G-C.</u></b>, K. Szlavecz, C. Csuzdi, M. Bernard, and C-H. Chang. 2023. Ecological groups and isotopic niches of earthworms. <i>**Applied Soil Ecology**</i> 181: 104655.<a href="https://doi.org/10.1016/j.apsoil.2022.104655" target="_blank"> https://doi.org/10.1002/ecs2.3625</a></p> 
+* <p><b><u>Hsu, G-C.</u></b>, K. Szlavecz, C. Csuzdi, M. Bernard, and C-H. Chang. 2023. Ecological groups and isotopic niches of earthworms. <i>**Applied Soil Ecology**</i> 181: 104655.<a href="https://doi.org/10.1016/j.apsoil.2022.104655" target="_blank"> https://doi.org/10.1016/j.apsoil.2022.104655</a></p> 
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2023_Applied_Soil_Ecology.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2023_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a>
 
