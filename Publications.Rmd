@@ -100,7 +100,7 @@ h1 {text-align: center !important;
 ## 2022
 <div style="height: 0.3em;"></div>
 
-* <p><b><u>Hsu, G-C.</u></b>, P-J. Ke, and C-K. Ho. 2022. Multiple climate change factors jointly increased the competitiveness of a C~4~ grass against its C~3~ competitor. 
+* <p><b><u>Hsu, G-C.</u></b>, P-J. Ke, and C-K. Ho. 2022. Multiple climate change factors jointly increase the competitiveness of a C~4~ grass against its C~3~ competitor. 
 <!-- <i>**Nature Sustainability**</i> (in submission). -->
 </p> 
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.09.01.506280" target="_blank">Preprint</a>
@@ -108,7 +108,7 @@ h1 {text-align: center !important;
 
 <div style="height: 0.3em;"></div>
 
-* <p><b><u>Hsu, G-C.</u></b>, J-A. Ou, M-H Ni, Z-H Lin, and C-K. Ho. 2022. A predator in need is a predator indeed: generalist arthropod predators function as pest specialists at the late growth stage of rice. Submitted to <i>**Nature Sustainability**</i>.</p> 
+* <p><b><u>Hsu, G-C.</u></b>, J-A. Ou, M-H Ni, Z-H Lin, and C-K. Ho. 2022. A predator in need is a predator indeed: generalist arthropod predators function as pest specialists at the late growth stage of rice. In submission to <i>**Nature Sustainability**</i>.</p> 
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.01.31.478501" target="_blank">Preprint</a> -->
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a> -->
 
