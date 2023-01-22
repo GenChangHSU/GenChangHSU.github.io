@@ -30,7 +30,7 @@ h1 {text-align: center !important;
 
 <div style="display: flex;">
 <div style="width: 16%;">
-2022-<br>Present
+2022-2023
 </div>
 <div style="width: 84%;">
 <b>_Research Assistant_</b><br>

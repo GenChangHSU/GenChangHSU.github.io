@@ -102,6 +102,17 @@ I am also into data visualization: creating awesome ggplots for effective scienc
 
 ## 2021-Present
 <br>
+
+<div style="display: flex;">
+<img src="./Research Projects/2021-Present/IGP.PNG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
+<div style="padding-left: 40px; padding-top: 1em;">
+An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field<br>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2021-Present/IGP.html" target="_blank">Project</a>
+</div>
+</div>
+
+<br>
+
 <div style="display: flex;">
 <img src="./Research Projects/2021-Present/PSF.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
 <div style="padding-left: 40px; padding-top: 0.2em;">
