@@ -1,7 +1,7 @@
 Year,Title,Long,Lat,Image
 2014,International Biology Olympiad in Bali,115.2225021,-8.662624364,./Footprints/2014_IBO.jpg
 2017,Pasoh Forest Reserve,102.3129872,2.984840521,./Footprints/2017_Pasoh.JPG
-2017,Taman Negara National Park,102.4038391,4.394493193,./Footprints/2017_Taman Negara.JPG
+2017,Taman Negara National Park,102.4038391,4.394493193,./Footprints/2017_TamanNegara.JPG
 2017,Orchid Island,121.5523785,22.04471573,./Footprints/2017_OrchidIsland.JPG
 2018,Kenting National Forest Recreation Area,120.8118503,21.95943126,./Footprints/2018_Kenting.JPG
 2018,Lianhuachi Forest Dynamics Plot,120.8852042,23.91857946,./Footprints/2018_Lianhuachi.JPG
@@ -53,3 +53,12 @@ Year,Title,Long,Lat,Image
 2023,Mount Guanshanling (#77),120.9592923,23.27162328,./Footprints/2023_MountGuanshanling.JPG
 2023,Christchurch,172.6352665,-43.52781987,./Footprints/2023_Christchurch.JPG
 2023,Kaikoura,173.6956317,-42.41441217,./Footprints/2023_Kaikoura.JPG
+2023,Timaru,171.2546152,-44.38767372,./Footprints/2023_Timaru.JPG
+2023,Oamaru,170.9729061,-45.09828799,./Footprints/2023_Oamaru.JPG
+2023,Oamaru Little Penguin Colony,170.9799903,-45.10999883,./Footprints/2023_OamaruPenguinColony.JPG
+2023,Oamaru Yellow-eyed Penguin Colony,170.980349,-45.12135807,./Footprints/2023_OamaruYellowPenguinColony.JPG
+2023,Moeraki Boulders,170.8263099,-45.34499418,./Footprints/2023_MoerakiBoulders.JPG
+2023,Orokonui Ecosanctuary,170.6041369,-45.77428072,./Footprints/2023_OrokonuiEcosanctuary.JPG
+2023,Otago Peninsula,170.6772937,-45.79691854,./Footprints/2023_OtagoPeninsula.JPG
+2023,Otago Royal Albatross Center,170.7284691,-45.77558288,./Footprints/2023_RoyalAlbatrossCenter.JPG
+2023,Taiaroa Head,170.7305584,-45.77537649,./Footprints/2023_TaiaroaHead.JPG
