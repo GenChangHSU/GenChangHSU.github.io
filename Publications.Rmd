@@ -91,7 +91,7 @@ h1 {text-align: center !important;
 ## 2023
 <div style="height: 0.3em;"></div>
 
-* <p><b><u>Hsu, G-C.</u></b>, W-J. Lin, and S-J. Sun. 2023. Temporal trends in academic performance and career duration of principal investigators in ecology and evolutionary biology in Taiwan. <i>**Scientometrics**</i>.
+* <p><b><u>Hsu, G-C.</u></b>, W-J. Lin, and S-J. Sun. 2023. Temporal trends in academic performance and career duration of principal investigators in ecology and evolutionary biology in Taiwan. <i>**Scientometrics**</i> 128: 3437–3451.
 <a href="https://doi.org/10.1007/s11192-023-04710-9" target="_blank"> https://doi.org/10.1007/s11192-023-04710-9</a></p>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2023_Scientometrics.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2023_Academic_Performance_and_Career_Duration_of_PI_in_Taiwan" target="_blank">GitHub</a>
