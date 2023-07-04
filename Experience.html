@@ -13,7 +13,7 @@
 
 <title> </title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -149,11 +149,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -182,8 +186,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -191,16 +195,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -385,17 +382,17 @@ species<br></p>
 
 </div>
 <ul>
-<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (2019, Mar.).
+<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Mar. 2019).
 Stable isotopes reveal trophic dynamics of generalist arthropod
 predators in organic and conventional rice farms. <em>The
 66<sup>th</sup> Annual Meeting of the Ecological Society of Japan, Kobe,
 Japan</em>.</p></li>
-<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (2019, Jan.).
+<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Jan. 2019).
 Trophic Dynamics of Generalist Arthropod Predators in Organic and
 Conventional Rice Paddy Farms ─ A Stable Isotope Approach.
 <em>30<sup>th</sup> Congress of Animal Behavior and Ecology, Taipei,
 Taiwan</em>.</p></li>
-<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (2018, Oct.).
+<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Oct. 2018).
 Trophic Dynamics of Arthropod Generalist Predators in Organic and
 Conventional Rice Paddy Farms ─ A Stable Isotope Approach.
 <em>International Long-Term Ecological Research Scientific Conference,
@@ -411,20 +408,24 @@ Taichung, Taiwan</em>.</p></li>
 
 </div>
 <ul>
-<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (2018, Nov.).
+<li><p><b><u>Hsu, G-C.</u></b>, F-C. Hsu, C-C. Lee, C-C. Lin, Scotty
+Yang, and C-K. Ho. (May 2023). Catch a free ride with me ─ Ant
+hitchhiking on vehicles in Taiwan. <em>4<sup>th</sup> International
+Congress on Biological Invasions</em>.</p></li>
+<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Nov. 2018).
 Trophic Dynamics of Generalist Arthropod Predators in Organic and
 Conventional Rice Farms across Landscapes. <em>6<sup>th</sup>
 Taiwan-Japan Ecological Workshop, Tainan, Taiwan</em>.</p></li>
-<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (2018, Mar.).
+<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Mar. 2018).
 Trophic Dynamics of Generalist Arthropod Predators in Organic and
 Conventional Rice Farms across Landscapes. <em>The 65<sup>th</sup>
 Annual Meeting of the Ecological Society of Japan, Sapporo,
 Japan</em>.</p></li>
-<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (2018, Jan.).
+<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Jan. 2018).
 Effects of farming practice and landscap on arthropod food web structure
 and biocontrol in rice paddies. <em>29<sup>th</sup> Congress of Animal
 Behavior and Ecology, Hsinchu, Taiwan</em>.</p></li>
-<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (2017, Oct.).
+<li><p><b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Oct. 2017).
 Effects of farming practice and landscape on arthropod food web
 structure and biocontrol in rice paddies. <em>39<sup>th</sup> Annual
 Meeting of Taiwan Entomological Society, Taichung, Taiwan</em>.</p></li>
