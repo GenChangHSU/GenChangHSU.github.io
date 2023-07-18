@@ -12,8 +12,8 @@ library(fontawesome)
 ```
 
 </b>
-<div style="text-align: center;">
-I would be glad to connect with you. Also find me on GitHub, Twitter, and Facebook!
+<div style="text-align: left; padding-left: 40px">
+Drop me a line or find me on GitHub, Twitter, and Facebook. I would be glad to connect with you!
 </div>
 
 <div style="height: 1em;"></div>
