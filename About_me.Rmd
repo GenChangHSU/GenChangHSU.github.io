@@ -15,9 +15,11 @@ h1 {font-weight: bold !important;
 
 <div style="display: flex;">
 
-<img src="./images/Personal photo.JPG" style="max-width: 300px; max-height: 400px; width:auto; height:auto; margin-top: 20px;">
+<img src="./images/Personal photo.JPG" style="max-width: 300px; max-height: 400px; width:auto; height:auto; margin-top: -15px;">
 
 <div style="padding-left: 40px; width: 800px">
+
+<div style="height: 1em;"></div>
 
 <div style="height: 50px;">
 <h1 style="text-align: center; font-style: italic;">Welcome to my website!</h1>
@@ -26,7 +28,7 @@ h1 {font-weight: bold !important;
 <div style="height: 1em;"></div>
 
 <div style="padding-left: 40px;">
-I am Gen-Chang Hsu, a young seedling ecologist ready to stretch out my shoots and roots. I sprouted my interests in biology since high school, during which I have been participating in the [2014 International Biology Olympiad](https://www.ibo-info.org/en/contest/past-ibos.html){target="_blank"} and awarded a gold medal.
+I am Gen-Chang Hsu, a young seedling ecologist ready to stretch out my shoots and roots!
 </div>
 
 </div>
@@ -35,19 +37,19 @@ I am Gen-Chang Hsu, a young seedling ecologist ready to stretch out my shoots an
 
 <div style="height: 1em;"></div>
 
-I obtained my undergraduate degree from the Department of Life Science, National Taiwan University. My Bachelor’s thesis, advised by [Dr. Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. I successfully defended my thesis and published the work in [*Ecosphere*](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3625){target="_blank"}. I have also worked as a teaching assistant for the course [_Introduction to Theoretical Ecology_](https://genchanghsu.github.io/2021_Fall_Introduction_to_Theoretical_Ecology/){target="_blank"} by Dr. Po-Ju Ke, extending my interests into ecological theories and mathematical modeling.
+I sprouted my interests in biology since high school, during which I participated in the 2014 International Biology Olympiad and awarded a gold medal. Fascinated by the exquisite relationships between organisms and environments, ecology since became my favorite field of biology and I have developed broad interests in various ecological topics. I am also into data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html) page for more information.
 
 <div style="height: 1em;"></div>
 
-I am currently a research assistant at [Dr. Po-Ju Ke’s lab](https://pojuke.com/), studying the temporal decay trajectory of plant-soil microbe interactions and its effects on seedling performance. Combining greenhouse experiments and mathematical modeling, this project will provide insights into how plant conditioning history affects the soil microbe communities and in turn influence forest regeneration and vegetation dynamics. 
+I obtained my undergraduate degree from the Department of Life Science, National Taiwan University. My Bachelor’s thesis, advised by [Dr. Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. Later, I worked as a research assistant in [Dr. Po-Ju Ke’s lab](https://pojuke.com/) studying the temporal decay trajectory of plant-soil microbe interactions. We combined greenhouse experiments and microbial analysis to explore how conditioning history affects soil microbial communities and in turn influences seedling performance and vegetation dynamics.
 
 <div style="height: 1em;"></div>
 
-Fascinated by the exquisite relationships between organisms and environments, ecology is my favorite field of biology at all times and I have broad interests in various ecological topics. I am also into data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html) page for more information.
+Currently, I am a PhD student in [Dr. Jennifer Thaler’s lab](https://blogs.cornell.edu/thaler/) working on plant-herbivore-predator tri-trophic interactions and chemical ecology of predator and prey. I hope my research can have real-world applications and contribute to agricultural sustainability. 
 
 <div style="height: 1em;"></div>
 
-In my free time, I enjoy outdoor activities like hiking, biking, and photography. I also love playing table tennis and cooking. Traveling around to explore this n-dimensional world is my lifetime goal!
+In my free time, I enjoy outdoor activities like hiking, biking, bird watching, and photography. Traveling around to explore this n-dimensional world is my lifetime goal!
 
 <br>
 
@@ -55,11 +57,11 @@ In my free time, I enjoy outdoor activities like hiking, biking, and photography
 <div style="height: 1em;"></div>
 Doctor of Philosophy (2023-Present), Department of Entomology, Cornell University.
 
-<div style="height:2px;"></div>
+<div style="height:4px;"></div>
 
 Bachelor of Science (2015-2021), Department of Life Science, National Taiwan University.
 
-<div style="height:2px;"></div>
+<div style="height:4px;"></div>
 
 Visiting student (2019-2020), Department of Integrative Biology, University of California, Berkeley.
 
