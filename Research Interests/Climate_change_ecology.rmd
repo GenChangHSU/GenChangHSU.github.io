@@ -32,7 +32,7 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-*	Impacts of multiple environmental stressors on organisms: How multiple climate variables jointly alter species performance and interactions?
+*	Impacts of multiple environmental stressors on organisms: How multiple climate change variables jointly affect species performance and trophic interactions?
 
 <div style="height: 0.1em;"></div>
 
@@ -40,15 +40,19 @@ h2 {font-weight: bold !important;}
 
 <div style="height: 0.1em;"></div>
 
-*	Effects of environmental variations and extremes on biological responses: Are variations and extremes critical for determining species performance and fitness consequences besides means?
+*	Effects of environmental variations and extremes on biological responses: What are the importance of variations and extremes vs. means in determining species performance and fitness consequences?
 
 <div style="height: 0.1em;"></div>
 
-*	Novel interactions and trophic mismatches: How climate-driven phenological/geographical shifts and the resulting temporal/spatial synchrony/asynchrony affect population dynamics of interacting species?
+*	Novel interactions and trophic mismatches: How climate-driven phenological/geographical shifts and the resulting temporal/spatial synchrony/asynchrony alter species interactions?
 
 <div style="height: 0.1em;"></div>
 
-* The role of phenotypic plasticity in buffering short-term and long-term environmental change: Will short-term acclimation facilitate or impede long-term adaptation?
+* Chemical ecology under climate change: How climate change affects the chemical communications among plants, herbivores, and predators and in turn their trophic interactions? 
+
+<div style="height: 0.1em;"></div>
+
+* The role of phenotypic plasticity in buffering short-term and long-term environmental changes: Will short-term acclimation facilitate or impede long-term adaptation?
 
 
 

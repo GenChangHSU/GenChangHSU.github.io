@@ -28,23 +28,19 @@ h2 {font-weight: bold !important;}
 }
 </style>
 
-# Food Web Dynamics and Ecosystems
+# Food Web Dynamics
 
 <br>
 
-*	Testing food web theories and trophic cascade hypotheses: What is the relative importance of bottom-up and top-down control in governing food web structure?
+*	Testing food web theories and trophic cascade hypotheses: What is the relative importance of bottom-up and top-down forces in governing food web structure?
 
 <div style="height: 0.1em;"></div>
 
-*	Interplay between bottom-up and top-down processes: Will simultaneous bottom-up and top-down forces counteract or augment each other?
+*	Interplay between bottom-up and top-down processes: Will simultaneous bottom-up and top-down processes counteract or augment each other?
 
 <div style="height: 0.1em;"></div>
 
-*	Connections between vertical and horizontal linkages in food webs: Will horizontal linkages facilitate the spread of perturbations from vertical pathways throughout the web, or dilute the effects of perturbations?
-
-<div style="height: 0.1em;"></div>
-
-*	Trophic downgrading and upgrading: How can trophic manipulations alter primary productivity, nutrient cycling, and carbon storage?
+*	Trophic downgrading and upgrading: How can trophic manipulations alter community processes and ecosystem functions such as primary productivity, nutrient cycling, and carbon storage?
 
 <div style="height: 0.1em;"></div>
 

@@ -32,19 +32,24 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-*	Crop-pest-enemy tri-trophic interactions in the face of climate change: Will warming exacerbate pest damage?
+*	Crop-pest-enemy tri-trophic interactions in the face of climate change: Will temperature warming exacerbate pest damage via alteration of morphological, physiological, and ecological traits of plants, herbivores, and predators?
 
 <div style="height: 0.1em;"></div>
 
-*	Interactions among different guilds of predators and their impacts on pest control: Are they additive, synergistic, or antagonistic?
+*	Interactions among different guilds of predators and their impacts on pest control: Are the effects of various predator groups on pest populations additive, synergistic, or antagonistic?
 
 <div style="height: 0.1em;"></div>
 
-*	The role of alternative prey in enemy-pest dynamics: What is the optimal density of alternative prey for greatest pest suppression?
+*	The role of alternative prey in enemy-pest dynamics: What is the optimal density of alternative prey for the greatest pest suppression?
 
 <div style="height: 0.1em;"></div>
 
-*	Effects of surrounding landscapes and spatial subsidies: How different edge-to-area ratios of farmland affect pest control and crop production?
+*	Effects of surrounding landscapes and spatial subsidies on pest control: How farmland characteristics (e.g., farm edge-to-area ratios, hedgerow and surrounding vegetation) affect pest control and crop production?
+
+<div style="height: 0.1em;"></div>
+
+*	Chemical ecology in agro-ecosystems: How can plant volatiles and predator odors be applied in the field to achieve better pest control?
+
 
 
 

@@ -47,7 +47,7 @@ li li::before {
 # Areas of Interest
 <div style="height: 1em;"></div>
 
-I have broad interests in species interactions, food web dynamics, trophic ecology, climate change ecology, and agroecology. Click the images below to learn more about these topics:
+I have broad interests in trophic interactions, food web dynamics, climate change ecology, and agroecology. Click the images below to learn more about these topics:
 
 <div style="height: 1em;"></div>
 
@@ -62,7 +62,7 @@ __Trophic Interactions__
 <div style="width: 50%; margin: auto; text-align: center;">
 <a href="./Research Interests/Food_webs.html" target="_blank"><img src="./Research Interests/Food_webs.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
 <div style="height: 0.25em;"></div>
-__Food Web Dynamics and Ecosystems__
+__Food Web Dynamics__
 </div>
 
 </div>
@@ -87,13 +87,9 @@ __Agroecology__
 
 <div style="height: 1.5em;"></div>
 
-I'm also working in partnership with Chi-Heng Hsieh on bird-window collisions, an overlooked wildlife issue that kills million of birds each year.
+Besides the above topics, I'm also working in partnership with [Chi-Heng Hsieh](https://orcid.org/0000-0002-9041-2011) on bird-window collisions, an overlooked wildlife issue that kills million of birds each year. To me, ecology is integrative, interactive, and interdisciplinary, and I am always open to cool ideas that spark my interests!
 
-To me, ecology is integrative, interactive, and interdisciplinary. So besides these areas, and I am always open to cool ideas that spark my interests.
-
-I have years of experience in statistical analysis and programming in R, and now I still keep arming myself with new quantitative skills. I highly value these "weapons"—they offer me the ability to tackle the research questions that intrigue me. Never stop learning!
-
-I am also into data visualization: creating awesome ggplots for effective science communication definitely brings me a great sense of joy and achievement!
+I have years of experience in statistical analysis and programming in R, and I highly value these quantitative skills—they offer me the "weapons" to tackle the research questions that intrigue me. I am also into data visualization; creating awesome ggplots for effective science communication definitely brings me a great sense of joy and achievement! Never stop learning!
 
 <br>
 <hr>
