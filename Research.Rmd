@@ -87,7 +87,7 @@ __Agroecology__
 
 <div style="height: 1.5em;"></div>
 
-Besides the above topics, I'm also working in partnership with [Chi-Heng Hsieh](https://orcid.org/0000-0002-9041-2011) on bird-window collisions, an overlooked wildlife issue that kills million of birds each year. To me, ecology is integrative, interactive, and interdisciplinary, and I am always open to cool ideas that spark my interests!
+Besides the above topics, I'm also working in partnership with [Chi-Heng Hsieh](https://orcid.org/0000-0002-9041-2011){target="_blank"} on bird-window collisions, an overlooked wildlife issue that kills million of birds each year. To me, ecology is integrative, interactive, and interdisciplinary, and I am always open to cool ideas that spark my interests!
 
 I have years of experience in statistical analysis and programming in R, and I highly value these quantitative skills—they offer me the "weapons" to tackle the research questions that intrigue me. I am also into data visualization; creating awesome ggplots for effective science communication definitely brings me a great sense of joy and achievement! Never stop learning!
 
