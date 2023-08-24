@@ -39,9 +39,9 @@ h1 {font-weight: bold !important;
 .bottom-left {
   position: absolute;
   bottom: -5%;
-  left: 25%;
+  left: 30%;
   color: white;
-  font-size: 50px; 
+  font-size: 55px; 
   font-style: italic;
   opacity: 0.5;
   font-family: Garamond;
@@ -52,7 +52,7 @@ h1 {font-weight: bold !important;
 <div style="width: 100%; height: 100%; margin-left: 0px; margin-bottom: -195px; margin-top: -4em">
 <img src="./images/Homepage.JPG">
 
-<div class="bottom-left">Rooting Deep before Stretching High</div>
+<div class="bottom-left">Root Deep, Stretch High</div>
 
 </div>
 
