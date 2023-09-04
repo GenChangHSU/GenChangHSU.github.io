@@ -52,7 +52,7 @@ h2 {font-weight: bold !important;}
 
 <div style="height: 0.1em;"></div>
 
-*	Multiple drivers of direct and indirect non-consumptive predator effects and landscape of fear: How can we integrate resource landscape, thermal landscape, evasion landscape, and encounter landscape to predict non-consumptive predator-prey interactions?
+*	Multiple drivers of non-consumptive predator effects: What abiotic and biotic factors may influence the strength of non-consumptive predator effects? How can we integrate resource landscape, thermal landscape, and landscape of fear (evasion landscape & encounter landscape) to predict non-consumptive predator-prey interactions?
 
 <div style="height: 0.1em;"></div>
 
