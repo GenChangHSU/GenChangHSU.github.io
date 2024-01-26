@@ -30,12 +30,30 @@ h1 {text-align: center !important;
 
 <div style="display: flex;">
 <div style="width: 16%;">
+2023-Present
+</div>
+<div style="width: 84%;">
+<b>_Graduate Student Researcher_</b><br>
+
+* Advisor: Dr. Jennifer Thaler (Department of Entomology, Cornell University)<br>
+
+* Dissertation: TBA<br>
+</div>
+</div>
+
+<div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
 2022-2023
 </div>
 <div style="width: 84%;">
 <b>_Research Assistant_</b><br>
-Lab PI: Dr. Po-Ju Ke <br>
-Project: The temporal decay trajectory of plant-soil microbe interactions
+
+* Lab PI: Dr. Po-Ju Ke (Institute of Ecology and Evolutionary Biology,
+National Taiwan University) <br>
+
+* Project: The temporal decay trajectory of plant-soil microbe interactions
 and its effects on plant community structure <br>
 </div>
 </div>
@@ -48,8 +66,11 @@ and its effects on plant community structure <br>
 </div>
 <div style="width: 84%;">
 <b>_Bachelor's Degree Thesis_</b><br>
-Advisor: Dr. Chuan-Kai Ho <br>
-Thesis title: Using Stable Isotopes (δ^13^C and δ^15^N) to Quantify the Diet Compositions of Generalist Arthropod Predators in Organic and Conventional Rice Farms <br>
+
+* Advisor: Dr. Chuan-Kai Ho (Institute of Ecology and Evolutionary Biology,
+National Taiwan University)<br>
+
+* Thesis: Using stable isotopes (δ^13^C and δ^15^N) to quantify the diet compositions of generalist arthropod predators in organic and conventional rice farms <br>
 (Thesis successfully defended on April 26, 2021)
 </div>
 </div>
@@ -62,8 +83,11 @@ Thesis title: Using Stable Isotopes (δ^13^C and δ^15^N) to Quantify the Diet C
 </div>
 <div style="width: 84%;">
 <b>_Undergraduate Research Assistant_</b><br>
-Lab PI: Dr. Chuan-Kai Ho <br>
-Porject: The Strategic Development and Operation Model Trials for the   Strengthening and Completion of Form and Function of Rural Ecosystem Service ─ Quantification of the Biological Control Efficacy of Arthropod Generalist Predators in Rice Agro-ecosystems using a Stable Isotope Approach<br>
+
+* Lab PI: Dr. Chuan-Kai Ho (Institute of Ecology and Evolutionary Biology,
+National Taiwan University)<br>
+
+* Project: The strategic development and operation model trials for the   strengthening and completion of form and function of rural ecosystem service─quantification of the biological control efficacy of arthropod generalist predators in rice agro-ecosystems using a stable isotope approach<br>
 </div>
 </div>
 
@@ -75,8 +99,11 @@ Porject: The Strategic Development and Operation Model Trials for the   Strength
 </div>
 <div style="width: 84%;">
 <b>_Ministry of Science and Technology Research Grant for University Students (Project No. 106-2813-C-002-163-B)_</b><br>
-Advisor: Dr. Chuan-Kai Ho <br>
-Porject: Effects of experimental warming, elevated CO~2~, and drought on above- and below-ground biomass and competition of a C~3~ and a C~4~ grass species<br>
+
+* Advisor: Dr. Chuan-Kai Ho (Institute of Ecology and Evolutionary Biology,
+National Taiwan University)<br>
+
+* Project: Effects of experimental warming, elevated CO~2~, and drought on above- and below-ground biomass and competition of a C~3~ and a C~4~ grass species<br>
 </div>
 </div>
 
@@ -90,26 +117,28 @@ Porject: Effects of experimental warming, elevated CO~2~, and drought on above- 
 ## Oral Presentations
 <div style="height: 0.15em;"></div>
 
-*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Mar. 2019). Stable isotopes reveal trophic dynamics of generalist arthropod predators in organic and conventional rice farms. _The 66^th^ Annual Meeting of the Ecological Society of Japan, Kobe, Japan_.
+*	<b><u>Hsu, G-C.</u></b> (Jan. 2024). Effects of temperature on risk-induced prey responses and non-consumptive predator effects. The 13^th^ Department of Entomology Annual Symposium, Cornell University, Ithaca, US.
 
-*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Jan. 2019). Trophic Dynamics of Generalist Arthropod Predators in Organic and Conventional Rice Paddy Farms ─ A Stable Isotope Approach. _The 30^th^ Congress of Animal Behavior and Ecology, Taipei, Taiwan_.
+*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Mar. 2019). Stable isotopes reveal trophic dynamics of generalist arthropod predators in organic and conventional rice farms. The 66^th^ Annual Meeting of the Ecological Society of Japan, Kobe, Japan.
 
-*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Oct. 2018). Trophic Dynamics of Arthropod Generalist Predators in Organic and Conventional Rice Paddy Farms ─ A Stable Isotope Approach. _International Long-Term Ecological Research Scientific Conference, Taichung, Taiwan_.
+*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Jan. 2019). Trophic dynamics of generalist arthropod predators in organic and conventional rice paddy farms—a stable isotope approach. The 30^th^ Congress of Animal Behavior and Ecology, Taipei, Taiwan.
+
+*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Oct. 2018). Trophic dynamics of generalist arthropod predators in organic and conventional rice paddy farms—a stable isotope approach. The International Long-term Ecological Research Scientific Conference, Taichung, Taiwan.
 
 <div style="height: 1em;"></div>
 
 ## Poster Presentations
 <div style="height: 0.15em;"></div>
 
-*	<b><u>Hsu, G-C.</u></b>, F-C. Hsu, C-C. Lee, C-C. Lin, Scotty Yang, and C-K. Ho. (May 2023). Catch a free ride with me ─ Ant hitchhiking on vehicles in Taiwan. _The 4^th^ International Congress on Biological Invasions_.
+*	<b><u>Hsu, G-C.</u></b>, F-C. Hsu, C-C. Lee, C-C. Lin, Scotty Yang, and C-K. Ho. (May 2023). Catch a free ride with me—ant hitchhiking on vehicles in Taiwan. The 4^th^ International Congress on Biological Invasions, Christchurch, New Zealand.
 
-*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Nov. 2018). Trophic Dynamics of Generalist Arthropod Predators in Organic and Conventional Rice Farms across Landscapes. _The 6^th^ Taiwan-Japan Ecological Workshop, Tainan, Taiwan_.
+*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Nov. 2018). Trophic dynamics of generalist arthropod predators in organic and conventional rice farms across landscapes. The 6^th^ Taiwan-Japan Ecological Workshop, Tainan, Taiwan.
 
-*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Mar. 2018). Trophic Dynamics of Generalist Arthropod Predators in Organic and Conventional Rice Farms across Landscapes. _The 65^th^ Annual Meeting of the Ecological Society of Japan, Sapporo, Japan_.
+*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Mar. 2018). Trophic dynamics of generalist arthropod predators in organic and conventional rice farms across landscapes. The 65^th^ Annual Meeting of the Ecological Society of Japan, Sapporo, Japan.
 
-*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Jan. 2018). Effects of farming practice and landscap on arthropod food web structure and biocontrol in rice paddies. _The 29^th^ Congress of Animal Behavior and Ecology, Hsinchu, Taiwan_.
+*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Jan. 2018). Effects of farming practice and landscape on arthropod food web structure and biocontrol in rice paddies. The 29^th^ Congress of Animal Behavior and Ecology, Hsinchu, Taiwan.
 
-*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Oct. 2017). Effects of farming practice and landscape on arthropod food web structure and biocontrol in rice paddies. _The 39^th^ Annual Meeting of Taiwan Entomological Society, Taichung, Taiwan_.
+*	<b><u>Hsu, G-C.</u></b>, J-A. Ou, and C-K. Ho. (Oct. 2017). Effects of farming practice and landscape on arthropod food web structure and biocontrol in rice paddies. The 39^th^ Annual Meeting of Taiwan Entomological Society, Taichung, Taiwan.
 
 <br>
 <hr>
@@ -117,6 +146,15 @@ Porject: Effects of experimental warming, elevated CO~2~, and drought on above- 
 
 # Teaching
 <div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
+2024 Spring
+</div>
+<div style="width: 84%;">
+Teaching Assistant for *Applied Statistics: Biological Experiments in Practice* at Cornell University <br>
+</div>
+</div>
 
 <div style="display: flex;">
 <div style="width: 16%;">
@@ -146,14 +184,26 @@ Summer Docent at The Museum of Zoology, National Taiwan University<br>
 <hr>
 <br>
 
-# Organization and Administration
+# Organization
 <div style="height: 1em;"></div>
 
-* Public Talk: _A Paradigm Shift in Conservation of Public Lands for 21st Century_      
-Location: 251C Hilgard Hall, University of California, Berkeley <br>
-Date: December 4, 2019 <br>
-Speaker: Dr. Sarah Allen (US National Park Service) <br>
+__The 13^th^ Department of Entomology Annual Symposium, Cornell University__
 
+* Date and location: January 19, 2024 at Morrison Room, Corson/Mudd Hall, Cornell University <br>
+
+* Role: Member of the Symposium Planning Committee of the Cornell Entomology Graduate Student Association (The Jugatae Club)<br>
+
+<div style="height: 1em;"></div>
+
+__Meeting Conservation Seminar Series__
+
+* Date and location: December 4, 2019 at Room 251C, Hilgard Hall, University of California, Berkeley <br>
+
+* Speaker: Dr. Sarah Allen (US National Park Service) <br>
+
+* Talk title: A paradigm shift in conservation of public lands for 21^st^ century <br>
+
+* Role: Member of The Society of Conservation Biology Berkeley Chapter <br>
 
 
 

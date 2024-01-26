@@ -133,6 +133,12 @@ h1 {text-align: center !important;
 
 <div style="height: 0.3em;"></div>
 
+* <p>Hsu, F-C.^†^, <b><u>G-C. Hsu</u></b>^†^, C-C. Lee, C-C. Lin, C-K. Ho, and C-C. Scotty Yang. 2024. Free ride without raising a thumb: A citizen science project reveals the pattern of active ant hitchhiking on vehicles and its ecological implications. <i>**Ecological Entomology**</i> (in review). (^†^ Co-first authors).</p> 
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.01.31.478501" target="_blank">Preprint</a> -->
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a> -->
+
+<div style="height: 0.3em;"></div>
+
 * <p>Ke, P-J., S.X. Ou, G.S. Kandlikar, <b><u>G-C. Hsu</u></b>, J. Wan, and M. Krishnadas. 2023. Time will tell: the temporal and demographic contexts of plant-soil microbe interactions 
 <!-- <i>**New Phytologist**</i>  -->
 (in preparation).</p> 
