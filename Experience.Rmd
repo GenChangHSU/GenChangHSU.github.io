@@ -50,7 +50,7 @@ h1 {text-align: center !important;
 
 <div style="display: flex; ">
 <div style="width: 16%;">
-2023-Present
+2023–Present
 </div>
 <div style="width: 84%;">
 <b>_Graduate Student Researcher_</b><br>
@@ -65,7 +65,7 @@ h1 {text-align: center !important;
 
 <div style="display: flex;">
 <div style="width: 16%;">
-2022-2023
+2022–2023
 </div>
 <div style="width: 84%;">
 <b>_Research Assistant_</b><br>
@@ -99,7 +99,7 @@ National Taiwan University)<br>
 
 <div style="display: flex;">
 <div style="width: 16%;">
-2017-2021
+2017–2021
 </div>
 <div style="width: 84%;">
 <b>_Undergraduate Research Assistant_</b><br>
@@ -115,7 +115,7 @@ National Taiwan University)<br>
 
 <div style="display: flex;">
 <div style="width: 16%;">
-2017-2018
+2017–2018
 </div>
 <div style="width: 84%;">
 <b>_Ministry of Science and Technology Research Grant for University Students (Project No. 106-2813-C-002-163-B)_</b><br>
@@ -215,7 +215,7 @@ __The 13^th^ Department of Entomology Annual Symposium, Cornell University__
 
 <div style="height: 1em;"></div>
 
-__Meeting Conservation Seminar Series__
+__"Meeting Conservation" Seminar Series__
 
 * Date and location: December 4, 2019 at Room 251C, Hilgard Hall, University of California, Berkeley <br>
 

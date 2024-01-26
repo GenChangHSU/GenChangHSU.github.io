@@ -57,15 +57,15 @@ In my free time, I enjoy biking, hiking, bird watching, and photography. Traveli
 
 # Education:
 <div style="height: 1em;"></div>
-Doctor of Philosophy (2023-Present), Department of Entomology, Cornell University.
+Doctor of Philosophy (2023–Present), Department of Entomology, Cornell University.
 
 <div style="height:4px;"></div>
 
-Bachelor of Science (2015-2021), Department of Life Science, National Taiwan University.
+Bachelor of Science (2015–2021), Department of Life Science, National Taiwan University.
 
 <div style="height:4px;"></div>
 
-Visiting student (2019-2020), Department of Integrative Biology, University of California, Berkeley.
+Visiting student (2019–2020), Department of Integrative Biology, University of California, Berkeley.
 
 <div style="height:2px;"></div>
 
