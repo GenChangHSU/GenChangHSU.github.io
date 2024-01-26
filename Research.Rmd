@@ -42,6 +42,15 @@ li li::before {
   width: 1em; 
   margin-left: -1em; 
 }
+
+#areas-of-interest {
+ width: 115%; margin-left: -50px;
+}
+
+#research-projects {
+ width: 115%; margin-left: -50px;
+}
+
 </style> 
 
 # Areas of Interest
@@ -98,7 +107,7 @@ I have years of experience in statistical analysis and programming in R, and I h
 # Research Projects
 <div style="height: 1em;"></div>
 
-## 2021-Present
+## 2021–Present
 <br>
 
 <div style="display: flex;">
@@ -132,7 +141,7 @@ Revisiting the ecological groups and isotopic niches of earthworms in North Amer
 <br>
 <br>
 
-## 2015-2020
+## 2015–2020
 <br>
 <div style="display: flex;">
 <img src="./Research Projects/2015-2020/Rice.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">

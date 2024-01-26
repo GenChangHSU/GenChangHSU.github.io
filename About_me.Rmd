@@ -8,12 +8,17 @@ output:
 ---
 
 <style>
-h1 {font-weight: bold !important; 
+h1 {text-align: center !important;
+    font-weight: bold !important; 
     font-size: 42px !important}
+    
+#education {
+ width: 115%; margin-left: -50px;
+}
 </style>   
 
 
-<div style="display: flex;">
+<div style="display: flex; width: 115%; margin-left: -50px;">
 
 <img src="./images/Personal photo.JPG" style="max-width: 300px; max-height: 400px; width:auto; height:auto; margin-top: -15px;">
 
@@ -37,25 +42,31 @@ I am Gen-Chang Hsu, a young seedling ecologist ready to stretch out my shoots an
 
 <div style="height: 1em;"></div>
 
+<div style="display: flex; width: 115%; margin-left: -50px;">
 I sprouted my interests in biology since high school, during which I participated in the 2014 International Biology Olympiad and was awarded a gold medal. Fascinated by the exquisite relationships between organisms and the environment, ecology since became my favorite field of biology and I have developed broad interests in various ecological topics. I am also into data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html){target="_blank"} page for more information.
+</div>
 
 <div style="height: 1em;"></div>
 
+<div style="display: flex; width: 115%; margin-left: -50px;">
 I obtained my undergraduate degree from the Department of Life Science, National Taiwan University. My Bachelor’s thesis, advised by [Dr. Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. Later, I worked as a research assistant in [Dr. Po-Ju Ke’s lab](https://pojuke.com/){target="_blank"} studying the temporal decay trajectory of plant-soil microbe interactions. We combined greenhouse experiments and microbial analysis to explore how conditioning history affects soil microbial communities and in turn influences seedling performance and vegetation dynamics.
+</div>
 
 <div style="height: 1em;"></div>
 
+<div style="display: flex; width: 115%; margin-left: -50px;">
 Currently, I am a PhD student in [Dr. Jennifer Thaler’s lab](https://blogs.cornell.edu/thaler/){target="_blank"} at Cornell working on plant-herbivore-predator tri-trophic interactions and the ecology of fear—non-consumptive predator effects on prey. By addressing the basic ecological questions about how plants, insect herbivores, and predators interact with each other, I hope my research can help predict species interactions in response to environmental change as well as develop management strategies to enhance pest control in agro-ecosystems.
-
-
+</div>
 
 <div style="height: 1em;"></div>
 
+<div style="display: flex; width: 115%; margin-left: -50px;">
 In my free time, I enjoy biking, hiking, bird watching, and photography. Traveling around to explore this n-dimensional world is my lifetime goal!
+</div>
 
 <br>
 
-# Education:
+# Education
 <div style="height: 1em;"></div>
 Doctor of Philosophy (2023–Present), Department of Entomology, Cornell University.
 
