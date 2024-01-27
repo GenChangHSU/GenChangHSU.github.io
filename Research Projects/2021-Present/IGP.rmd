@@ -26,16 +26,27 @@ h2 {font-weight: bold !important;}
   display: inline-block;
   width: 60px;
 }
+
+#project-summary {
+ width: 115%; margin-left: -50px;
+}
+
+#publication {
+ width: 115%; margin-left: -50px;
+}
+
 </style>
 
+<div style="width: 115%; margin-left: -50px;">
 # An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field
+</div>
 
 <br>
 
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
-Intraguild predation (IGP) is ubiquitous in natural and human-managed systems and plays a critical role in food web dynamics. Studies have documented the occurrence of IGP across a wide range of predator taxa. However, to better understand the effect of IGP on species population dynamics, we also need to know its degree/intensity (i.e., the proportion [in number] of mesopredators consumed in the total diet [shared prey + mesopredator] of top predators), yet little research has looked at this aspect.
+Intraguild predation (IGP) is ubiquitous in natural and human-managed systems and plays a critical role in food web dynamics. Studies have documented the occurrence of IGP across a wide range of predator taxa. However, to better understand the effect of IGP on species population dynamics, we also need to know its degree/intensity (i.e., the proportion [in number] of mesopredators consumed in the total diet [shared prey + mesopredator] of top predators), which receives little attention in past research.
 
 <div style="height: 1em;"></div>
 
@@ -43,14 +54,14 @@ To fill this gap, I propose an experimental framework that combines controlled f
 
 <div style="height: 1em;"></div>
 
-The framework leverages the strengths of different experimental approaches to study trophic interactions: controlled feeding trials minimize the confounding effects of non-focal species on the interactions between focal organisms; stable isotope analysis of field samples allows for trophic interactions under natural settings. Therefore, the framework provides a useful tool for quantifying IGP in a more accurate and realistic fashion. Furthermore, the current framework can be extended to food webs involving more complex interactions (e.g., multiple shared prey and cannibalism) and complemented with other approaches (e.g., molecular gut content analysis) to capture a more complete picture of IGP dynamics in the field.
+The framework leverages the strengths of different experimental approaches to studying trophic interactions: Controlled feeding trials minimize the confounding effects of non-focal species on the interactions between focal organisms; stable isotope analysis of field samples allows for trophic interactions under natural settings. Therefore, the framework provides a useful tool for quantifying IGP in a more accurate and realistic fashion. Furthermore, the current framework can potentially be extended to food webs involving more complex interactions (e.g., multiple shared prey and cannibalism) and complemented with other approaches (e.g., molecular gut content analysis) to capture a more complete picture of IGP dynamics in the field.
 
 <br>
 
 ## Publication
 <div style="height: 0.25em;"></div>
 
-<p><b><u>Hsu, G-C.</u></b> 2023. An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field. <i>**Journal of Zoology**</i>
+<p><b><u>Hsu, G-C.</u></b> 2023. An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field. <i>**Journal of Zoology**</i> 320: 1-6.
 <a href="https://doi.org/10.1111/jzo.13050" target="_blank"> https://doi.org/10.1111/jzo.13050</a></p>
 
 

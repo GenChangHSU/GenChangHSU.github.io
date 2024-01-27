@@ -13,7 +13,7 @@ output:
 <style>
 h1 {text-align: center !important; 
    font-weight: bold !important; 
-   font-size: 36px !important;
+   font-size: 38px !important;
    line-height: 1.5em;}
    
 h2 {font-weight: bold !important;} 
@@ -26,6 +26,11 @@ h2 {font-weight: bold !important;}
   display: inline-block;
   width: 60px;
 }
+
+#trophic-interactions {
+ width: 115%; margin-left: -50px;
+}
+
 </style>
 
 # Trophic Interactions

@@ -26,28 +26,39 @@ h2 {font-weight: bold !important;}
   display: inline-block;
   width: 60px;
 }
+
+#project-summary {
+ width: 115%; margin-left: -50px;
+}
+
+#publication {
+ width: 115%; margin-left: -50px;
+}
+
 </style>
 
+<div style="width: 115%; margin-left: -50px;">
 # Quantifying the diet compositions of generalist arthropod predators in rice agro-ecosystems
+</div>
 
 <br>
 
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
-Generalist arthropod predators (GAPs) are quite common in agro-ecosystems and play a critical ecological role in food web dynamics. GAPs have been used as biocontrol agents; however, due to their polyphagous nature, these predators may feed on not only the target pests but also the alternative prey. As a result, there is much concern about whether these predators can provide effective biocontrol services in agricultural systems, and such concern necessitates a better understanding of the trophic interactions between GAPs and their prey in the field.    
+Generalist arthropod predators (GAPs) are ubiquitous in agro-ecosystems and play a critical ecological role in food web dynamics. GAPs have been used as biocontrol agents; however, because of their polyphagous nature, these predators may feed on not only the target pests but also the alternative prey. As a result, there is much concern about whether these predators can provide effective biocontrol services in agro-ecosystems. Such a concern necessitates a better understanding of the trophic interactions between GAPs and their prey in the field.    
 
 <div style="height: 1em;"></div>
 We sampled arthropod communities in rice farms in central Taiwan, 
-analyzed their stable isotope signatures, and used the Bayesian stable isotope mixing model to quantify the diet compositions of GAPs (spiders and ladybeetles) from different prey sources (rice pests, tourist herbivores, detritivores).
+analyzed their stable isotope signatures, and used the Bayesian stable isotope mixing models to quantify the diet compositions of GAPs (spiders and ladybeetles) from different prey sources (rice pests, tourist herbivores, and detritivores).
 
 <div style="height: 1em;"></div>
 
-We found that GAPs in both organic and conventional farms consumed increasing proportion of rice pests in their diet over the crop season (rice pests accounted for over 90% of GAPs' diet at the ripening stage). Surprisingly, our results show that GAPs in conventional farms consumed higher proportion of rice pests in the diet compared with GAPs in organic farms. Moreover, we also found a positive relationship between the relative abundance of rice pests in the field and the proportion of rice pests consumed in GAPs' diet. This suggests that GAPs can increase the consumption on pests when pest populations build up.
+We found that GAPs in both organic and conventional farms consumed increasing proportion of rice pests in their diets over the crop season (rice pests accounted for over 90% of GAPs' diet at the ripening stage). Surprisingly, our results show that GAPs in conventional farms consumed higher proportion of rice pests compared with GAPs in organic farms. Moreover, we also found a positive relationship between the relative abundance of rice pests in the field and the proportion of rice pests consumed in GAPs' diet. This suggests that GAPs can increase their consumption on pests when pest populations build up.
 
 <div style="height: 1em;"></div>
 
-Our findings demonstrate the strong per capita consumption effect of GAPs on pests, highlighting their promising potential as biocontrol agents.  Since the total effects of predators on prey populations depend on not only the per capita consumption effect but also the density and diversity of predators in the field, the next important step is to combine multiple approaches (e.g., field observations, manipulative experiments, molecular gut content analysis) to clarify the link between these two aspects so that we can gain a deeper insight into the complex predator-prey trophic dynamics in agro-ecosystems. 
+Our findings demonstrate the strong per capita consumption effect of GAPs on pests, highlighting their promising potential as biocontrol agents. The next important step is to combine multiple approaches (e.g., field observations, manipulative experiments, and molecular gut content analysis) to gain a deeper insight into the complex predator-prey trophic dynamics in agro-ecosystems.
 
 <br>
 
