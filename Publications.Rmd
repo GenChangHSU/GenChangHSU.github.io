@@ -111,7 +111,7 @@ h1 {text-align: center !important;
 
 <div style="height: 0.3em;"></div>
 
-* <p><b><u>Hsu, G-C.</u></b> 2023. An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field. <i>**Journal of Zoology**</i> 320: 1-6.
+* <p><b><u>Hsu, G-C.</u></b> 2023. An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field. <i>**Journal of Zoology**</i> 320: 1–6.
 <a href="https://doi.org/10.1111/jzo.13050" target="_blank"> https://doi.org/10.1111/jzo.13050</a></p>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2023_Journal_of_Zoology.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/

@@ -61,7 +61,7 @@ The framework leverages the strengths of different experimental approaches to st
 ## Publication
 <div style="height: 0.25em;"></div>
 
-<p><b><u>Hsu, G-C.</u></b> 2023. An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field. <i>**Journal of Zoology**</i> 320: 1-6.
+<p><b><u>Hsu, G-C.</u></b> 2023. An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field. <i>**Journal of Zoology**</i> 320: 1–6.
 <a href="https://doi.org/10.1111/jzo.13050" target="_blank"> https://doi.org/10.1111/jzo.13050</a></p>
 
 
