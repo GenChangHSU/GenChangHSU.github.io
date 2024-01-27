@@ -37,20 +37,11 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-*	Plant-herbivore-predator-detritivore multi-trophic interactions: How do above-ground grazing food webs and below-ground detritus food webs interact and feed back to each other?
-
-<div style="height: 0.1em;"></div>
-
 *	Mechanisms underlying the diet compositions of consumers: What are the roles of resource availability, resource attractiveness and preference, energy and nutritional requirement, foraging behavior and hunting mode, immediate and potential predation risk, and developmental stage in determining dietary patterns of consumers?
 
 <div style="height: 0.1em;"></div>
 
-*	Plant-herbivore arms race: Can morphological, physiological, physical, and chemical trait matching between plants and herbivores predict the degree of herbivory?
-
-<div style="height: 0.1em;"></div>
-
 * Ecology of various types of plant defense mechanisms against herbivores: What biotic and abiotic factors determine the relative importance of physical vs. chemical, direct vs. indirect, and induced vs. constitutive plant defense? 
-
 <div style="height: 0.1em;"></div>
 
 *	The role of consumptive vs. non-consumptive predator effects on predator-prey interactions: What are the relative strengths of density-, physiology-, and behavior-mediated trophic interactions in governing predator-prey population dynamics?
