@@ -13,7 +13,7 @@ output:
 <style>
 h1 {text-align: center !important; 
    font-weight: bold !important; 
-   font-size: 36px !important;
+   font-size: 38px !important;
    line-height: 1.5em;}
    
 h2 {font-weight: bold !important;} 
@@ -28,7 +28,7 @@ h2 {font-weight: bold !important;}
 }
 
 #climate-change-ecology {
- width: 115%; margin-left: -50px;
+ width: 115%; margin-left: -55px;
 }
 
 </style>
@@ -37,28 +37,28 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-*	Impacts of multiple environmental stressors on organisms: How multiple climate change variables jointly affect species performance and trophic interactions?
+*	Impacts of multiple stressors on organisms: How do multiple climate change variables (temperature, precipitation, CO~2~, etc.) jointly affect species performance and interactions as well as community structures and ecosystem functioning?
 
 <div style="height: 0.1em;"></div>
 
-*	Integrating biological responses to temperature warming across levels of biological organization: How can we scale up from changes in individuals’ traits and species interactions to predict population dynamics and community structure?
+*	Integrating biological responses to temperature warming across levels of biological organization: How can warming-induced changes in individuals’ traits and species interactions be scaled up to predict population dynamics and community structures?
 
 <div style="height: 0.1em;"></div>
 
-*	Effects of environmental variations and extremes on biological responses: What are the importance of variations and extremes vs. means in determining species performance and fitness consequences?
+*	Effects of temperature variation and extremes on biological responses: What is the importance of temperature variation and extremes in determining species performance and fitness consequences?
 
 <div style="height: 0.1em;"></div>
 
-*	Novel interactions and trophic mismatches: How climate-driven phenological/geographical shifts and the resulting temporal/spatial synchrony/asynchrony alter species interactions?
+*	Novel interactions and mismatches: How will climate-induced phenological and geographical shifts in organisms affect their temporal and spatial synchrony/asynchrony and in turn result in novel interactions and mismatches?
 
 <div style="height: 0.1em;"></div>
 
-* Chemical ecology under climate change: How climate change affects the chemical communications among plants, herbivores, and predators and in turn their trophic interactions? 
+* Chemical ecology under climate change: How will climate change affect chemical communications between and among plants, herbivores, and natural enemies and in turn their trophic interactions?
 
 <div style="height: 0.1em;"></div>
 
-* The role of phenotypic plasticity in buffering short-term and long-term environmental changes: Will short-term acclimation facilitate or impede long-term adaptation?
+* The role of phenotypic plasticity in buffering short-term and long-term environmental changes: Does short-term acclimation via phenotypic plasticity facilitate or impede long-term adaptation via evolutionary changes?
 
 
-* Phenological shifts and predator-prey interactions
+
 

@@ -28,7 +28,7 @@ h2 {font-weight: bold !important;}
 }
 
 #food-web-dynamics {
- width: 115%; margin-left: -50px;
+ width: 115%; margin-left: -55px;
 }
 
 </style>
@@ -37,19 +37,15 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-*	Testing food web theories and trophic cascade hypotheses: What is the relative importance of bottom-up and top-down forces in governing food web structure?
+*	Bottom-up and top-down control in food web dynamics: What is the relative importance of bottom-up vs. top-down forces, and how do these two forces interact to shape food web structures? 
 
 <div style="height: 0.1em;"></div>
 
-*	Interplay between bottom-up and top-down processes: Will simultaneous bottom-up and top-down processes counteract or augment each other?
+*	Trophic downgrading and upgrading: How do trophic manipulations at higher levels alter community processes and ecosystem functions such as primary productivity, nutrient cycling, and carbon storage?
 
 <div style="height: 0.1em;"></div>
 
-*	Trophic downgrading and upgrading: How can trophic manipulations alter community processes and ecosystem functions such as primary productivity, nutrient cycling, and carbon storage?
-
-<div style="height: 0.1em;"></div>
-
-*	Interactions between food webs in different habitats: How may external resources such as spatial subsidies and allochthonous inputs induce trophic cascades in focal habitat?
+*	Interactions between food webs in different habitats: How do external resources such as spatial subsidies and allochthonous inputs influence trophic dynamics in the focal habitat?
 
 <div style="height: 0.1em;"></div>
 

@@ -28,7 +28,7 @@ h2 {font-weight: bold !important;}
 }
 
 #trophic-interactions {
- width: 115%; margin-left: -50px;
+ width: 115%; margin-left: -55px;
 }
 
 </style>
@@ -37,26 +37,27 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-*	Mechanisms underlying the diet compositions of consumers: What are the roles of resource availability, resource attractiveness and preference, energy and nutritional requirement, foraging behavior and hunting mode, immediate and potential predation risk, and developmental stage in determining dietary patterns of consumers?
+* Ecology of plant defenses against herbivores: How do various abiotic and biotic factors affect the relative importance of physical vs. chemical, direct vs. indirect, and induced vs. constitutive plant defenses against herbivores? 
 
 <div style="height: 0.1em;"></div>
 
-* Ecology of various types of plant defense mechanisms against herbivores: What biotic and abiotic factors determine the relative importance of physical vs. chemical, direct vs. indirect, and induced vs. constitutive plant defense? 
-<div style="height: 0.1em;"></div>
-
-*	The role of consumptive vs. non-consumptive predator effects on predator-prey interactions: What are the relative strengths of density-, physiology-, and behavior-mediated trophic interactions in governing predator-prey population dynamics?
+* Indirect effects of predators on plants: What is the relative importance of density-mediated and trait-mediated indirect effects of predators on plants?
 
 <div style="height: 0.1em;"></div>
 
-*	Multiple drivers of non-consumptive predator effects: What abiotic and biotic factors may influence the strength of non-consumptive predator effects? How can we integrate resource landscape, thermal landscape, and landscape of fear (evasion landscape & encounter landscape) to predict non-consumptive predator-prey interactions?
+*	Factors influencing the diet compositions of organisms: How do resource availability, resource attractiveness and preference, energy and nutritional requirement, foraging behavior and hunting mode, predation risk, and ontogeny jointly affect the diet compositions of organisms?
 
 <div style="height: 0.1em;"></div>
 
-* Plant-herbivore-predator tri-trophic triangles: How can we shift from the traditional chain-perspective of plant-herbivore-predator tri-trophic interactions to the modern network-perspective of tri-trophic triangles?
+*	The strength of consumptive and non-consumptive predator effects: How do various abiotic and biotic factors influence the strength of consumptive vs. non-consumptive predator effects in different types of ecosystems?
 
 <div style="height: 0.1em;"></div>
 
-*	Intraguild predation, omnivory, and cannibalism of organisms: What are the patterns of intraguild predation, omnivory, and cannibalism in different types of ecosystems and their impacts on food web dynamics?
+*	Predator-predator interactions and multi-predator effects: How do assemblages of predators with different foraging modes, habitat domains, and dial activity patterns interact to affect prey populations?   
+
+<div style="height: 0.1em;"></div>
+
+* Intraguild predation, omnivory, and cannibalism: How do the levels of intraguild predation, omnivory, and cannibalism vary among different ecosystems and their impacts on food web dynamics?
 
 
 

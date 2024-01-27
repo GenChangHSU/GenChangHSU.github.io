@@ -13,7 +13,7 @@ output:
 <style>
 h1 {text-align: center !important; 
    font-weight: bold !important; 
-   font-size: 36px !important;
+   font-size: 38px !important;
    line-height: 1.5em;}
    
 h2 {font-weight: bold !important;} 
@@ -28,7 +28,7 @@ h2 {font-weight: bold !important;}
 }
 
 #agroecology {
- width: 115%; margin-left: -50px;
+ width: 115%; margin-left: -55px;
 }
 
 </style>
@@ -37,23 +37,23 @@ h2 {font-weight: bold !important;}
 
 <br>
 
-*	Crop-pest-enemy tri-trophic interactions in the face of climate change: Will temperature warming exacerbate pest damage via alteration of morphological, physiological, and ecological traits of plants, herbivores, and predators?
+*	Crop-pest-enemy tri-trophic interactions in the face of climate change: How will climate change affect pest damage and crop production via alteration of traits and performance of crop plants, pest herbivores, and natural enemies?
 
 <div style="height: 0.1em;"></div>
 
-*	Interactions among different guilds of predators and their impacts on pest control: Are the effects of various predator groups on pest populations additive, synergistic, or antagonistic?
+*	Interactions among different guilds of predators: How do different guilds of predators interact to regulate pest populations? In what contexts will their effects be additive, synergistic, and antagonistic?
 
 <div style="height: 0.1em;"></div>
 
-*	The role of alternative prey in enemy-pest dynamics: What is the optimal density of alternative prey for the greatest pest suppression?
+*	The role of alternative prey in enemy-pest interactions: What is the optimal density of alternative prey for achieving the best pest suppression outcome?
 
 <div style="height: 0.1em;"></div>
 
-*	Effects of surrounding landscapes and spatial subsidies on pest control: How farmland characteristics (e.g., farm edge-to-area ratios, hedgerow and surrounding vegetation) affect pest control and crop production?
+*	Effects of farmland characteristics on pest control: How do various farmland characteristics (farm edge-to-area ratios, hedgerow and surrounding vegetation, etc.) affect species communities and interactions, pest control, and crop production?
 
 <div style="height: 0.1em;"></div>
 
-*	Chemical ecology in agro-ecosystems: How can plant volatiles and predator odors be applied in the field to achieve better pest control?
+*	Chemical ecology in agro-ecosystems: How can plant volatiles and predator odors be applied in the field to enhance pest control?
 
 
 
