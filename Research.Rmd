@@ -83,7 +83,7 @@ __Food Web Dynamics__
 <div style="width: 50%; margin: auto; text-align: center;">
 <a href="./Research Interests/Climate_change_ecology.html" target="_blank"><img src="./Research Interests/Climate_change_ecology.JPG" style="width: 95%; height: auto; border-radius: 3px;"></a>
 <div style="height: 0.25em;"></div>
-__Climate Change Ecology__
+__Thermal and Climate Change Ecology__
 </div>
 
 <div style="width: 50%; margin: auto; text-align: center;">
