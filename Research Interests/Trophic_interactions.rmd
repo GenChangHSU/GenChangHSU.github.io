@@ -27,10 +27,6 @@ h2 {font-weight: bold !important;}
   width: 60px;
 }
 
-#trophic-interactions {
- width: 115%; margin-left: -55px;
-}
-
 </style>
 
 # Trophic Interactions

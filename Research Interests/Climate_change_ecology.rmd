@@ -27,10 +27,6 @@ h2 {font-weight: bold !important;}
   width: 60px;
 }
 
-#climate-change-ecology {
- width: 115%; margin-left: -55px;
-}
-
 </style>
 
 # Climate Change Ecology
