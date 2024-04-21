@@ -19,13 +19,14 @@ h1 {text-align: center !important;
 
 <div style="height: 1em;"></div>
 
-<div style="width:1080px; margin-left: -80px; text-align: center;">
+<div style="text-align: center;">
 This is a map of the great experiences in my life. Stay inquisitive and never stop exploring!
 </div>
 
 <div style="height: 0.7em;"></div>
 
-<div style="width:1080px; height: 100%; margin-left: -80px;">
+<!-- <div style="width:1080px; height: 100%; margin-left: -80px;"> -->
+<div>
 <iframe src="./Map.html" style="width:100%; height: 600px; border-color: grey; border-width: 10px; border: none!important;"></iframe>
 </div>
 
