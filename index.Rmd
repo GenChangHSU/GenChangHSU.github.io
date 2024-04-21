@@ -40,7 +40,7 @@ h1 {font-weight: bold !important;
   position: absolute;
   bottom: -20%;
   left: 30%;
-  color: white;
+  color: red;
   font-size: 60px; 
   font-style: italic;
   opacity: 0.5;
