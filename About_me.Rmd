@@ -17,13 +17,10 @@ body, html {
  overflow-x: hidden
 }
 
-#education {
- width: 115%; margin-left: -50px;
-}
 </style>   
 
 
-<div style="display: flex; width: 115%; margin-left: -50px;">
+<div style="display: flex;">
 
 <img src="./images/Personal photo.JPG" style="max-width: 300px; max-height: 400px; width:auto; height:auto; margin-top: -15px;">
 
@@ -53,19 +50,19 @@ I sprouted my interests in biology since high school, during which I participate
 
 <div style="height: 1em;"></div>
 
-<div style="display: flex; width: 100%">
+<div style="display: flex;">
 I obtained my undergraduate degree from the Department of Life Science, National Taiwan University. My Bachelor’s thesis, advised by [Dr. Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. Later, I worked as a research assistant in [Dr. Po-Ju Ke’s lab](https://pojuke.com/){target="_blank"} studying the temporal decay trajectory of plant-soil microbe interactions. We combined greenhouse experiments and microbial analysis to explore how conditioning history affects soil microbial communities and in turn influences seedling performance and vegetation dynamics.
 </div>
 
 <div style="height: 1em;"></div>
 
-<div style="display: flex; width: 100%; margin-left: -50px;">
-Currently, I am a PhD student in [Dr. Jennifer Thaler’s lab](https://blogs.cornell.edu/thaler/){target="_blank"} at Cornell working on plant-herbivore-predator tri-trophic interactions and the ecology of fear—non-consumptive predator effects on prey. By addressing the basic ecological questions about how plants, insect herbivores, and predators interact with each other, I hope my research can help predict species interactions in response to environmental change as well as develop management strategies to enhance pest control in agro-ecosystems.
+<div style="display: flex;">
+Currently, I am a PhD student in [Dr. Jennifer Thaler’s lab](https://blogs.cornell.edu/thaler/){target="_blank"} at Cornell working on plant-herbivore-predator tri-trophic interactions and the ecology of fear—non-consumptive predator effects on prey. By addressing basic ecological questions about how plants, insect herbivores, and predators interact with each other, I hope my research can help predict species interactions in response to environmental change as well as develop management strategies to enhance pest control in agro-ecosystems.
 </div>
 
 <div style="height: 1em;"></div>
 
-<div style="display: flex; width: 115%; margin-left: -50px;">
+<div style="display: flex;">
 In my free time, I enjoy biking, hiking, bird watching, and photography. Traveling around to explore this n-dimensional world is my lifetime goal!
 </div>
 
