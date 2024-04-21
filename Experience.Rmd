@@ -23,26 +23,6 @@ h1 {text-align: center !important;
   margin-top: -1px;
 }
 
-#professional-experience {
- width: 115%; margin-left: -65px;
-}
-
-#conference-presentations {
- width: 115%; margin-left: -65px;
-}
-
-#teaching {
- width: 115%; margin-left: -65px;
-}
-
-#social-involvement {
- width: 115%; margin-left: -65px;
-}
-
-#organization {
- width: 115%; margin-left: -65px;
-}
-
 </style>
 
 # Professional Experience
