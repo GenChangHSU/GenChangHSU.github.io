@@ -20,7 +20,7 @@ h1 {text-align: center !important;
 <div style="height: 1em;"></div>
 
 <div style="text-align: center;">
-This is a map of the great experiences in my life. Stay inquisitive and never stop exploring!
+This is a map of the great experiences in my life. Stay inquisitive and keep exploring!
 </div>
 
 <div style="height: 0.7em;"></div>
