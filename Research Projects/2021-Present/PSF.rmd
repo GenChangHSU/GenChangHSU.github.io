@@ -27,17 +27,9 @@ h2 {font-weight: bold !important;}
   width: 60px;
 }
 
-#project-summary {
- width: 115%; margin-left: -50px;
-}
-
-#publication {
- width: 115%; margin-left: -50px;
-}
-
 </style>
 
-<div style="width: 115%; margin-left: -50px;">
+<div>
 # The temporal dynamics of plant-soil microbe interactions─effects on soil microbial communities and seedling performance
 </div>
 

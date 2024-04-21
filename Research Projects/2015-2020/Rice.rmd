@@ -27,17 +27,9 @@ h2 {font-weight: bold !important;}
   width: 60px;
 }
 
-#project-summary {
- width: 115%; margin-left: -50px;
-}
-
-#publication {
- width: 115%; margin-left: -50px;
-}
-
 </style>
 
-<div style="width: 115%; margin-left: -50px;">
+<div>
 # Quantifying the diet compositions of generalist arthropod predators in rice agro-ecosystems
 </div>
 

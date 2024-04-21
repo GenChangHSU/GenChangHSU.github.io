@@ -27,13 +27,9 @@ h2 {font-weight: bold !important;}
   width: 60px;
 }
 
-#project-summary {
- width: 115%; margin-left: -50px;
-}
-
 </style>
 
-<div style="width: 115%; margin-left: -50px;">
+<div>
 # Competition between a C~3~ and a C~4~ grass under experimental warming, drought, and elevated CO~2~ 
 </div>
 

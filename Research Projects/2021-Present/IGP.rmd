@@ -27,17 +27,9 @@ h2 {font-weight: bold !important;}
   width: 60px;
 }
 
-#project-summary {
- width: 115%; margin-left: -50px;
-}
-
-#publication {
- width: 115%; margin-left: -50px;
-}
-
 </style>
 
-<div style="width: 115%; margin-left: -50px;">
+<div>
 # An experimental framework for quantifying the degree of intraguild predation in omnivorous food webs in the field
 </div>
 
