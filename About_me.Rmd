@@ -12,10 +12,10 @@ h1 {text-align: center !important;
     font-weight: bold !important; 
     font-size: 42px !important}
 
-body, html {
- width: 100vw;
- overflow-x: hidden
-}
+<!-- body, html { -->
+<!--  width: 100vw; -->
+<!--  overflow-x: hidden -->
+<!-- } -->
 
 </style>   
 
