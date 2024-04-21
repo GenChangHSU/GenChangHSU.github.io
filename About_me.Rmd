@@ -11,7 +11,12 @@ output:
 h1 {text-align: center !important;
     font-weight: bold !important; 
     font-size: 42px !important}
-    
+
+body, html {
+ width: 100vw;
+ overflow-x: hidden
+}
+
 #education {
  width: 115%; margin-left: -50px;
 }
@@ -42,7 +47,7 @@ I am Gen-Chang Hsu, a young seedling ecologist ready to stretch out my shoots an
 
 <div style="height: 1em;"></div>
 
-<div style="display: flex; width: 115%; margin-left: -50px;">
+<div style="display: flex;">
 I sprouted my interests in biology since high school, during which I participated in the 2014 International Biology Olympiad and was awarded a gold medal. Fascinated by the exquisite relationships between organisms and the environment, ecology since became my favorite field of biology and I have developed broad interests in various ecological topics. I am also into data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html){target="_blank"} page for more information.
 </div>
 
