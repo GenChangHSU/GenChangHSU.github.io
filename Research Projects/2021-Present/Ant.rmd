@@ -1,0 +1,77 @@
+---
+title: "&nbsp;"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: [../../css/Research.css, ../../css/navbar.css, ../../css/body.css]
+    includes:
+      in_header: ../../heros/Research_hero.html
+      after_body: ../../footer.html
+---
+
+<style>
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 36px !important;
+   line-height: 1.5em;}
+   
+h2 {font-weight: bold !important;} 
+   
+.External_link{
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 60px;
+}
+
+</style>
+
+<div>
+# Active ant hitchhiking on vehicles and its ecological implications
+</div>
+
+<br>
+
+## Project Summary
+<div style="height: 0.25em;"></div>
+
+Species hitchhiking on human transportation objects such as vehicles can facilitate
+long-distance dispersal of organisms, allowing increased probabilities of successful
+biological invasions. In Taiwan, there have been observations of ants actively moving onto motor vehicles (defined as ‘ant hitchhiking’ hereafter), yet no study has
+explored this phenomenon.
+
+<div style="height: 1em;"></div>
+
+Here, we provide the first qualitative and quantitative report on ant hitchhiking
+behaviour using citizen science data. From 2017 to 2023, 52 cases of ant hitchhiking on vehicles were reported (at least three cases with queen[s] and another eight
+cases with brood), attributed to nine species. Seven of the nine species were
+exotic/invasive. Arboreal or semi-arboreal ant species, particularly the exotic black
+cocoa ant (Dolichoderus thoracicus), accounted for over half of the reported cases.
+The parking duration of the vehicles on which the ants hitchhiked ranged from several hours to over a month (30 cases occurred within a day). Moreover, more cases
+were reported in the warmer seasons (spring and summer) than in the colder seasons (fall and winter).
+
+<div style="height: 1em;"></div>
+
+There are three determinants of a successful ant hitchhiking events.
+
+
+
+
+<div style="height: 1em;"></div>
+
+To our knowledge, this study represents the first effort to profile active ant hitchhiking on vehicles. We encourage future studies to examine the abiotic and biotic
+factors that determine the success of hitchhiking events to better predict the
+spread of exotic/invasive ants and to develop effective management strategies for
+preventing their biological invasions
+
+<br>
+
+## Publication
+<div style="height: 0.25em;"></div>
+
+<p>Hsu, F-C.^†^, <b><u>G-C. Hsu</u></b>^†^, C-C. Lee, C-C. Lin, C-K. Ho, and C-C. Scotty Yang. 2024. Free ride without raising a thumb: A citizen science project reveals the pattern of active ant hitchhiking on vehicles and its ecological implications. <i>**Ecological Entomology**</i> 1–5. <a href="https://doi.org/10.1111/een.13336" target="_blank"> https://doi.org/10.1111/een.13336</a> (^†^Co-first authors)</p>
+
+
