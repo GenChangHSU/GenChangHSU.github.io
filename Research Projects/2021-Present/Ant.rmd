@@ -38,34 +38,26 @@ h2 {font-weight: bold !important;}
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
-Species hitchhiking on human transportation objects such as vehicles can facilitate
-long-distance dispersal of organisms, allowing increased probabilities of successful
-biological invasions. In Taiwan, there have been observations of ants actively moving onto motor vehicles (defined as ‘ant hitchhiking’ hereafter), yet no study has
-explored this phenomenon.
+Transportation technologies have made the world more connected than ever. We use all sorts of transportation objects in our everyday life. But besides humans, many organisms (e.g., plant seeds, insects, and microbes) can take advantage of the transportation systems and travel to a new place. This is concerning because it facilitates the long-distance dispersal of organisms, allowing increased probabilities of biological invasions. 
 
 <div style="height: 1em;"></div>
 
-Here, we provide the first qualitative and quantitative report on ant hitchhiking
-behaviour using citizen science data. From 2017 to 2023, 52 cases of ant hitchhiking on vehicles were reported (at least three cases with queen[s] and another eight
-cases with brood), attributed to nine species. Seven of the nine species were
-exotic/invasive. Arboreal or semi-arboreal ant species, particularly the exotic black
-cocoa ant (Dolichoderus thoracicus), accounted for over half of the reported cases.
-The parking duration of the vehicles on which the ants hitchhiked ranged from several hours to over a month (30 cases occurred within a day). Moreover, more cases
-were reported in the warmer seasons (spring and summer) than in the colder seasons (fall and winter).
+Over the past few years, people in Taiwan have been reporting their cars and scooters being colonized by groups of ants. This is special because the ants are actively moving onto the motor vehicles instead of passively or accidentally being carried by vehicles. To dive deeper into this interesting "hitchhiking" phenomenon, we collected citizen science data from Facebook and asked the vehicle owners to provide detailed information on the hitchhiking events along with a photo of the ants. From 2017 to 2023, we got a total of 52 cases of ant hitchhiking on vehicles from nine ant species. At least three cases had queen(s) and another eight cases had brood. Out of the nine species, seven were exotic/invasive. Moreover, arboreal or semi-arboreal ant species, particularly the exotic black
+cocoa ant (_Dolichoderus thoracicus_), accounted for the majority of the reported cases. Finally, more cases were reported in the warmer seasons (spring and summer) than in the colder seasons (fall and winter).
 
 <div style="height: 1em;"></div>
 
-There are three determinants of a successful ant hitchhiking events.
+With our analyses, we identified at least three key factors for a successful ant hitchhiking event:
 
+1. Searching ability: Of course, ants need to encounter a vehicle before they can even hitchhike, and this largely depends on their searching/exploratory behavior. Ants are generally more active under warmer conditions, and we indeed found that there were more hitchhiking cases reported in spring and summer compared to fall and winter. Moreover, arboreal ants typically exhibit frequent foraging activities and territorial patrolling around their nesting trees, which may increase their chance of vehicle encounter.
 
+2. Climbing ability: Ants need to climb or hold onto the vehicle after locating it. The metallic paint on the vehicle surface is slippery, and only species with good climbing/gripping ability are able to hitchhike. The climbing and moving performance of ants is determined by the morphological characteristics of leg segments. Arboreal ants have hooked pretarsal claws, well-developed adhesive pads, and fine tarsal hairs, all of which allow them to walk on smooth vertical substrates.
 
+3. Thermal tolerance: The temperature on the surface and in the interior of the vehicle can increase dramatically when exposed to sunlight, especially in the summer. This suggests that the thermal tolerance of hitchhiking species may play an important role in determining their colonization success. Arboreal ants are generally more heat- and drought-tolerant than ground-dwelling ants are, and therefore they have a greater probability of successfully hitchhiking on vehicles.
 
 <div style="height: 1em;"></div>
 
-To our knowledge, this study represents the first effort to profile active ant hitchhiking on vehicles. We encourage future studies to examine the abiotic and biotic
-factors that determine the success of hitchhiking events to better predict the
-spread of exotic/invasive ants and to develop effective management strategies for
-preventing their biological invasions
+To our knowledge, this study represents the first effort to profile active ant hitchhiking on vehicles. We encourage future studies to examine the abiotic and biotic factors that determine the success of hitchhiking events to better predict the spread of exotic/invasive ants and to develop effective management strategies for preventing their biological invasions.
 
 <br>
 
