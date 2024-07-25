@@ -143,7 +143,13 @@ h1 {text-align: center !important;
 
 <div style="height: 0.3em;"></div>
 
-* <p>Ray, S., <b><u>G-C. Hsu</u></b>, N.T. Pappous, O. Rooney, A.G. Taylor, and J.S. Thaler. 2024. Effects of methyl jasmonate seed treatments on adult oviposition preference and larval performance of seed corn maggot (*Delia platura*) in corn (*Zea mays*). <i>**Pest Management Science**</i>. (in review).</p> 
+* <p>Ray, S., <b><u>G-C. Hsu</u></b>, N.T. Pappous, O. Rooney, A.G. Taylor, and J.S. Thaler. 2024. Effects of methyl jasmonate seed treatments on adult oviposition preference and larval performance of seed corn maggot (*Delia platura*) in corn (*Zea mays*). <i>**Pest Management Science**</i>. (in revision).</p> 
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.01.31.478501" target="_blank">Preprint</a> -->
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a> -->
+
+<div style="height: 0.3em;"></div>
+
+* <p>Hsieh, C-H., <b><u>G-C. Hsu</u></b>, and L-M. Wang. 2024. Social media posts can serve as a reliable citizen science source for bird-window collision data in unstudied areas. A study using a decadal data set in Taiwan. <i>**Ibis**</i>. (in review).</p> 
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.01.31.478501" target="_blank">Preprint</a> -->
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a> -->
 
