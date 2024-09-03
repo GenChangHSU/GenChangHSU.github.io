@@ -126,7 +126,7 @@ Active ant hitchhiking on vehicles and its ecological implications<br>
 <br>
 
 <div style="display: flex;">
-<img src="./Research Projects/2021-Present/PI.JPG" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
+<img src="./Research Projects/2021-Present/PI.jpg" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
 <div style="padding-left: 40px; padding-top: 0.7em;">
 Temporal trends in academic performance and career duration of principal investigators in ecology and evolutionary biology in Taiwan<br>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2021-Present/PI.html" target="_blank">Project</a>
