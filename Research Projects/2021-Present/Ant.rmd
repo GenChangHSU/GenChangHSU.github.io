@@ -64,6 +64,6 @@ To our knowledge, this study represents the first effort to profile active ant h
 ## Publication
 <div style="height: 0.25em;"></div>
 
-<p>Hsu, F-C.^†^, <b><u>G-C. Hsu</u></b>^†^, C-C. Lee, C-C. Lin, C-K. Ho, and C-C. Scotty Yang. 2024. Free ride without raising a thumb: A citizen science project reveals the pattern of active ant hitchhiking on vehicles and its ecological implications. <i>**Ecological Entomology**</i> 1–5. <a href="https://doi.org/10.1111/een.13336" target="_blank"> https://doi.org/10.1111/een.13336</a> (^†^Co-first authors)</p>
+<p>Hsu, F-C.^†^, <b><u>G-C. Hsu</u></b>^†^, C-C. Lee, C-C. Lin, C-K. Ho, and C-C. Scotty Yang. 2024. Free ride without raising a thumb: A citizen science project reveals the pattern of active ant hitchhiking on vehicles and its ecological implications. <i>**Ecological Entomology**</i> 49(5): 739–743. <a href="https://doi.org/10.1111/een.13336" target="_blank"> https://doi.org/10.1111/een.13336</a> (^†^Co-first authors)</p>
 
 
