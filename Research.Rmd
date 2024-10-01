@@ -106,6 +106,16 @@ I have years of experience in statistical analysis and programming in R; I highl
 <br>
 
 <div style="display: flex;">
+<img src="./Research Projects/2021-Present/Beetle.png" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
+<div style="padding-left: 40px; padding-top: 0.7em;">
+Breeding performance and carcass use patterns of burying beetles on different carcass sizes, sources, and taxa<br>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2021-Present/Beetle.html" target="_blank">Project</a>
+</div>
+</div>
+
+<br>
+
+<div style="display: flex;">
 <img src="./Research Projects/2021-Present/SCM.jpg" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
 <div style="padding-left: 40px; padding-top: 0.7em;">
 Effects of methyl jasmonate seed treatments on the performance of seed corn maggot<br>
