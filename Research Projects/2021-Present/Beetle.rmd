@@ -30,7 +30,7 @@ h2 {font-weight: bold !important;}
 </style>
 
 <div>
-# Breeding performance and carcass use patterns of burying beetles on different carcass sizes, sources, and taxa
+# Breeding performance and carcass use patterns of a burying beetle on different carcass sizes, sources, and taxa
 </div>
 
 <br>
@@ -46,11 +46,11 @@ To better understand how carcass size, carcass source, and carcass taxon affect 
 
 <div style="height: 1em;"></div>
 
-<!-- Clutch size, hatching success, brood size, and brood mass all exhibited a quadratic relationship with carcass size, whereas carcass use efficiency decreased with carcass size. Furthermore, these breeding outcomes and carcass use efficiency did not differ between lab and wild carcasses. Despite the variation in tissue nutritional composition (protein content) among wild mammal, bird, and reptile carcasses, larval traits (brood size, brood mass, and average larval mass), carcass use efficiency, and larval growth did not differ among the three wild carcass taxa. Finally, a negative relationship existed between larval density and average larval mass on both lab and wild carcasses, suggesting a trade-off between offspring quality and quantity.  -->
+We found that clutch size, hatching success, brood size, and brood mass all exhibited a quadratic relationship with carcass size and peaked at the medium-sized carcasses, whereas carcass use efficiency decreased with carcass size. Furthermore, these breeding outcomes and carcass use efficiency did not differ between lab and wild carcasses. We also found that the tissue protein content varied among wild mammal, bird, and reptile carcasses, yet larval traits (brood size, brood mass, and average larval mass), carcass use efficiency, and larval growth remained similar among these three wild carcass taxa. Another interesting result is that a negative relationship existed between larval density and average larval mass on both lab and wild carcasses, with higher larval density on smaller carcasses and higher average larval mass on larger carcasses. This suggests a carcass-size-dependent trade-off between offspring quality and quantity.
 
 <div style="height: 1em;"></div>
 
-<!-- Using a broad range of carcass sizes from both lab and wild sources, our study revealed a quadratic relationship between breeding performance and carcass size in burying beetle, with optimal breeding outcomes occurring on medium-sized carcasses. Breeding outcomes did not differ between lab and wild carcasses. Furthermore, despite the variation in tissue nutritional composition (particularly protein content) among wild mammal, bird, and reptile carcasses, larval traits, carcass use efficiency, and larval growth were generally similar among these wild carcass taxa. Finally, the larval quality-quantity trade-off existed across the range of lab and wild carcass sizes, with higher larval quantity (larval density) but lower quality (average larval mass) on smaller carcasses and lower larval quantity but higher larval quality on larger carcasses. Taken together, our study confirms that previous results from lab carcasses are fairly representative of natural patterns and provides a more complete picture of how carcass resources shape the breeding performance of burying beetles. -->
+Overall, our study provides a more complete picture of how carcass resources shape the breeding performance of burying beetles by showing that carcass size is the key determinant for their breeding outcomes regardless of carcass source or taxon. This suggests that beetles in the wild can utilize carcasses from different taxa that vary in their nutritional quality and abundance while having similar reproductive outputs. Importantly, our work also supports the validity of using lab carcasses to study the reproductive ecology of burying beetles.
 
 <br>
 
