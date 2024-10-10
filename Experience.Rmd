@@ -43,6 +43,21 @@ h1 {text-align: center !important;
 
 <div style="height: 1em;"></div>
 
+<div style="display: flex; ">
+<div style="width: 16%;">
+2023–Present
+</div>
+<div style="width: 84%;">
+<b>_Graduate Research Assistant_</b><br>
+
+* Lab PI: Dr. Jennifer Thaler (Department of Entomology, Cornell University)<br>
+
+* Project: Using methyl jasmonate seed treatments for pest management of seed corn maggot (*Delia platura*) in corn (*Zea mays*) <br>
+</div>
+</div>
+
+<div style="height: 1em;"></div>
+
 <div style="display: flex;">
 <div style="width: 16%;">
 2022–2023
@@ -146,6 +161,15 @@ National Taiwan University)<br>
 
 # Teaching
 <div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
+2024 Fall
+</div>
+<div style="width: 84%;">
+Teaching Assistant for *Insect Ecology* at Cornell University <br>
+</div>
+</div>
 
 <div style="display: flex;">
 <div style="width: 16%;">
