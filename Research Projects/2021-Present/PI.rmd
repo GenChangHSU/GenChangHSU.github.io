@@ -57,7 +57,7 @@ Taken together, our study confirms that succeeding in academia has become more c
 ## Publication
 <div style="height: 0.25em;"></div>
 
-<p><b><u>Hsu, G-C.</u></b>, W-J. Lin, and S-J. Sun. 2023. Temporal trends in academic performance and career duration of principal investigators in ecology and evolutionary biology in Taiwan. <i>**Scientometrics**</i> 128: 3437–3451.
+<p><b><u>Hsu, G-C.</u></b>, W-J. Lin, and S-J. Sun. 2023. Temporal trends in academic performance and career duration of principal investigators in ecology and evolutionary biology in Taiwan. <i>Scientometrics</i> 128: 3437–3451.
 <a href="https://doi.org/10.1007/s11192-023-04710-9" target="_blank"> https://doi.org/10.1007/s11192-023-04710-9</a></p>
 
 

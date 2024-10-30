@@ -57,6 +57,6 @@ Overall, our study shows that MeJA corn seed treatments can reduce larval perfor
 ## Publication
 <div style="height: 0.25em;"></div>
 
-<p>Ray, S., <b><u>G-C. Hsu</u></b>, N.T. Pappous, O. Rooney, A.G. Taylor, and J.S. Thaler. 2024. Effects of methyl jasmonate seed treatments on adult oviposition preference and larval performance of seed corn maggot (*Delia platura*) in corn (*Zea mays*). <i>**Pest Management Science**</i>. (in press). <a href="https://doi.org/10.1002/ps.8392" target="_blank"> https://doi.org/10.1002/ps.8392</a></p>
+<p>Ray, S., <b><u>G-C. Hsu</u></b>, N.T. Pappous, O. Rooney, A.G. Taylor, and J.S. Thaler. 2024. Effects of methyl jasmonate seed treatments on adult oviposition preference and larval performance of seed corn maggot (*Delia platura*) in corn (*Zea mays*). <i>Pest Management Science</i>. (in press). <a href="https://doi.org/10.1002/ps.8392" target="_blank"> https://doi.org/10.1002/ps.8392</a></p>
 
 
