@@ -155,13 +155,13 @@ h1 {text-align: center !important;
 
 <div style="height: 0.3em;"></div>
 
-* <p><b><u>Hsu, G-C.</u></b>, D.F. Petticord, K.F. Slimon, and J.P. Sparks. Heterospecific-neighbor-mediated changes in density and size increase prey capture by a carnivorous plant. <i>*Functional Ecology*</i>. (in submission)</p> 
+* <p><b><u>Hsu, G-C.</u></b>, D.F. Petticord, K.F. Slimon, and J.P. Sparks. Heterospecific-neighbor-mediated changes in density and size increase prey capture by a carnivorous plant. <i>*Oikos*</i>. (in submission)</p> 
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.01.31.478501" target="_blank">Preprint</a> -->
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a> -->
 
 <div style="height: 0.3em;"></div>
 
-* <p>Ke, P-J., G.S. Kandlikar, S.X. Ou, <b><u>G-C. Hsu</u></b>, J. Wan, and M. Krishnadas. Time will tell: the temporal and demographic contexts of plant-soil microbe interactions. <i>*Ecological Monographs*</i>. (in submission)</p> 
+* <p>Ke, P-J., G.S. Kandlikar, S.X. Ou, <b><u>G-C. Hsu</u></b>, J. Wan, and M. Krishnadas. Time will tell: the temporal and demographic contexts of plant-soil microbe interactions. <i>*Ecological Monographs*</i>. (in review)</p> 
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.01.31.478501" target="_blank">Preprint</a> -->
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a> -->
 
