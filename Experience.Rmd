@@ -130,7 +130,10 @@ National Taiwan University)<br>
 <div style="height: 1em;"></div>
 
 ## Oral Presentations
-<div style="height: 0.15em;"></div>
+<div style="height: 0.3em;"></div>
+
+### 2015–2025
+<div style="height: 0.3em;"></div>
 
 *	<b><u>Hsu, G-C.</u></b> (Jan. 2024). Effects of temperature on risk-induced prey responses and non-consumptive predator effects. The 13^th^ Department of Entomology Annual Symposium, Cornell University, Ithaca, US.
 
@@ -143,7 +146,12 @@ National Taiwan University)<br>
 <div style="height: 1em;"></div>
 
 ## Poster Presentations
-<div style="height: 0.15em;"></div>
+<div style="height: 0.3em;"></div>
+
+### 2020–2025
+<div style="height: 0.3em;"></div>
+
+*	<b><u>Hsu, G-C.</u></b> and J.S. Thaler. (Feb. 2025). How will temperature warming alter the response of insect herbivores to predation risk and their fitness?. The 2025 Plant-Herbivore Interaction Gordon Research Conference, California, US.
 
 *	<b><u>Hsu, G-C.</u></b>, F-C. Hsu, C-C. Lee, C-C. Lin, Scotty Yang, and C-K. Ho. (May 2023). Catch a free ride with me—ant hitchhiking on vehicles in Taiwan. The 4^th^ International Congress on Biological Invasions, Christchurch, New Zealand.
 
