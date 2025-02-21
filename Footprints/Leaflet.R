@@ -39,7 +39,7 @@ Map_lf <- Map_lf %>%
                      ~Lat,
                      popup = ~paste("<img src='", 
                                     Image, 
-                                    "'", " style='width: 200px;'>",
+                                    "'", " style='max-width: 200px; max-height: 200px; width: 100%; height: 100%; object-fit: contain'>",
                                     "<div style='width: 200px; text-align: center; font-size: 16px;'>",
                                     Year,
                                     Title,
