@@ -45,7 +45,7 @@ I am Gen-Chang Hsu, a young seedling ecologist ready to stretch out my shoots an
 <div style="height: 1em;"></div>
 
 <div style="display: flex;">
-I sprouted my interests in biology since high school, during which I participated in the 2014 International Biology Olympiad and was awarded a gold medal. Fascinated by the exquisite relationships between organisms and the environment, ecology since became my favorite field of biology and I have developed broad interests in various ecological topics. I am also into data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html){target="_blank"} page for more information.
+I sprouted my interests in biology since high school, during which I participated in the 2014 International Biology Olympiad and was awarded a gold medal. Fascinated by the exquisite relationships between organisms and the environment, ecology since became my favorite field of biology and I have developed broad interests in various ecological topics. I am also obsessed with data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html){target="_blank"} page for more information.
 </div>
 
 <div style="height: 1em;"></div>
@@ -57,13 +57,13 @@ I obtained my undergraduate degree from the Department of Life Science, National
 <div style="height: 1em;"></div>
 
 <div style="display: flex;">
-Currently, I am a PhD student in [Dr. Jennifer Thaler’s lab](https://blogs.cornell.edu/thaler/){target="_blank"} at Cornell working on plant-herbivore-predator tri-trophic interactions and the ecology of fear—non-consumptive predator effects on prey. By addressing basic ecological questions about how plants, insect herbivores, and predators interact with each other, I hope my research can help predict species interactions in response to environmental change as well as develop management strategies to enhance pest control in agro-ecosystems.
+Currently, I am a PhD student in [Dr. Jennifer Thaler’s lab](https://blogs.cornell.edu/thaler/){target="_blank"} at Cornell University working on thermal ecology of plant-herbivore-predator tri-trophic interactions and the ecology of fear—non-consumptive predator-prey interactions—in insects. By addressing basic ecological questions about how plants, insect herbivores, and predators interact with each other, I hope my research can help understand how species interactions may respond to environmental changes as well as develop management strategies to enhance pest control in agro-ecosystems.
 </div>
 
 <div style="height: 1em;"></div>
 
 <div style="display: flex;">
-In my free time, I enjoy biking, hiking, bird watching, and photography. Traveling around to explore this n-dimensional world is my lifetime goal!
+In my free time, I enjoy biking, hiking, bird watching, and photography. Traveling around to explore this *n*-dimensional world is my lifetime goal!
 </div>
 
 <br>
