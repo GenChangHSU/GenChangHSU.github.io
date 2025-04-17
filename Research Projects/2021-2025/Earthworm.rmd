@@ -1,0 +1,58 @@
+---
+title: "&nbsp;"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: [../../css/Research.css, ../../css/navbar.css, ../../css/body.css]
+    includes:
+      in_header: ../../heros/Research_hero.html
+      after_body: ../../footer.html
+---
+
+<style>
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 36px !important;
+   line-height: 1.5em;}
+   
+h2 {font-weight: bold !important;} 
+   
+.External_link{
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 60px;
+}
+
+</style>
+
+<div>
+# Revisiting the ecological groups and isotopic niches of earthworms in North America 
+</div>
+
+<br>
+
+## Project Summary
+<div style="height: 0.25em;"></div>
+
+Traditionally, earthworms are categorized into three main ecological groups—epigeic, endogeic, and anecic—based on their morphology, vertical location in the soil profile, and feeding habits. Recently, more refined groups have been proposed and widely used in earthworm studies. However, even though the categorization system is simple and convenient, many earthworm species do not fit well into these pre-defined groups. So in this study, we attempted to revisit the traditional categorization system by analyzing the carbon and nitrogen stable isotopes of 10 earthworm species commonly found in the arable fields and deciduous forests in temperate North America.
+
+<div style="height: 1em;"></div>
+
+Our results revealed several interesting patterns regarding the isotopic niches of earthworms in the δ^13^C-δ^15^N space. First, the isotopic niches of different ecological groups with species ranging from feeding on leaf litter to feeding on highly processed soil organic matter, formed a continuum instead of discrete clusters. Second, along this continuum, species of the same ecological group exhibited considerable isotopic niche differentiation and resource partitioning. For example, we found that two closely related endogeic species, _Aporrectodea caliginosa_ and _Aporrectodea trapezoides_, showed substantial niche partitioning (low isotopic niche overlaps) in the arable field. Third, species within the same ecological group could be further classified as trophic generalists or specialists based on their niche breadths. For instance, three endogeic species co-occurred at an abandoned arable field—_Allolobophora chlorotica_ occupied a larger isotopic niche area and was therefore a generalist, whereas _Aporrectodea caliginosa_ and _Aporrectodea trapezoides_ occupied smaller isotopic niche areas and were both specialists in a relative sense.
+
+<div style="height: 1em;"></div>
+
+Taken together, our results suggest that the traditional ecological categories of earthworms, despite convenient, have some limitations to characterizing their functions. We propose to incorporate stable isotopes as functional traits (trophic traits) into studies on earthworm ecology and encourage research to further expand this isotopic approach worldwide to better understand the linkage between earthworm communities and ecosystem functions.
+
+<br>
+
+## Publication
+<div style="height: 0.25em;"></div>
+
+<p><b><u>Hsu, G-C.</u></b>, K. Szlavecz, C. Csuzdi, M. Bernard, and C-H. Chang. 2023. Ecological groups and isotopic niches of earthworms. <i>Applied Soil Ecology</i> 181: 104655.<a href="https://doi.org/10.1016/j.apsoil.2022.104655" target="_blank"> https://doi.org/10.1016/j.apsoil.2022.104655</a></p>
+
+

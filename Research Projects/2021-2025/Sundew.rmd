@@ -1,0 +1,64 @@
+---
+title: "&nbsp;"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: [../../css/Research.css, ../../css/navbar.css, ../../css/body.css]
+    includes:
+      in_header: ../../heros/Research_hero.html
+      after_body: ../../footer.html
+---
+
+<style>
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 36px !important;
+   line-height: 1.5em;}
+   
+h2 {font-weight: bold !important;} 
+   
+.External_link{
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 60px;
+}
+
+</style>
+
+<div>
+# XXX
+</div>
+
+<br>
+
+## Project Summary
+<div style="height: 0.25em;"></div>
+
+XXX
+
+<div style="height: 1em;"></div>
+
+XXX
+
+<div style="height: 1em;"></div>
+
+XXX
+
+<div style="height: 1em;"></div>
+
+XXX
+
+<br>
+
+## Publication
+<div style="height: 0.25em;"></div>
+
+<p><b><u>Hsu, G-C.</u></b>, D.F. Petticord, K.F. Slimon, and J.P. Sparks. 2025. Heterospecific-neighbor-mediated changes in density and size increase prey capture by a carnivorous plant. <i>*Oikos*</i>. (accepted)</p>
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.01.31.478501" target="_blank">Preprint</a> -->
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a> -->
+
+
