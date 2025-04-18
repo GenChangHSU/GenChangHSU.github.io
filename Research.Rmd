@@ -107,8 +107,7 @@ I have years of experience in statistical analysis and programming in R; I highl
 
 <div style="display: flex;">
 <img src="./Research Projects/2021-2025/Sundew.jpg" style="max-width: 200px; max-height: 150px; width:auto; height:auto">
-<div style="padding-left: 40px; padding-top: 0.7em;">
-XXX<br>
+<div style="padding-left: 40px; padding-top: 0.7em;">Non-carnivorous neighbors influence prey capture by carnivorous plants via changes in density and size<br>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Research Projects/2021-2025/Sundew.html" target="_blank">Project</a>
 </div>
 </div>

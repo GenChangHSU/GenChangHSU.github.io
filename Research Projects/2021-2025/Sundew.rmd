@@ -30,7 +30,7 @@ h2 {font-weight: bold !important;}
 </style>
 
 <div>
-# XXX
+# Non-carnivorous neighbors influence prey capture by carnivorous plants via changes in density and size
 </div>
 
 <br>
