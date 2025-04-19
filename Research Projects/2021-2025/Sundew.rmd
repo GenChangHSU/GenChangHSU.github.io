@@ -38,19 +38,31 @@ h2 {font-weight: bold !important;}
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
-XXX
+Plant carnivory represents one of the most fascinating ecological interactions on earth where plants attract and digest animal prey to meet nutrient demands. These prey-derived nutrients allow carnivorous plants to overcome nutrient limitation in the soil, and the ability to capture prey is fundamental to the fitness of carnivorous plants. Prey capture by carnivorous plants is influenced by many factors, including environmental conditions, morphological and chemical features of the traps, and even biotic interactions with other animals. However, little is known about how interactions with heterospecific plant neighbors may affect prey capture.
 
 <div style="height: 1em;"></div>
 
-XXX
+The pink sundew *Drosera capillaris* is commonly found in seasonal pond habitats in Florida. Also growing in these habitats is the yellow hatpins *Syngonanthus flavidulus*, the dominant neighboring plant species that flowers during the growing season of pink sundew. This provided us with a great opportunity to answer the question: how does the heterospecific non-carnivorous neighbor yellow hatpins influence prey capture by the carnivorous sundew? 
 
 <div style="height: 1em;"></div>
 
-XXX
+We tested two non-mutually exclusive mechanisms by which the neighboring yellow hatpins may influence prey capture by sundew (see the figure below). 
+**Mechanism 1**: Yellow hatpins may affect prey capture by mediating the density and size of sundew. We expected a trade-off relationship between sundew density and size, with less dense but larger-sized sundew individuals capturing more prey items and vice versa.
+**Mechanism 2**: Yellow hatpins may influence prey capture by changing the surrounding insect communities and thus prey availability. Specifically, the flowerheads of yellow hatpins may attract more insects to the surroundings, therefore leading to higher prey capture by sundew.
+
+<div style="text-align: center;"><img src="Sundew_Diagram.png" style="width: 65%; height: auto;"></div>
 
 <div style="height: 1em;"></div>
 
-XXX
+We surveyed D. capillaris density, rosette diameter, and prey capture, along with insect communities, across habitat patches with varying S. flavidulus densities. We also experimentally removed S. flavidulus flowerheads to test the effect of neighboring flowers on prey availability. 
+
+We found that D. capillaris density was negatively associated with S. flavidulus density. Moreover, the rosette diameter of D. capillaris decreased with increasing intraspecific density, resulting in high densities of smaller-sized sundew individuals in the habitat with few S. flavidulus and low densities of larger-sized sundew individuals in the habitat with abundant S. flavidulus. Such variation in D. capillaris density and size influenced its prey capture, with sundews (low densities but larger-sized) in the habitat with high S. flavidulus densities capturing more prey items per area. We found no differences in the insect abundance or composition among habitats with varying S. flavidulus densities. Furthermore, experimental removal of S. flavidulus flowerheads did not alter prey availability compared to the unmanipulated habitats, suggesting flowerhead attraction did not alter the local prey resource pool.
+
+<div style="height: 1em;"></div>
+
+Overall, our results highlight the role of interspecific and intraspecific competition in mediating prey capture in carnivorous plants. Both interspecific and intraspecific competition have been shown to reduce prey capture. Here, we show that interspecific competition from neighbors can be associated with higher prey capture, potentially by reducing intraspecific competition through changes in conspecific density and size. As higher prey resource inputs increase the trap size and seed production of carnivorous plants, this suggests that neighboring plants may confer fitness benefits to the co-occurring carnivores via increased prey capture. Importantly, this study provides novel insights into how interspecific interactions with heterospecific non-carnivorous neighbors, and intraspecific interactions among conspecific individuals, may together shape prey capture by carnivorous plants.
+
+Our study provides novel insights into the ecological mechanisms underlying prey capture in carnivorous plants, underlining how interactions with heterospecific neighbors can drive density- and size-dependent prey resource acquisition.
 
 <br>
 
