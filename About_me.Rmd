@@ -66,6 +66,12 @@ Currently, I am a PhD student in [Dr. Jennifer Thaler’s lab](https://blogs.cor
 In my free time, I enjoy biking, hiking, bird watching, and photography. Traveling around to explore this *n*-dimensional world is my lifetime goal!
 </div>
 
+<div style="height: 1em;"></div>
+
+<div>
+<img src="./images/Personal photo 2.jpeg" style="max-width: 600px; max-height: 600px; width:auto; height:auto; display: block; margin-left: auto; margin-right: auto;">
+</div>
+
 <br>
 
 # Education
