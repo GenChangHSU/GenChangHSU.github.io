@@ -92,6 +92,12 @@ h1 {text-align: center !important;
 ## 2025
 <div style="height: 0.3em;"></div>
 
+* <p>Ke, P-J., G.S. Kandlikar, S.X. Ou, <b><u>G-C. Hsu</u></b>, J. Wan, and M. Krishnadas. 2025. Time will tell: the temporal and demographic contexts of plant-soil microbe interactions. <i>*Ecological Monographs*</i>. (accepted)</p>
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.01.31.478501" target="_blank">Preprint</a> -->
+<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a> -->
+
+<div style="height: 0.3em;"></div>
+
 * <p><b><u>Hsu, G-C.</u></b>, D.F. Petticord, K.F. Slimon, and J.P. Sparks. 2025. Heterospecific-neighbor-mediated changes in density and size increase prey capture by a carnivorous plant. <i>*Oikos*</i>. <a href="https://doi.org/10.1002/oik.11309" target="_blank">https://doi.org/10.1002/oik.11309</a></p>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2025_Oikos.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2025_Neighbor_Effect_on_Sundew_Density_Size_and_Prey_Capture" target="_blank">GitHub</a>
@@ -169,10 +175,6 @@ h1 {text-align: center !important;
 ## Manuscripts in Revision/Review/Preparation
 
 <div style="height: 0.3em;"></div>
-
-* <p>Ke, P-J., G.S. Kandlikar, S.X. Ou, <b><u>G-C. Hsu</u></b>, J. Wan, and M. Krishnadas. 2024. Time will tell: the temporal and demographic contexts of plant-soil microbe interactions. <i>*Ecological Monographs*</i>. (in revision)</p> 
-<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1101/2022.01.31.478501" target="_blank">Preprint</a> -->
-<!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2022_Earthworm_Stable_Isotope_Niche" target="_blank">GitHub</a> -->
 
 <!-- <div style="height: 0.3em;"></div> -->
 
