@@ -104,13 +104,18 @@ h1 {text-align: center !important;
 
 <div style="height: 0.3em;"></div>
 
-* <p><b><u>Hsu, G-C.</u></b>, J-A. Ou, M-H. Ni, Z-H. Lin, and C-K. Ho. 2025. Generalist predators function as pest specialists: examining diet composition of spiders and ladybeetles across rice crop stages. <i>*Journal of Applied Ecology*</i>. <a href="https://doi.org/10.1111/1365-2664.70066" target="_blank"> https://doi.org/10.1111/1365-2664.70066</a></p> 
+* <p><b><u>Hsu, G-C.</u></b>, J-A. Ou, M-H. Ni, Z-H. Lin, and C-K. Ho. 2025. Generalist predators function as pest specialists: examining diet composition of spiders and ladybeetles across rice crop stages. <i>*Journal of Applied Ecology*</i> 62: 1889–1901. <a href="https://doi.org/10.1111/1365-2664.70066" target="_blank"> https://doi.org/10.1111/1365-2664.70066</a></p> 
+<div style= "margin-top: -3.25em;">
+<span>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2025_Journal_of_Applied_Ecology.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2025_Generalist_Predators_as_Pest_Specialists_in_Rice_Farms" target="_blank">GitHub</a>
+</span>
+<img src="./Publications/Journal Covers/2025_Journal_of_Applied_Ecology.jpg" style="max-width: 200px; max-height: 200px; width:auto; height:auto; padding-left: 0.5em; padding-top: 3.1em;">
+</div>
 
 <div style="height: 0.3em;"></div>
 
-* <p><b><u>Hsu, G-C.</u></b> 2025. Digest: Clinal variation in plant traits is shaped by plastic and evolutionary responses to water regimes and herbivory. <i>*Evolution*</i>. 79(4): 678–679. <a href="https://doi.org/10.1093/evolut/qpaf022" target="_blank"> https://doi.org/10.1093/evolut/qpaf022</a> </p> 
+* <p><b><u>Hsu, G-C.</u></b> 2025. Digest: Clinal variation in plant traits is shaped by plastic and evolutionary responses to water regimes and herbivory. <i>*Evolution*</i> 79(4): 678–679. <a href="https://doi.org/10.1093/evolut/qpaf022" target="_blank"> https://doi.org/10.1093/evolut/qpaf022</a> </p> 
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2025_Evolution.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2025_Digest_Clinal_Variation_in_Plant_Traits_Shaped_by_Water_Regimes_and_Herbivory" target="_blank">GitHub</a>
 
