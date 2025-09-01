@@ -98,7 +98,7 @@ h1 {text-align: center !important;
 
 <div style="height: 0.3em;"></div>
 
-* <p><b><u>Hsu, G-C.</u></b>, D.F. Petticord, K.F. Slimon, and J.P. Sparks. 2025. Heterospecific-neighbor-mediated changes in density and size increase prey capture by a carnivorous plant. <i>*Oikos*</i>. <a href="https://doi.org/10.1002/oik.11309" target="_blank">https://doi.org/10.1002/oik.11309</a></p>
+* <p><b><u>Hsu, G-C.</u></b>, D.F. Petticord, K.F. Slimon, and J.P. Sparks. 2025. Heterospecific-neighbor-mediated changes in density and size increase prey capture by a carnivorous plant. <i>*Oikos*</i> 2025(9): e11309. <a href="https://doi.org/10.1002/oik.11309" target="_blank">https://doi.org/10.1002/oik.11309</a></p>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2025_Oikos.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2025_Neighbor_Effect_on_Sundew_Density_Size_and_Prey_Capture" target="_blank">GitHub</a>
 
