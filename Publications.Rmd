@@ -92,6 +92,12 @@ h1 {text-align: center !important;
 ## 2025
 <div style="height: 0.3em;"></div>
 
+* <p>Ray, S., <b><u>G-C. Hsu</u></b>, N.T. Pappous, O. Rooney, A.G. Taylor, and J.S. Thaler. 2025. Effects of methyl jasmonate seed treatments on adult oviposition preference and larval performance of seed corn maggot (*Delia platura*) in corn (*Zea mays*). <i>*Pest Management Science*</i>. 81(11): 7330–7338 <a href="https://doi.org/10.1002/ps.8392" target="_blank"> https://doi.org/10.1002/ps.8392</a></p>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2025_Pest_Management_Science.pdf" target="_blank">PDF</a>
+<a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2024_Effects_of_JA_on_Seed_Corn_Maggot_Performance" target="_blank">GitHub</a>
+
+<div style="height: 0.3em;"></div>
+
 * <p>Ke, P-J., G.S. Kandlikar, S.X. Ou, <b><u>G-C. Hsu</u></b>, J. Wan, and M. Krishnadas. 2025. Time will tell: the temporal and demographic contexts of plant-soil microbe interactions. <i>*Ecological Monographs*</i>. 95(3): e70032. <a href="https://doi.org/10.1002/ecm.70032" target="_blank">https://doi.org/10.1002/ecm.70032</a></p>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2025_Ecological_Monographs.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2025_Temporal_and_Demographic_Contexts_of_Plant_Soil_Microbe_Interactions" target="_blank">GitHub</a>
@@ -127,12 +133,6 @@ h1 {text-align: center !important;
 * <p><b><u>Hsu, G-C.</u></b>^†^, W-J. Lin^†^, C-H. Hsieh, Y-J. Lee, and S-J. Sun. 2024. Carcass size, not source or taxon, dictates breeding performance and carcass use in a burying beetle. <i>*Royal Society Open Science*</i> 11(10): 241265. <a href="https://doi.org/10.1098/rsos.241265" target="_blank"> https://doi.org/10.1098/rsos.241265</a> (^†^Equal contribution)</p>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2024_Royal_Society_Open_Science.pdf" target="_blank">PDF</a>
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2024_Burying_Beetle_Breeding_on_Wild_and_Lab_Carcasses" target="_blank">GitHub</a>
-
-<div style="height: 0.3em;"></div>
-
-* <p>Ray, S., <b><u>G-C. Hsu</u></b>, N.T. Pappous, O. Rooney, A.G. Taylor, and J.S. Thaler. 2024. Effects of methyl jasmonate seed treatments on adult oviposition preference and larval performance of seed corn maggot (*Delia platura*) in corn (*Zea mays*). <i>*Pest Management Science*</i>. <a href="https://doi.org/10.1002/ps.8392" target="_blank"> https://doi.org/10.1002/ps.8392</a></p>
-<a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2024_Pest_Management_Science.pdf" target="_blank">PDF</a>
-<a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2024_Effects_of_JA_on_Seed_Corn_Maggot_Performance" target="_blank">GitHub</a>
 
 <div style="height: 0.3em;"></div>
 
