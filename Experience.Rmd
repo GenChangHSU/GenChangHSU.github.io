@@ -45,7 +45,7 @@ h1 {text-align: center !important;
 
 <div style="display: flex; ">
 <div style="width: 16%;">
-2023–Present
+2023–2024
 </div>
 <div style="width: 84%;">
 <b>_Graduate Research Assistant_</b><br>
@@ -132,6 +132,13 @@ National Taiwan University)<br>
 ## Oral Presentations
 <div style="height: 0.3em;"></div>
 
+### 2026–2030
+<div style="height: 0.3em;"></div>
+
+*	<b><u>Hsu, G-C.</u></b> and J.S. Thaler. (Jan. 2026). Temperature-mediated prey responses to predation risk and the fitness consequences in an agricultural insect predator-prey system. The 2026 Predator-Prey Interactions Gordon Research Conference, Lucca, Italy.
+
+<div style="height: 1em;"></div>
+
 ### 2015–2025
 <div style="height: 0.3em;"></div>
 
@@ -147,6 +154,13 @@ National Taiwan University)<br>
 
 ## Poster Presentations
 <div style="height: 0.3em;"></div>
+
+### 2026–2030
+<div style="height: 0.3em;"></div>
+
+*	<b><u>Hsu, G-C.</u></b> and J.S. Thaler. (Jan. 2026). Temperature-mediated prey responses to predation risk and the fitness consequences in an agricultural insect predator-prey system. The 2026 Predator-Prey Interactions Gordon Research Conference, Lucca, Italy.
+
+<div style="height: 1em;"></div>
 
 ### 2020–2025
 <div style="height: 0.3em;"></div>
@@ -169,6 +183,15 @@ National Taiwan University)<br>
 
 # Teaching
 <div style="height: 1em;"></div>
+
+<div style="display: flex;">
+<div style="width: 16%;">
+2026 Spring
+</div>
+<div style="width: 84%;">
+Teaching Assistant for *Chemical Ecology* at Cornell University <br>
+</div>
+</div>
 
 <div style="display: flex;">
 <div style="width: 16%;">

@@ -8,6 +8,7 @@ library(mapview)
 library(sf)
 library(sp)
 library(rgdal)
+library(webshot)
 
 ### Base map
 Map_lf <- leaflet(options = leafletOptions(minZoom = 1, maxZoom = 12)) %>% 
@@ -87,8 +88,4 @@ Map_lf <- Map_lf %>%
 
 ### Save the map
 mapshot(Map_lf, url = "Map.html")
-
-
-
-
 
