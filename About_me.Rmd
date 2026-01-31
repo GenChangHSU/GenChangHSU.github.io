@@ -45,25 +45,25 @@ I am Gen-Chang Hsu, a young seedling ecologist ready to stretch out my shoots an
 <div style="height: 1em;"></div>
 
 <div style="display: flex;">
-I sprouted my interests in biology since high school, during which I participated in the 2014 International Biology Olympiad and was awarded a gold medal. Fascinated by the exquisite relationships between organisms and the environment, ecology since became my favorite field of biology and I have developed broad interests in various ecological topics. I am also obsessed with data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html){target="_blank"} page for more information.
+I sprouted my interests in biology back in high school, during which I participated in the 2014 International Biology Olympiad and was awarded a gold medal. Fascinated by the exquisite relationships between organisms and the environment, ecology stands out as my favorite field of biology and I have since developed board interests in a wide range of ecological topics. I am also passionate about data science and visualization. Check out my [Research](https://genchanghsu.github.io/Research.html){target="_blank"} page for more information.
 </div>
 
 <div style="height: 1em;"></div>
 
 <div style="display: flex;">
-I obtained my undergraduate degree from the Department of Life Science, National Taiwan University. My Bachelor’s thesis, advised by [Dr. Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. Later, I worked as a research assistant in [Dr. Po-Ju Ke’s lab](https://pojuke.com/){target="_blank"} studying the temporal decay trajectory of plant-soil microbe interactions. We combined greenhouse experiments and microbial analysis to explore how conditioning history affects soil microbial communities and in turn influences seedling performance and vegetation dynamics.
+I obtained my undergraduate degree from the Department of Life Science, National Taiwan University. My Bachelor’s thesis, advised by [Dr. Chuan-Kai Ho](https://ecology.lifescience.ntu.edu.tw/doku.php/en/ckho/start){target="_blank"}, focused on using stable isotopes to examine arthropod predator-prey trophic interactions in rice agro-ecosystems. I then worked as a research assistant in [Dr. Po-Ju Ke’s lab](https://pojuke.com/){target="_blank"} studying the temporal decay trajectory of plant-soil microbe interactions. We combined greenhouse experiments and microbial analysis to explore how conditioning history affects soil microbial communities and in turn influences seedling performance and vegetation dynamics.
 </div>
 
 <div style="height: 1em;"></div>
 
 <div style="display: flex;">
-Currently, I am a PhD student in [Dr. Jennifer Thaler’s lab](https://blogs.cornell.edu/thaler/){target="_blank"} at Cornell University working on thermal ecology of plant-herbivore-predator tri-trophic interactions and the ecology of fear—non-consumptive predator-prey interactions—in insects. By addressing basic ecological questions about how plants, insect herbivores, and predators interact with each other, I hope my research can help understand how species interactions may respond to environmental changes as well as develop management strategies to enhance pest control in agro-ecosystems.
+Currently, I am a PhD student with [Dr. Jennifer Thaler](https://blogs.cornell.edu/thaler/){target="_blank"} at Cornell University. Broadly speaking, my work focuses on the **thermal ecology of plant-herbivore-predator tri-trophic interactions**, using the host plant potato (*Solanum tuberosum*), the insect herbivore the Colorado potato beetle (*Leptinotarsa decemlineata*), and the generalist predator spined-soldier bug (*Podisus maculiventris*) as the model system. One of my projects looks at how temperature mediates beetle trait responses to predation risk and the associated fitness consequences. I'm also studying how predation risk and temperature influence beetle phenology, and how phenological shifts impact fitness and population dynamics. By addressing basic ecological questions about how plants, insect herbivores, and predators interact with each other, I hope my research can help understand how species interactions may respond to future environmental changes as well as develop strategies to enhance pest management in agro-ecosystems.
 </div>
 
 <div style="height: 1em;"></div>
 
 <div style="display: flex;">
-In my free time, I enjoy biking, hiking, bird watching, and photography. Traveling around to explore this *n*-dimensional world is my lifetime goal!
+In my free time, I enjoy cycling, hiking, photography, and coding. Traveling around this *n*-dimensional world is my lifetime goal!
 </div>
 
 <div style="height: 1em;"></div>
