@@ -13,7 +13,7 @@ library(fontawesome)
 
 </b>
 <div style="text-align: center">
-Drop me a line or find me on GitHub!
+Drop me a line at genchanghsu@gmail.com or find me on GitHub!
 </div>
 
 <div style="height: 1em;"></div>

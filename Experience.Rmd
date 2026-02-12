@@ -30,21 +30,6 @@ h1 {text-align: center !important;
 
 <div style="display: flex; ">
 <div style="width: 16%;">
-2023–Present
-</div>
-<div style="width: 84%;">
-<b>_Graduate Student Researcher_</b><br>
-
-* Advisor: Dr. Jennifer Thaler (Department of Entomology, Cornell University)<br>
-
-* Dissertation: TBA<br>
-</div>
-</div>
-
-<div style="height: 1em;"></div>
-
-<div style="display: flex; ">
-<div style="width: 16%;">
 2023–2024
 </div>
 <div style="width: 84%;">
@@ -80,13 +65,12 @@ and its effects on plant community structure <br>
 2021
 </div>
 <div style="width: 84%;">
-<b>_Bachelor's Degree Thesis_</b><br>
+<b>_Bachelor's Thesis_</b><br>
 
 * Advisor: Dr. Chuan-Kai Ho (Institute of Ecology and Evolutionary Biology,
 National Taiwan University)<br>
 
-* Thesis: Using stable isotopes (δ^13^C and δ^15^N) to quantify the diet compositions of generalist arthropod predators in organic and conventional rice farms <br>
-(Thesis successfully defended on April 26, 2021)
+* Thesis: Using stable isotopes (δ^13^C and δ^15^N) to quantify the diet compositions of generalist arthropod predators in organic and conventional rice farms (defended on April 26, 2021) <br>
 </div>
 </div>
 
@@ -132,7 +116,7 @@ National Taiwan University)<br>
 ## Oral Presentations
 <div style="height: 0.3em;"></div>
 
-### 2026–2030
+### 2026–Present
 <div style="height: 0.3em;"></div>
 
 *	<b><u>Hsu, G-C.</u></b> and J.S. Thaler. (Jan. 2026). Temperature-mediated prey responses to predation risk and the fitness consequences in an agricultural insect predator-prey system. The 2026 Predator-Prey Interactions Gordon Research Conference, Lucca, Italy.
@@ -155,7 +139,7 @@ National Taiwan University)<br>
 ## Poster Presentations
 <div style="height: 0.3em;"></div>
 
-### 2026–2030
+### 2026–Present
 <div style="height: 0.3em;"></div>
 
 *	<b><u>Hsu, G-C.</u></b> and J.S. Thaler. (Jan. 2026). Temperature-mediated prey responses to predation risk and the fitness consequences in an agricultural insect predator-prey system. The 2026 Predator-Prey Interactions Gordon Research Conference, Lucca, Italy.
@@ -223,42 +207,33 @@ Teaching Assistant for *Introduction to Theoretical Ecology* at National Taiwan 
 <hr>
 <br>
 
-# Social Involvement
+# Symposium/Seminar Organization
 <div style="height: 1em;"></div>
 
-<div style="display: flex;">
-<div style="width: 16%;">
-2015
-</div>
-<div style="width: 84%;">
-Summer Docent at The Museum of Zoology, National Taiwan University<br>
-</div>
-</div>
+Plant-Insect Interactions Seminar, Cornell University (co-organized with Dr. Jennifer Thaler and Dr. Sujay Paranjape) (2026)
+
+<div style="height: 0.5em;"></div>
+
+The 13^th^ Department of Entomology Annual Symposium, Cornell University (member of the Symposium Planning Committee) (2024)
+
+<div style="height: 0.5em;"></div>
+
+*Meeting Conservation* Seminar Series, The Society of Conservation Biology Berkeley Chapter (organizer of the seminar talk "*A paradigm shift in conservation of public lands for 21st century*" by Dr. Sarah Allen, US National Park Service) (2019)
 
 <br>
 <hr>
 <br>
 
-# Organization
+# Public Outreach and Engagement 
 <div style="height: 1em;"></div>
 
-__The 13^th^ Department of Entomology Annual Symposium, Cornell University__
+Insectapalooza, Department of Entomology, Cornell University (2023, 2024, 2025)
 
-* Date and location: January 19, 2024 at Morrison Room, Corson/Mudd Hall, Cornell University <br>
+<div style="height: 0.5em;"></div>
 
-* Role: Member of the Symposium Planning Committee of the Cornell Entomology Graduate Student Association (The Jugatae Club)<br>
+Summer Docent at The Museum of Zoology, National Taiwan University (2015)
 
-<div style="height: 1em;"></div>
 
-__"Meeting Conservation" Seminar Series__
-
-* Date and location: December 4, 2019 at Room 251C, Hilgard Hall, University of California, Berkeley <br>
-
-* Speaker: Dr. Sarah Allen (US National Park Service) <br>
-
-* Talk title: A paradigm shift in conservation of public lands for 21^st^ century <br>
-
-* Role: Member of The Society of Conservation Biology Berkeley Chapter <br>
 
 
 
