@@ -1,0 +1,62 @@
+---
+title: "&nbsp;"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: [../../css/Research.css, ../../css/navbar.css, ../../css/body.css]
+    includes:
+      in_header: ../../heros/Research_hero.html
+      after_body: ../../footer.html
+---
+
+<style>
+h1 {text-align: center !important; 
+   font-weight: bold !important; 
+   font-size: 36px !important;
+   line-height: 1.5em;}
+   
+h2 {font-weight: bold !important;} 
+   
+.External_link{
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 60px;
+}
+
+</style>
+
+<div>
+# Ecological impacts of a predator pheromone on insect communities in potato fields
+</div>
+
+<br>
+
+## Project Summary
+<div style="height: 0.25em;"></div>
+
+XXX
+
+<div style="height: 1em;"></div>
+
+XXX
+
+<div style="height: 1em;"></div>
+
+XXX
+
+<div style="height: 1em;"></div>
+
+XXX
+
+<br>
+
+## Publication
+<div style="height: 0.25em;"></div>
+
+<p>Martinez, L., A. Trejo, S. Paz-Le Draoulec, <b><u>G-C. Hsu</u></b>, and J.S. Thaler. 2026. Evaluating the impact of a synthetic predator pheromone, a novel pest management tool, on target pests and insect communities in potato fields. <i>*Journal of Insect Science*</i>. (accepted)</p> 
+<!-- <a href="https://doi.org/10.1098/rsos.241265" target="_blank"> https://doi.org/10.1098/rsos.241265</a> -->
+
