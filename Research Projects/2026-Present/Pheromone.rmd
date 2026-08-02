@@ -30,7 +30,7 @@ h2 {font-weight: bold !important;}
 </style>
 
 <div>
-# Ecological impacts of a predator pheromone on insect communities in potato fields
+# Ecological impacts of a predator pheromone on pest-enemy interactions and insect communities in potato fields
 </div>
 
 <br>
@@ -38,19 +38,19 @@ h2 {font-weight: bold !important;}
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
-XXX
+Pheromones play a central role in mediating insect trophic interactions, and there has been increasing use of insect pheromones in agricultural systems for pest management. In potato fields, the generalist predator spined soldier bug (*Podisus maculiventris*) is an important natural enemy of the potato pest the Colorado potato beetle (*Leptinotarsa decemlineata*). The predatory spined soldier bug emits an aggregation pheromone, which has been shown to reduce beetle larval feeding and adult oviposition in the lab. This pheromone can be synthesized chemically, offering a promising alternative to conventional pesticides. So can we apply the synthetic predator pheromone in the field to deter pest beetles? And how will this affect other non-target insect species?
 
 <div style="height: 1em;"></div>
 
-XXX
+To answer these questions, we put out the synthetic predator pheromone in dispensers in potato fields and conducted weekly surveys of insect communities, including the target pest the Colorado potato beetle, non-target herbivores (e.g., aphids and leafhoppers), and natural enemies (e.g., spined soldier bug, pink ladybeetle [*Coleomegilla maculata*], ground beetle [*Lebia grandis*], and spiders). We also deployed sentinel eggs to see if the pheromone altered predation rates in the field. In the greenhouse, we conducted complementary feeding assays on several natural enemies of the Colorado potato beetle, including the pink ladybeetle adults and fourth-instar larvae, the ground beetle adults, the green lacewings (*Chrysoperla rufilabris*) third-instar larvae, and the spined soldier bug adults. We exposed these predators to the synthetic pheromone and measured egg predation rates in a 24-hour period.
 
 <div style="height: 1em;"></div>
 
-XXX
+We found that beetle larval abundance was on average 32% lower in the pheromone-treated plots compared to the control plots, whereas the abundances of other non-target herbivores and natural enemies were generally not affected the pheromone. Moreover, egg predation rates were nearly five times higher in pheromone-treated plots. Greenhouse feeding assays further showed that the spined soldier bug adults consumed more beetle eggs in response to the synthetic pheromone, while other predators did not change their feeding rates. 
 
 <div style="height: 1em;"></div>
 
-XXX
+These results suggest that the effects of the synthetic predator pheromone can be relatively specific to the target beetle pest while having minimal impacts on other community members. Interestingly, the effects of pheromone appear to operate through behavioral modification (e.g., increasing predator rates) rather than through numerical response (e.g., recruiting natural enemies from outside the field). This behavioral effect is an interesting topic for future research. Combining field observations and greenhouse assays, our study highlights the potential of this predator pheromone as part of the integrated pest management toolkit for potato. More field tests at larger spatial scales will help evaluate the effectiveness of this novel pest management approach.
 
 <br>
 
