@@ -38,17 +38,36 @@ h2 {font-weight: bold !important;}
 ## Project Summary
 <div style="height: 0.25em;"></div>
 
-XXX
+Urbanization is among the most pervasive drivers of contemporary environmental changes. It imposes a complex suite of abiotic and biotic pressures on organisms worldwide, including the most diverse group of animals—insects. Urban environments contain a variety of stressors, such as high temperatures, chemical pollution, noise pollution, light pollution, habitat fragmentation, human activities, and exotic species. Insects respond to those urban factors by shifting their morphology, behavior, and physiology, with potential consequences for population and community dynamics. In this review, we attempt to synthesize past and current evidence of insect responses to urbanization, discuss the mechanisms of these responses, and identify key knowledge gaps and future research directions.
 
 <div style="height: 1em;"></div>
 
-XXX
+Regarding morphological responses, insects often exhibit shifts in their body sizes. Some insects show reduced body sizes because of urban heat island (UHI) effects. Accordingly to the temperature-size rule, warmer urban temperatures should lead to smaller body sizes. However, other insects show increased body sizes because of abundant floral resources in city gardens and parks. Habitat fragmentation also favors larger, more mobile individuals with longer legs and larger wings, which confer locomotory advantages. Insect coloration changes in urban environments as well. Pollution can lead to increased melanism. A classic example is the industrial melanism of pepper moth because darker individuals are less likely to be found on polluted tree trunks by predators. In contrast, UHIs may favor lighter coloration because it helps with thermoregulation.
 
 <div style="height: 1em;"></div>
 
-XXX
+Regarding behavioral responses, the daytime and nighttime foraging activities of insects can increase because of urban warming and artificial light at night (ALAN). Urban individuals also tend to display bolder and more exploratory behaviors. Moreover, anti-predator responses, such as the evasive flights of moths, may be suppressed by ALAN. Perhaps most consequential, insect reproductive behaviors, including mate finding, mate signalling, mate choice, courtship display, and oviposition site selection, can shift in urban environments. For example, ALAN can interfere with mate signalling in fireflies; noise pollution can reduce phonotaxis in crickets; and non-native host plants can alter oviposition site selection by female butterflies. All of these disruptions can have profound fitness consequences.
+
+<div style="height: 1em;"></div>
+
+Regarding physiological responses, the upper thermal tolerance in insects typically increases, whereas the lower thermal tolerance typically decreases. Thermal performance may also increase under warmer urban temperatures. Urban dry islands can alter osmoregulation and dessication tolerance in insects, although research on this topic is still limited. Interestingly, emerging evidence suggests that dietary shifts can serve as a coping mechanism: urban ants show increased lipid consumption relative to protein to produce more metabolic water that helps ease desiccation stress. UHIs and pollution increase stress levels and disrupt insect body functions such as hormonal signalling and immune response. Finally, insect seasonal physiology can shift in urban environments. For instance, ALAN can suppress diapause induction, and urban warming can advance spring emergence. These altered seasonal patterns can affect population dynamics through changes in overwinter survival and voltinism.
+
+<div style="height: 1em;"></div>
+
+The aforementioned morphological, behavioral, and physiological responses do not act alone. Instead, they often interact with each other. For example, behavioral thermoregulation can buffer physiological stress and thereby reduce the intensity of selection on thermal tolerance ("Bogert effect"). Moreover, suites of traits can co-vary or be co-selected under shared urban pressures, generating "urban trait syndromes": smaller body size, bolder behavior, higher activity level, greater dietary breadth, faster development, increased thermal tolerance, etc. Finally, multiple urban stressors can jointly shape insect responses. For instance, ALAN and urban warming can have synergistic effects on the nighttime activities of mosquitoes and the suppression of diapause in flesh flies.
+
+<div style="height: 1em;"></div>
+
+Insect responses to urbanization arise from two mechanisms: phenotypic plasticity and evolutionary changes. Disentangling them will require common garden and reciprocal transplant experiments. Furthermore, not all insect responses are adaptive. Maladaptation may occur when historically reliable environmental cues become decoupled from fitness outcomes. One example is that the polarized light reflected from solar panels or sports fields attracts aquatic insects to unsuitable oviposition sites, creating an "ecological trap" that reduces individual fitness. 
+
+<div style="height: 1em;"></div>
+
+In the last part of the review, we highlight some key knowledge gaps and future directions. First, we found strong geographical and taxonomic disparities. Most studies were conducted in North America and Europe, whereas studies from tropical areas and the Global South are under-represented. Moreover, current research is largely limited to a few insect groups (e.g., ground beetles, moths, bees, fruit flies, and crickets), stressing the need for broader taxonomic coverage. Second, multi-stressor experiments and studies on the interactions between trait responses are still relatively rare, but they are crucial for a comprehensive understanding of how insects respond to urbanization. Third, more attention is needed on understudied trophic guilds such as detritivores and scavengers, whose ecosystem functions are critical but responses to urbanization remain poorly characterized. Lastly, we need long-term monitoring that tracks the pace and limits of insect responses across multiple generations. Understanding the mechanisms and the constraints underlying insect adaptation to urban environments is essential for conserving biodiversity and sustaining ecosystem services in an increasingly urbanized world.
 
 <br>
+
+
+
 
 ## Publication
 <div style="height: 0.25em;"></div>
