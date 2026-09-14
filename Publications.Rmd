@@ -96,6 +96,8 @@ h1 {text-align: center !important;
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2026_Journal_of_Insect_Science.pdf" target="_blank">PDF</a> -->
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2026_Review_of_Insect_Responses_to_Urban_Environments" target="_blank">GitHub</a>
 
+<div style="height: 0.3em;"></div>
+
 12. <p>Martinez, L., A. Trejo, S. Paz-Le Draoulec, <b><u>G-C. Hsu</u></b>, and J.S. Thaler. 2026. Evaluating the impact of a synthetic predator pheromone, a novel pest management tool, on target pests and insect communities in potato fields. <i>*Journal of Insect Science*</i>. (accepted)</p>
 <!-- <a class="External_link btn btn-primary btn-outline btn-xs" href="./Publications/Journal Articles/2026_Journal_of_Insect_Science.pdf" target="_blank">PDF</a> -->
 <a class="External_link btn btn-primary btn-outline btn-xs" href="https://github.com/GenChangHSU/2026_Ecological_Impacts_of_Predator_Pheromone_in_Potato_Fields" target="_blank">GitHub</a>
