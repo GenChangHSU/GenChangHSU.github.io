@@ -57,6 +57,5 @@ These results suggest that the effects of the synthetic predator pheromone can b
 ## Publication
 <div style="height: 0.25em;"></div>
 
-<p>Martinez, L., A. Trejo, S. Paz-Le Draoulec, <b><u>G-C. Hsu</u></b>, and J.S. Thaler. 2026. Evaluating the impact of a synthetic predator pheromone, a novel pest management tool, on target pests and insect communities in potato fields. <i>*Journal of Insect Science*</i>. (accepted)</p> 
-<!-- <a href="https://doi.org/10.1098/rsos.241265" target="_blank"> https://doi.org/10.1098/rsos.241265</a> -->
+<p>Martinez, L., A. Trejo, S. Paz-Le Draoulec, <b><u>G-C. Hsu</u></b>, and J.S. Thaler. 2026. Evaluating the impact of a synthetic predator pheromone, a novel pest management tool, on target pests and insect communities in potato fields. <i>*Journal of Insect Science*</i> 26(4): ieag086. <a href="https://doi.org/10.1093/jisesa/ieag086" target="_blank"> https://doi.org/10.1093/jisesa/ieag086</a></p> 
 
