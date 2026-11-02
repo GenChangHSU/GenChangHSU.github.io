@@ -7,7 +7,7 @@ library(leaflet)
 library(mapview)
 library(sf)
 library(sp)
-library(rgdal)
+# library(rgdal)
 library(webshot)
 
 ### Base map
